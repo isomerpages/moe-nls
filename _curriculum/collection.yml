@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Framework and Objectives.md
+      - Character Education/GRIT Week.md
       - Character Education/.keep
       - Character Education/Character Education.md
       - Character Education/Department Home.md
