@@ -2,6 +2,7 @@ collections:
   school:
     output: true
     order:
+      - Publications.md
       - About Us/.keep
       - About Us/About Us.md
       - About Us/School Song.md
