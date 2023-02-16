@@ -168,5 +168,11 @@ _For Girls_
 **REFLECTION CENTRE (RC)**<br>
 The Discipline Committee recognizes that apart from corrective approaches, the restorative processes are also essential in ensuring a child’s positive growth and development. To help us achieve the desired outcomes, we have continuously adopted the Restorative Approach, where the focus is not just on the consequences and punishment. In 2019, Semester 2, the Reflection Centre (RC) was set up with the hope of providing better support in terms of discipline processes. When in the RC, the Pastoral Care Officer (PCO) will engage and guide them in a reflection session where they were made to pen down their thoughts on a reflection form. Through the session, the PCO is able to surface some cases where students may need immediate intervention and follow up by Form Teachers, Discipline Master/Mistress or the School Counsellors.
 
+<img src="/images/DisciplineRC01.jpg" style="width:49%" align=left>
+<img src="/images/DisciplineRC02.jpg" style="width:49%" align=right>
+<br clear="left"><br>
 
+PROGRAMMES<br>
+**GAMES HQ:**
 
+To ensure a safe physical environment where there is care for the students in the morning and after school, the Games HQ provided a safe haven for the students to gather. It is equipped with machines and games that promote healthy interactions with peers. To ensure sustained interest in the students to be engaged in school, new games and machines are being introduced once in a semester. Free Wifi is also provided for the students who wished to be engaged in their own games via their mobile phones. The Discipline Committee members actively engage and interact with our students through monthly events and competitions held in the Games HQ.
