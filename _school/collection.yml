@@ -2,6 +2,7 @@ collections:
   school:
     output: true
     order:
+      - School Policy/DATA PROTECTION POLICY.md
       - School Policy/.keep
       - About Us/.keep
       - About Us/About Us.md
