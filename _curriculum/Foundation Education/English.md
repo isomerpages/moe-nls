@@ -47,3 +47,16 @@ In addition to emphasising customised instruction, NLS believes that language ac
 <img src="/images/Library Training.jpg" style="width:49%" align=right>
 <br clear="left"><br>
 
+* **Specific Instruction \[Use of Pedagogies\]**
+
+<img src="/images/Reading Lesson.jpeg" style="width:40%" align=right>
+Customising curriculum and pedagogical approaches to individual needs is critical to helping students who have failed to become literate despite efforts in their Primary schools. Students in NLS assessed to better gauge their reading age and ability so that instructions could be tailor made to make it accessible for them. PM Readers which have vocabulary that are pegged to the appropriate reading age yet contains content that is suitable for adolescent readers are used to build confidence by providing the appropriate level of challenge and ensure that students’ nascent vocabulary is built on and reinforced progressively. In terms of pedagogies, the school makes use of IT and co-operative teaching strategies to scaffold learning effectively. Beside, Differentiated Instruction (DI) and Making Thinking Visible (MTV) tools like See Think Wonder are used to engage the students. Peer teaching allows stronger readers to give individualised assistance to weaker ones while reinforcing their own learning. For the extreme outliers, who suffer from reading disabilities such as dyslexia or issues with memory retention, our in-house literacy coaches provide help by adopting a variety of approaches including whole word learning and explicit teaching of phonics strategies.
+
+*   **Competent and Confident Communicators \[Student Centred\]**  
+    The learner is at the centre of the learning process. Students of NLS will learn English useful in their specific situations and occupations. At the end of their stay at NLS, students will be able to communicate effectively in English. They will be able to:
+    *   interact effectively with people in a variety of social contexts.
+    *   listen to speeches and presentations with the attitude to learn and understand.
+    *   speak, write and make presentations in internationally acceptable English that is grammatical, fluent and appropriate for purpose, audience, context and culture.
+    *   read and view with understanding, accuracy and appreciation of texts.
+    *   produce functional, transactional texts, e.g. reports, letters and completing forms.
+    *   present information through different modes to create impact.
