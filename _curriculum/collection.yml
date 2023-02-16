@@ -2,8 +2,8 @@ collections:
   curriculum:
     output: true
     order:
-      - Character Education/.keep
       - Framework and Objectives.md
+      - Character Education/.keep
       - Foundation Education/.keep
       - Foundation Education/Foundation Education.md
       - Foundation Education/English.md
