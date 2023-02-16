@@ -60,3 +60,30 @@ The ICT programme comprises four components namely Skills, Cyberwellness, Projec
 **CYBERWELLNESS**
 
 <img src="/images/ICTCyberwellness.jpg" style="width:85%">
+
+NorthLight School Cyber Wellness programme is designed to create cyber awareness by instilling values in our students so that they can be safe and make respectful and responsible decisions online.
+
+The school reaches out to students through classroom teaching, assembly talks, learning journeys and campaigns.
+
+The curriculum is guided by the two foundational principles of **'Respect for Self and Others'** and **'Safe and Responsible Use'** and delivers **four key messages**
+
+*   Embrace ICT yet maintain balanced lifestyle between the physical and cyber world
+*   Harness the power of ICT for positive purposes
+*   Maintain a positive presence in cyber space
+*   Be a safe and responsible user of ICT
+
+Lessons are delivered through **four themes**:
+
+*   Cyber Use – balanced life and balanced use
+*   Cyber Identity – healthy self-identity
+*   Cyber Relationships – safe and meaningful relationships
+*   Cyber Citizenship – positive presence
+
+Newspaper articles and video clips are used as content for lessons. These articles and clips are grouped into the different principles to inculcate the habit amongst students to  **S**ense, **T**hink, **A**ct **R**esponsibly in their online activities. These materials are used as discussion points in the lessons.
+
+**ASSESSMENT AND CERTIFICATION**<br>
+Students are trained and provided with the opportunity to undertake the **International Computer Driver License (ICDL)** certification, endorsed by the Workforce Development Authority (WDA) as part of the Workforce Skills Qualifications (WSQ).
+
+The attainment of the internationally recognised ICDL certification will help to enhance their employability and complement their education pursuits upon graduation.
+
+<img src="/images/ICT-ICDL.jpg" style="width:85%">
