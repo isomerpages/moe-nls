@@ -26,3 +26,11 @@ If you need financial assistance and wish to apply for MOE FAS or school-based f
 
 If you have any enquiries, please contact the General Office at 6929 6290.
 
+**1 \.    Application Date**<br>
+There is no cut-off date for application to the MOE Financial Assistance Scheme (FAS). You can apply for MOE FAS for your child any time.
+
+**2 \.    Eligibility Criteria**
+*   Full-time student of NorthLight School
+*   Singapore Citizen
+
+**3 \.    Income Limits**
