@@ -27,3 +27,10 @@ Edusave Awards are given by the government annually to Singaporeans pupils to he
 | <br><br><br>Lee Hsien Loong Award for Special Achievement  | The Singaporean graduate will be nominated based on the following:<br>a.  Good Academic Achievement (GPA of 2.5 or better and qualified for ITE)<br>b.  Good CCA record<br>c.  Contribution to school and community<br>d.  Strong Leadership qualities (at class, CCA or school level)<br>e.  Positive Character Development (good conduct, positive attitude towards learning & self-improvement)  | <br><br><br><br><br>$600  |
 | <br><br>Tay Eng Soon Scholarship  | The Singaporean **OR** Permanent Resident graduate, who has achieved the following:<br>a.  outstanding results in his/her course at NLS<br>b.  commencing his/her full-time ITE Nitec courses<br>c.  He/she possesses good records of active participation in CCA and is not financially sponsored by employers.  | <br><br>*   $500<br>*   Waiver of ITE tuition fees  |
 |   |   |   |
+
+#### PARTNER AWARDS
+
+| Type of Award  | Eligibility Criteria  | Quantum  |
+|:-:|---|---|
+| <br><br><br><br><br><br>NTUC Fairprice Education Grant  | The Singaporean graduate will be nominated based on the following:<br>*   Must be Singapore Citizen or PR<br>*   Sound Character<br>*   Vocational specialisation in Retail Operations and able to complete the course<br>*   Award recipients are not eligible to hold another bursary, scholarship or study award. **Exception for MOE/School Based FAS & Edusave Awards**<br>*   Attendance rate of at least 80% for entire academic year<br>*   Conduct of at least "Good", for final semester in the academic year<br>*   All ISC modules to be graded at least "C" and above<br>*   Recipients can be 3rd or final year Retail Operation students  | <br><br><br><br><br><br><br><br>$1,000  |
+|   |   |   |
