@@ -72,3 +72,18 @@ c. Keep the data collected for as long as there is a necessity to provide the se
 
 ##### CONTACTING US – WITHDRAWAL OF CONSENT, ACCESS AND CORRECTION OF YOUR PERSONAL DATA
 
+12 \. You may contact our Data Protection Officer if you have any queries or feedback on our personal data protection policies and procedures, or if you:
+
+a. Have any questions or feedback relating to your Personal Data or our Data Protection Policy;
+
+b. Would like to withdraw your consent to any use of your Personal Data; or
+
+c. Would like to obtain access and make corrections to your Personal Data,
+
+13 \. Please contact us via email to [nls@schools.gov.sg](mailto:nls@schools.gov.sg) with the subject title ‘PDPA Policy’ and addressed to Data Protection Officer, NorthLight School. You may also write to us at NorthLight School (Attn: Data Protection Officer), 151 Towner Road, Singapore 327830.
+
+##### UPDATES ON DATA PROTECTION POLICY
+
+14 \. As part of our efforts to ensure that we properly manage, protect and process your personal data, we will be reviewing our policies, procedures and processes from time to time.
+
+15 \. We may amend the terms of this Data Protection Policy at our absolute discretion. Any amended Data Protection Policy will be posted on our website and can be viewed at [https://nls.edu.sg/school/data-protection-policy](https://nls.edu.sg/school/data-protection-policy). **LINK NOT FOUND**
