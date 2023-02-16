@@ -100,3 +100,20 @@ A brief outline for the curriculum is shown in the table below.
 | Education & Career Guidance  | Career & Finance  | Career & Finance  |   |
 | National Education  | The World & SG  | The World & SG  |   |
 |   |   |   |   |
+
+##### NLP ASSESSMENT IS BASED ON THE FOLLOWING MODES:
+
+*   Project work
+*   Performance tasks
+*   Observation
+
+##### STUDENT WELL-BEING
+
+Various support programmes are in place to provide provision of care for our students. These support programmes ensure their socio-emotional well-being and development. They are supported by Year Heads, Discipline Masters, Teachers, Full Time School Counsellors, Educational Psychologists, School Welfare Officers, School Health Advisors and Pastoral Care Officers
+
+(a) Counselling<br>
+Various personnel in the school will help to facilitate the personal growth, development and self-understanding of every child in NLS. This in turn, empowers the child to adopt more positive and constructive life practices. Counselling can help our students to develop a clearer understanding of their concerns and challenges and thus help them to acquire new skills to better manage their personal as well as educational issues.
+
+##### PARTNERSHIPS
+
+NorthLight School strives to form strategic partnerships with our stakeholders, anchored on the various key approaches with the aim of developing the 21st century competencies in our students. The guiding principle is grounded on the belief that the home, school, industry and community have a shared goal to create an environment that best supports all NLS’ students learning and development. Parents have a primary influence on their children’s total development, while schools provide the foundations through formal education. Industry and community partnerships present authentic opportunities to build the students’ sense of identity and responsibility towards the community and nation. The home, school, industry and community must work together in mutual trust, respect and understanding to bring the best out of the students.
