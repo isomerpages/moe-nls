@@ -2,7 +2,6 @@ collections:
   school:
     output: true
     order:
-      - Publications.md
       - About Us/.keep
       - About Us/About Us.md
       - About Us/School Song.md
@@ -19,3 +18,4 @@ collections:
       - Student Informations/Fees, Financial Assistance and Uniform.md
       - Student Informations/Education Grants and Scholarships.md
       - Student Informations/Shuttle Bus.md
+      - Publications.md
