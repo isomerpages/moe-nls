@@ -19,3 +19,16 @@ As one of three main pillars of character development and holistic education, Ph
 <p><a href="https://www.ezhishi.net/CKPSebook2022/">
 <img style="width:20%" align=right src="/images/readmore.jpg">
 </a></p>
+<br clear=right><br><br>
+
+<img src="/images/ce2.jpg" style="width:85%">
+
+**CHARACTER AND CITIZENSHIP EDUCATION**<br>
+**Our Mission :**<br>
+Nurturing students to be self-disciplined individuals that live out their values effectively.
+
+Our Approach: Support and sustain (Children learn best in supportive environment)
+
+Involve stakeholders in implementing discipline structures<br>
+Clear understanding of codes of behaviours and roles<br>
+Focus on success (catch them good)<br>
