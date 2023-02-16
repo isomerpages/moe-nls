@@ -111,28 +111,24 @@ third_nav_title: School Organisation
 | Mr Jespal Singh Mann  | Teacher  |
 | Mr Ramsey Ram  | Teacher Aide  |
 |   |   |
+| **Retail Services**  |   |
+| Ms Ng Hwee Ming Angeline  | HOD  |
+| Mr Lim Thiam Chye  | Teacher  |
+| Ms Chu Siu King Della  | Teacher  |
+| Mdm Hamidah Bte Musa  | Teacher  |
+| Mr Han Tock Juan  | Teacher  |
+| Mr Chan Mun Wai Alex  | Teacher  |
+| Ms Teo Hwee Cheng  | Teacher  |
+| Mr Woo Sau Hoong  | Teacher  |
+| Ms Ang Yen San May  | Teacher  |
+| Mr Loi Tsuan-Yien  | Teacher  |
+| Mr Ng Chee Wai Darran  | Teacher  |
 |   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
+| **Community Care Support**  |   |
+| Ms Beatrice Tan Li Khoon  | HOD  |
+| Ms Lim Peck Gee  | Level Head  |
+| Mr Low Yong Choong Jesper  | Teacher  |
+| Ms Geraldine Cheah Soh Kuan  | Teacher  |
+| Ms Phua Shiok Horng Betty  | Teacher  |
+| Ms Bemish Manen Chee  | Teacher  |
 |   |   |
