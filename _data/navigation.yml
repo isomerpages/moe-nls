@@ -3,7 +3,7 @@ links:
   - title: School
     collection: school
   - title: Curriculum
-    url: /permalink
+    url: /curriculum/framework-obj/
     sublinks:
       - title: Framework and Objectives
-        url: /permalink
+        url: /curriculum/framework-obj/
