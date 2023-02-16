@@ -181,6 +181,8 @@ To ensure a safe physical environment where there is care for the students in th
 **SPARKS@NLS:**<br>
 SPARKS@NLS is an after-school engagement programme that is targeted at identified group of students in need of extensive mentoring. It is runs twice weekly (2 hours per session) from February to November. The school works with community partners to provide customised support and after-school engagement, and strengthen our students’ social-emotional (SE) competencies and social skills. The programme focuses on deliberate and intended effort towards tackling identified issues and correcting factors that exist within our youths to enable them to stay clear of undesirable activities and enhance their chances of success.
 
-<img src="/images/eng6.jpeg" style="width:49%" align=left>
-<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<img src="/images/DisciplineSparks01.jpg" style="width:49%" align=left>
+<img src="/images/DisciplineSparks02.jpg" style="width:49%" align=right>
 <br clear="left"><br>
+
+<img src="/images/DisciplineSparks03.jpg" style="width:60%">
