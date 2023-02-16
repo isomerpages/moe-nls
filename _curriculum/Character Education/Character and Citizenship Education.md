@@ -90,3 +90,11 @@ There are 5 broad objectives:
 *   Develop students to become concerned citizens by helping them to better understand the interconnectedness of Singapore and the world we live in
 
 A brief outline for the curriculum is shown in the table below.
+
+| Domains  | NLP Components  |   |   |
+|:-:|---|---|---|
+|   | Year 1  | Year 2  | Year 3  |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
