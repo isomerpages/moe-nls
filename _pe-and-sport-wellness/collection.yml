@@ -2,6 +2,7 @@ collections:
   pe-and-sport-wellness:
     output: true
     order:
+      - PE Programmes/Sports & Games.md
       - PE Programmes/.keep
       - Department Home.md
       - Mission & Vision.md
