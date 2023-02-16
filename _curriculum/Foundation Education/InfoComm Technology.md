@@ -45,3 +45,12 @@ The design of the curriculum aims to provide opportunities for students to perfo
 
 **CURRICULUM COMPONENTS**<br>
 The ICT programme comprises four components namely Skills, Cyberwellness, Project Work and Habits of Mind.
+
+| Curriculum Component  | Content  |
+|:-:|---|
+| Skills  | The Skills component equips students to be competent users of Microsoft productivity tools (Presentation, Document processing and Spreadsheets). The skills are taught in a progressive approach through hands-on learning tasks and application.  |
+| Cyberwellness  | The Cyberwellness component is aligned to MOE's Cyber Wellness Framework and advocates a Sense-Think-Act-Responsibly approach in the use of cyber space.  <br><br>Cyberwellness education is integrated as part of the ICT curriculum and supplemented with school-based programmes.  |
+| Project Work  | The Project Work component anchors on the Maker Spirit which involves students in collaborative tasks to create technology-enabled artefacts.  <br><br>Students develop computational thinking through learning about basic block-based programming and work with one another in groups towards a common goal.  |
+| Habits of Mind  | The Habits of Mind (HOM) component is incorporated into the ICT curriculum, in line with the whole-school approach to inculcate good learning habits and thinking dispositions among our students.  |
+|   |   |
+
