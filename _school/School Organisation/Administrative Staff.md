@@ -29,20 +29,13 @@ third_nav_title: School Organisation
 | Mdm Hawa Bte Hj Mohd  | Senior Executive Assistant, Media Resource Library  |
 |   |   |
 | **Operations Unit**  |   |
-| Mr Sulaiman Bin Kitto  |   |
+| Mr Sulaiman Bin Kitto  | Manager  |
+| Mr Stephen Yew Kay Chong  | Senior Executive Assistant, Operations  |
 |   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
+| **Student Affairs Unit**  |   |
+| Mr Chua Kok Boon, Desmond  | Manager  |
+| Ms Yeo Poh Lin, Elaine  | Senior Executive, Student Affairs  |
+| Mdm Norsiah Bte Adam  | Executive,  Student Affairs  |
+| Ms Lek Chiew Gek, Shireen  | Senior Executive Assistant ,  Student Affairs  |
+| Ms Quan Ming Wai, Christine  | Executive,  Student Affairs  |
 |   |   |
