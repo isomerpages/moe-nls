@@ -63,7 +63,7 @@ We believe in disciplining with care. When we discipline a student, it is not to
 
 We hope that with love, care and clear established rules, our students will choose to live out the school’s values and be responsible in creating a positive learning environment.
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/curriculum/Character-Education/discipline/">
 <img style="width:20%" align=right src="/images/readmore.jpg">
 </a></p>
 <br clear=right><br><br>
