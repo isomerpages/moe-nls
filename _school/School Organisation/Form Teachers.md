@@ -55,9 +55,6 @@ third_nav_title: School Organisation
 | <br><br>4FS2  | NG SEOW KENG, KEN <br><br> KHAIROL HISHAM BIN MOHAMED SANI<br><br>  MOHAMAD SUHAILI BIN ABDUL LATIFF  | [ng\_seow\_keng@schools.gov.sg](mailto:ng_seow_keng@schools.gov.sg)<br><br>[khairol\_hisham\_b\_mohamed@schools.gov.sg](mailto:khairol_hisham_b_mohamed@schools.gov.sg)<br><br><br>[mohamad\_suhaili\_abdul\_latiff@schools.gov.sg](mailto:mohamad_suhaili_abdul_latiff@schools.gov.sg)  |
 | <br>4HS1  | CHUA BOON HOU, FELIX <br><br> PATSON LOW TUCK WOH  | [chua\_boon\_hou\_felix@schools.gov.sg](mailto:chua_boon_hou_felix@schools.gov.sg)<br><br>[patson\_low\_tuck\_woh@schools.gov.sg](mailto:patson_low_tuck_woh@schools.gov.sg)  |
 | <br><br>4HS2  | MICHAEL CHELVARAJAH POORE <br><br> SHAZAWANI BEGUM BINTE ABDUL KARIM  | [michael\_poore@schools.gov.sg](mailto:michael_poore@schools.gov.sg)<br><br><br>[shazawani\_begum@schools.gov.sg](mailto:shazawani_begum@schools.gov.sg)  |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+| <br>4RS1  | HAMIDAH BINTE MUSA <br><br> YEW HONG HONG, APRIL  | [hamidah\_musa@schools.gov.sg](mailto:hamidah_musa@schools.gov.sg)<br><br>[tay-yew\_hong\_hong\_april@schools.gov.sg](mailto:tay-yew_hong_hong_april@schools.gov.sg)  |
+| <br>4RS2  | TEO HWEE CHENG <br><br> LOI TSUAN-YIEN  | [teo\_hwee\_cheng@schools.gov.sg](mailto:teo_hwee_cheng@schools.gov.sg)<br><br>[loi\_tsuan\_yien@schools.gov.sg](mailto:loi_tsuan_yien@schools.gov.sg)  |
 |   |   |   |
