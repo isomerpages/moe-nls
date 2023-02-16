@@ -67,3 +67,17 @@ Singapore 460209
 Phone Number : 6276  6689<br>
 Email Address   : [myuniformshop@yahoo.com](mailto:myuniformshop@yahoo.com)<br>
 Website               : [http://www.myuniformshop.com.sg](http://www.myuniformshop.com.sg/)
+
+<u><b>Operating Hours:</b></u>
+
+The school uniform is available for purchase at Level 1, Hospitality Room (opposite NLS Cafe):
+
+– Every Monday: 9.30 a.m. to 11.30 a.m.
+
+Alternatively, you may purchase directly from their retail shop at the above address.
+
+<u><b>Retail shop Operating Hours:</b></u>
+
+– Monday, Wednesday, Thursday and Friday: 3.00 p.m. to 8.00 p.m.<br>
+– Saturday and Sunday: 10.00 a.m. to 4.00 p.m.<br>
+– Closed on Tuesday and Public Holidays
