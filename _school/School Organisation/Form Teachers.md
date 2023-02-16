@@ -43,8 +43,8 @@ third_nav_title: School Organisation
 | <br>3FS2  | KWAN CHONG HOW <br><br> ONG CHONG CHENG KEVIN  | [kwan\_chong\_how@schools.gov.sg](mailto:kwan_chong_how@schools.gov.sg)<br><br>[ong\_chong\_cheng@schools.gov.sg](mailto:ong_chong_cheng@schools.gov.sg)  |
 | <br>3HS1  | TOON CHOON HUAT, LAWRENCE <br><br> THERESA NG CHEN WOON  | [toon\_choon\_huat@schools.gov.sg](mailto:toon_choon_huat@schools.gov.sg)<br><br>[theresa\_ng\_chen\_woon@schools.gov.sg](mailto:theresa_ng_chen_woon@schools.gov.sg)  |
 | <br>3HS2  | HENG AIK KWANG, DAVID <br><br> NUR ATIKA BINTI MOHAMED NAIM  | [heng\_aik\_kwang\_david@schools.gov.sg](mailto:heng_aik_kwang_david@schools.gov.sg)<br><br>[nur\_atika\_mohamed\_naim@schools.gov.sg](mailto:nur_atika_mohamed_naim@schools.gov.sg)  |
-| 3RS1  |   |   |
-| 3RS2  |   |   |
+| <br><br>3RS1  | CHU SIU KING, DELLA <br><br> JUSTINE YOONG YUPING <br><br> CHEN WEI TENG  | [della\_chu@schools.gov.sg](mailto:della_chu@schools.gov.sg)<br><br>[justine\_yoong\_yuping@schools.gov.sg](mailto:justine_yoong_yuping@schools.gov.sg)<br><br>[chen\_wei\_teng@schools.gov.sg](mailto:chen_wei_teng@schools.gov.sg)  |
+| <br>3RS2  | NG CHEE WAI DARRAN <br><br> KANCHANA D/O VARATHARAJALU  | [ng\_chee\_wai\_darran@schools.gov.sg](mailto:ng_chee_wai_darran@schools.gov.sg)<br><br>[kanchana\_varatharajalu@schools.gov.sg](mailto:kanchana_varatharajalu@schools.gov.sg)  |
 |   |   |   |
 |   |   |   |
 |   |   |   |
