@@ -4,4 +4,6 @@ links:
     collection: school
   - title: Curriculum
     url: /permalink
-    sublinks: []
+    sublinks:
+      - title: Framework and Objectives
+        url: /permalink
