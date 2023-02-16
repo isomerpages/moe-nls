@@ -93,3 +93,9 @@ c.    Propriety: NLS shall not condone any frivolous, mischievous or malicio
 
 16 \.  For reporting by mail, the whistle-blower can send the letter to the following address and attention to the relevant investigation members:
 
+|   |   |
+|:-:|---|
+| Attn:  | (Select relevant person(s) in accordance to para 15) **Principal; or Cluster Superintendent; or Chairman BOD; or Chairman ARC**  |
+| Re:  | **Whistle-blowing Matters**  |
+| Address:  | NorthLight School<br>151 Towner Road<br>Singapore 327830  |
+|   |   |
