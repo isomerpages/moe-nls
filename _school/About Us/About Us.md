@@ -30,3 +30,16 @@ A school of choice preparing youth for life and living.
 
 **Tagline:**<br>
 A living and learning community.
+
+**Values: S.H.I.N.E**
+
+*   Sincerity, our way
+*   Honesty, our foundation
+*   Innovation, our leverage
+*   Network, our support
+*   Excellence, our pursuit
+
+#### THE CREST
+
+<img src="/images/The Crest-1.jpg" style="width:85%">
+<img src="/images/The Crest-2.jpg" style="width:85%">
