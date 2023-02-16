@@ -36,3 +36,9 @@ Build up quality relationships<br>
 Strong involvement of students<br>
 Clear and convenient system for obtaining emotional or additional support<br>
 Sustained encouragement
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:20%" align=right src="/images/readmore.jpg">
+</a></p>
+<br clear=right><br><br>
+
