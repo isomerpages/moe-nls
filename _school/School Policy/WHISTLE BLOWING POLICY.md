@@ -79,3 +79,6 @@ c.    Propriety: NLS shall not condone any frivolous, mischievous or malicio
 
 ##### REPORTING A CONCERN
 
+14 \. All concerns should be made in writing, either in the form of a letter or email, and should include the background, history of events, reasons for raising the concern, persons involved and evidence to support the concern raised.
+
+15 \.  The concern raised can be raised via email with the subject title **‘Whistle-blowing Policy’** and addressed to the relevant investigation team members.
