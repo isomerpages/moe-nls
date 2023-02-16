@@ -38,3 +38,12 @@ Students learn best when they appreciate the real-world contexts in which their 
 
 * **Total approach for Language Learning \[Experiences of Learning\]**  
 In addition to emphasising customised instruction, NLS believes that language acquisition is best facilitated by integrated teaching of the different language components, i.e. listening, speaking, reading and writing, reinforcing and supporting each other in a holistic way. In particular, teachers reinforce the learning of reading in class by providing opportunities for students to engage in listening (e.g. watching and listening of selected movie and audio clips), speaking (e.g. engaging in dialogues, reading to the class) and writing (e.g. writing diary, accounts, speeches, emails and etc).The integrated teaching of the different language components help students to progress from learning to read (i.e. print skills such as building phonemic awareness, word recognition, spelling and improving reading accuracy and fluency) to reading to learn (i.e. meaning skills such as increasing vocabulary and developing comprehension strategies).
+
+<img src="/images/Spelling Bee 2021 Y1Y2.jpg" style="width:49%" align=left>
+<img src="/images/Spelling Bee 2021 Y3Y4.jpeg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/ISpeak Programme.jpeg" style="width:49%" align=left>
+<img src="/images/Library Training.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
