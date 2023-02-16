@@ -18,3 +18,10 @@ The PE Scheme of Work is planned and designed with progression of skills in mind
 |<br><br><br> Year 2<br>(7 periods)  | <br><br>Advance Outdoor Education I (5)<br>\-Belaying school<br>\-kayaking (5w)<br>NAPFA (2)  | Advance Outdoor Education II (5)<br>\-advance Topography<br>\-advance knots and lashing<br>\-Basic First Aid<br>\-advance camp craft<br>NAPFA (2)  | Basic Aquatics 1 (5)<br>\-assessment of swim stroke for specific distance<br>\- pool safety<br>\-water confidence<br>\-Sculling<br>\-Survival Back<br>SG (2) Net Barrier<br>Badminton<br>Mini tennis  | <br><br><br><br><br>SG (3) Net Barrier<br>Pickleball (4w), <br>VB (4w)<br>Dance (4)  |
 |   |   |   |   |   |
 
+**YEAR 3 & 4**
+
+|   | Term 1  | Term 2  | Term 3  | Term 4  |
+|:-:|---|---|---|---|
+| <br><br><br>Year 3<br>(5 periods)  | <br><br>Striking/ Fielding <br>(3) Softball and Rounders<br>SFC (2)  | <br><br>SFC (2)<br>ICG (3)\*Class banding required (min 3 classes)<br>Touch/Contact Rugby  | Modular/Elective Sports (5); 4 different mediums<br>•Advance Aquatics<br>•Mountain Biking/Trail riding<br>•Endurance Sports/Fitness<br>•Bouldering/Rock Climbing  | Modular/Elective Sports (5); 4 different mediums<br>•Advance Aquatics<br>•Mountain Biking/Trail riding<br>•Endurance Sports/Fitness<br>•Bouldering/Rock Climbing  |
+| <br><br>Year 4<br>(5 periods)  | <br><br>Martial Arts Programme <br>(4)  | <br><br><br>NAPFA (2)<br>SG (2)  | <br><br><br>NAPFA (2)<br>SG (2)  | Apex Games (4)<br>•Amazing Race I<br>•Amazing Race II<br>•Land Ex on wheels<br>•Sports Fiesta<br>•Inclusive sports <br>•Water Carnival <br>•Water Carnival  |
+|   |   |   |   |   |
