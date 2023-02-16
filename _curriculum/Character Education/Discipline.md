@@ -83,3 +83,90 @@ _Other Serious Offences_
 
 Do note that the above list is not exhaustive. The school reserves the right to make necessary changes as and when deemed fit.
 
+**B) Attendance**
+
+_Flag-raising and Pledge Taking ceremony_
+
+*   Students should be in the hall for flag-raising and pledge taking ceremony which commences at 7:45am sharp.
+*   Students who are Singapore Citizens must sing the National Anthem and recite the Pledge with the right fist placed over the heart.
+*   Attendance will be taken by Form Teachers after the flag-raising and Pledge taking ceremony. 
+
+_Late-coming_
+
+*   A student is considered late when he does not attend the flag-raising and Pledge taking ceremony in the hall.
+*   Recalcitrant latecomers will be tracked and consequences meted out accordingly.
+
+_Absence from school_
+
+*   A student who is absent due to sickness must produce a medical certificate (M.C.) from a certified doctor or letter by parents.
+*   For non-medical reasons (such as a death in the family, etc) appropriate documents or letter from parents / guardian should be produced. Such a letter should be neatly written or typed and enclosed in an envelope.
+*   Absence without a medical certificate or a parent / guardian’s letter will be regarded as truancy.
+
+**C) Movement**
+
+_Leaving class during lessons_
+
+*   Students are to obtain a movement pass or permission slip from their teachers when they want to leave the classroom during curriculum time. They must display the movement pass or produce the permission slip when asked by any school staff for verification purpose.
+*   Any student seen outside the class during lesson without a pass will be stopped, reprimanded and sent back immediately.
+
+_Leaving school premises during school hours_
+
+*   A parent / guardian may accompany a sick student home after registering with the General Office.
+*   Any student who is ill may leave school for home only if verbal consent from the parents is established with the staff. The ‘Permission to Leave School Early’ form will be issued to the student by a member of the General Office and this form must be signed by a parent/ guardian and returned to school when the student is back in school.
+*   During emergencies, the Operations Manager or teacher appointed by the School Leaders may send the child home or to the doctor/hospital.
+
+_Using of lift_
+
+*   Students are not allowed to use the lift at all times unless accompanied by any teacher/ staff.
+*   Only students with verified medical conditions will be allowed to take the lift.
+
+**D) Using of mobile devices during curriculum hours**
+
+Unauthorised use of electronic mobile devices such as hand phones during curriculum hours is strictly prohibited. Disciplinary action may be taken for breaching the school rules.
+
+**E) Attire & Grooming**
+
+_Uniform_
+
+*   Students are to wear the prescribed school uniform and modification to the uniform is not allowed.
+
+_General Appearance and Grooming_
+
+*   Students’ natural hair colour should not be altered by dyeing, bleaching or any other means. A doctor’s letter will need to be submitted to the school if the student’s natural hair colour is not black.
+*   Students must not shave or pluck their eyebrows.
+*   Students should wear predominantly white or black shoes with white or black laces.
+*   Students should only wear either black or white socks with no other prints at all times.
+
+_Accessories / Jewellery / Cosmetics_<br>
+The following are NOT allowed:
+
+*   Colourful, flashy or chunky jewellery (rings, earrings, bracelets) or other accessories such as leather neckbands, bead chokers etc.
+*   Religious ornaments or amulets are not to be worn visibly.
+*   Tinted glasses, coloured contact lenses.
+*   Caps and hats.
+*   Tongue studs, nose studs or any kind of body piercing.
+*   Tattoos or body art (this includes stickers and non-permanent ink).
+*   Make-up / Cosmetics.
+*   Multiple / enlarged ear-piercings.
+
+_For Boys_  
+
+*   Hair must be properly groomed and neat. There should be no fringes and sides should not touch the ears. Sideburns should be short.
+*   Hair at back should be sloped and above the shirt collar.
+*   Boys should be clean shaven. There should be no wearing of beards and moustaches.
+*   No skin-heads are allowed.
+*   No accessories are allowed.
+
+_For Girls_
+
+*   Hair must be neatly combed, clipped or tied up. Unkempt long hair and improper hairstyles are not acceptable.
+*   All fringes must be worn above the eyebrows.
+*   Hair that covers part of the face must be clipped up neatly.
+*   Only black or dark-coloured hair clip / grips / bands should be used.
+*   Multiple earrings or ear studs are not allowed. Only simple transparent ear studs or plain earrings (one on each ear) are allowed and they should be no bigger than 3mm.
+
+**REFLECTION CENTRE (RC)**<br>
+The Discipline Committee recognizes that apart from corrective approaches, the restorative processes are also essential in ensuring a child’s positive growth and development. To help us achieve the desired outcomes, we have continuously adopted the Restorative Approach, where the focus is not just on the consequences and punishment. In 2019, Semester 2, the Reflection Centre (RC) was set up with the hope of providing better support in terms of discipline processes. When in the RC, the Pastoral Care Officer (PCO) will engage and guide them in a reflection session where they were made to pen down their thoughts on a reflection form. Through the session, the PCO is able to surface some cases where students may need immediate intervention and follow up by Form Teachers, Discipline Master/Mistress or the School Counsellors.
+
+
+
