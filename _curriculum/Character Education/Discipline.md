@@ -18,4 +18,68 @@ We hope that with love, care and clear established rules, our students will choo
 
 <img src="/images/DisciplineFramework.jpg" style="width:85%">
 
+**Motto:**<br>
+Every child matters. Every teacher is a discipline teacher.
+
+**Mission:**<br>
+To nurture students to be self-disciplined individuals who effectuate their values effectively.
+
+**Rationale:**<br>
+NorthLight School enrols students from different backgrounds. The unique student profile is testament to the school’s focus on striking a balance between nurturing potential and learning through experience.
+
+NLS strives to create an environment of trust and responsibility through the STAR approach. For the Discipline Framework model, STAR is centered on our belief that every child matters. STAR’s effectiveness is correlated to our expectation that every teacher is a discipline teacher in NLS.
+
+##### RULES AND REGULATIONS
+
+The following rules and regulations will be understood by the students at NorthLight.
+
+**A) Offences**
+
+The school tracks the following offences by recording the cases in the “Offence Module” of the Ministry of Education’s School Cockpit System.
+
+_Attendance_  
+
+*   Late-coming  
+    
+*   Skipping Classes  
+    
+*   Leaving school grounds without permission  
+    
+*   Truancy
+
+_Misconduct_
+
+*   Improper Attire and Grooming
+*   Littering
+*   Not doing Assignments
+*   Using Vulgar Language
+*   Bullying
+*   Cheating in Tests and Exams
+*   Disruptive Behaviour
+*   Forgery
+*   Open Defiance and Rudeness
+
+_Theft / Damage of Property_
+
+*   Theft / shoplifting
+*   Vandalism
+*   Arson
+
+_Other Serious Offences_
+
+*   Assault
+*   Fighting
+*   Gangsterism
+*   Gambling
+*   Smoking
+*   Drug abuse
+*   Inhalant abuse
+*   Pornography
+*   Sexual Misconduct
+*   Alcohol abuse
+*   Possession of weapons
+
+\***All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon like item which is used or intended to be used to cause harm to others.**
+
+Do note that the above list is not exhaustive. The school reserves the right to make necessary changes as and when deemed fit.
 
