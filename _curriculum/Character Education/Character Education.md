@@ -49,7 +49,7 @@ Sustained encouragement
 The **Arts Appreciation Programme** Framework guides the development of the arts curriculum. It consist of pedagogical approaches for skills and character education to develop the desired learner outcome. It aims to introduce a variety of artistic forms and techniques as a foundational approach to allowing the students to broaden their knowledge and perspective of the arts.
 The framework objectives are for every student to be able to **Create, Explore and Appreciate** the arts. Through the opportunities provided students can develop skills and awareness towards the intrinsic value of the arts.
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/curriculum/Character-Education/aesthetics/">
 <img style="width:20%" align=right src="/images/readmore.jpg">
 </a></p>
 <br clear=right><br><br>
