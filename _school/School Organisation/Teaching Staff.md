@@ -57,6 +57,26 @@ third_nav_title: School Organisation
 | Ms Justine Yoong Yuping  | Teacher  |
 | Ms Kanchana Varatharajalu  | Teacher  |
 |   |   |
+| **Hospitality**  |   |
+|  Ms Ong Lay Hoon Iris | HOD  |
+| Ms Chin Mei Ling  | Subject Head  |
+| Mr Kwek Liang Wei, Nelson  | Teacher  |
+| Mr Desmond Wong Shin Loong  | Teacher Aide  |
+| Mr Gulam Kader Bin Ghaus Maricar  | Level Head / Discipline  |
+| Mr Heng Aik Kwang David  | Teacher  |
+| Mr Tan Keng Lian Andrew  | Teacher  |
+| Mr Michael Chelvarajah Poore  | Teacher  |
+| Mr Chua Boon Hou Felix  |  Teacher |
+| Mr Goh Chin Teik @ Gopalakrishnan  | Teacher  |
+| Mr Patson Low Tuck Who  | Teacher  |
+| Mr Lawrence Toon Choon Huat  | Teacher  |
+| Mr Rahman Bin Mijan  | Technician  |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
 |   |   |
 |   |   |
 |   |   |
