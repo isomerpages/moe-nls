@@ -73,17 +73,17 @@ third_nav_title: School Organisation
 | Mr Rahman Bin Mijan  | Technician  |
 |   |   |
 | **Info-Comm Technology**  |   |
+| Mr Goh Yong Yeu  | HOD  |
+| Mrs Tay-Yew Hong Hong April  | Teacher  |
+| Mr Mohamed Firdaus Bin Mohamed  | Teacher  |
+| Mr Song Hoo Khim  | Teacher  |
+| Mr Tham Chee Wai Vincent  | Teacher  |
+| Ms Zheng Jinglin  |Teacher  |
+| Mr Ray Ng Chew Cher  | Teacher  |
+| Mr Chua Tat Wee  | Teacher  |
+| Mr Kris Aidil Bin Abdullah  | Teacher Aide  |
 |   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
+| **Mathematics**  |   |
 |   |   |
 |   |   |
 |   |   |
