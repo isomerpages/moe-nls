@@ -26,3 +26,16 @@ A. <u>Maps for pick up points</u>
 **7.05 am | Bus No.: PC76B**
 
 <img src="/images/yishun2022.png" style="width:85%">
+
+3 \. **Bedok MRT:  
+(Opposite Bedok MRT station. Bus stop no: 84031)**  
+**7.00 am | Bus No.: PC2941R**  
+**7.15 am | Bus No.: PC8413J**
+
+<img src="/images/bedok2022.png" style="width:85%">
+
+4 \. **Redhill MRT:  
+(Opposite Redhill MRT Bus Stop No: B10201)**  
+**7.10 am | Bus No.: PC8778B**
+
+<img src="/images/redhill2022.png" style="width:85%">
