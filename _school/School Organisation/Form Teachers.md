@@ -58,3 +58,11 @@ third_nav_title: School Organisation
 | <br>4RS1  | HAMIDAH BINTE MUSA <br><br> YEW HONG HONG, APRIL  | [hamidah\_musa@schools.gov.sg](mailto:hamidah_musa@schools.gov.sg)<br><br>[tay-yew\_hong\_hong\_april@schools.gov.sg](mailto:tay-yew_hong_hong_april@schools.gov.sg)  |
 | <br>4RS2  | TEO HWEE CHENG <br><br> LOI TSUAN-YIEN  | [teo\_hwee\_cheng@schools.gov.sg](mailto:teo_hwee_cheng@schools.gov.sg)<br><br>[loi\_tsuan\_yien@schools.gov.sg](mailto:loi_tsuan_yien@schools.gov.sg)  |
 |   |   |   |
+
+##### YEAR 5 AND YEAR 6
+
+| Class  | Form Teachers  | Email  |
+|:-:|---|---|
+|  S451 | GERALDINE CHEAH SOH KUAN  | [geraldine\_cheah\_soh\_kuan@schools.gov.sg](mailto:geraldine_cheah_soh_kuan@schools.gov.sg)  |
+| S461  | LOW YONG CHOONG, JESPER  | [low\_yong\_choong@schools.gov.sg](mailto:low_yong_choong@schools.gov.sg)  |
+|   |   |   |
