@@ -2,6 +2,7 @@ collections:
   school:
     output: true
     order:
+      - Student Informations/Shuttle Bus.md
       - Student Informations/.keep
       - Admission.md
       - Fees, Financial Assistance and Uniform.md
