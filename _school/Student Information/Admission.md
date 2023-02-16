@@ -41,3 +41,19 @@ Click **[HERE](/files/Joint%20Admission%20Process%20Briefing%20Slides_NLS%20Exp-
 | Year 3  | 15 to 17  |
 | Year 4  | 16 to 18  |
 |   |   |
+
+#### REGISTRATION
+
+Successful applicants are required to bring along the following documents, which can be found in the invitation package obtained from their primary schools, when they report for registration at NorthLight School.
+
+1 \.  Letter of Acceptance<br>
+2 \.  Completed Medical Record forms;<br>
+3 \.  Completed consent forms for Dental treatment, EQUAL / PDLP programmes and release information;<br>
+4 \. <br>
+a. Completed Financial Assistance (FAS) Application form\* with supporting documents or  <br>b. 2023 MOE FAS approval notification letter with completed FAS application form, if applicable;<br>
+5 \.  Photocopy of Parents’ NRICs/FINs (both sides);<br>
+6 \.  Primary School Report Book;<br>
+7 \.  Primary School Smart Card (EZ-link card)<br>
+8 \.  Medical Reports / Doctor’s letters / Transition Report from AED / Psycho-Educational Report, SEAB Outcome of Access Arrangement Application for 2022 PSLE, if any, and<br>
+9 \.  Sufficient cash to pay for the fees and uniform (Payment for school fees can also be made via Cheque, NETS or PAYNOW)
+
