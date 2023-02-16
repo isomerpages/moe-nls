@@ -87,11 +87,6 @@ c.    Propriety: NLS shall not condone any frivolous, mischievous or malicio
 |:-:|---|---|
 | All matters regarding school matters, Vice-Principals or staff  | <br>[Sung\_Mee\_Har@schools.gov.sg](mailto:Sung_Mee_Har@schools.gov.sg)  | <br>Principal  |
 | <br>All matters regarding Principal  | [https://www.moe.gov.sg/feedback](https://www.moe.gov.sg/feedback)<br><br>(Under online form > Subject > Others, indicate ‘Whistle-blowing Policy’)  | <br>MOE Cluster Superintendent  |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+| All matters regarding Chairman or Directors (excluding Chairman ARC)  | [nlswhistleblowing1@gmail.com](mailto:nlswhistleblowing1@gmail.com)<br><br>Note: this account is accessed by Chairman ARC and the Principal. Updates on emails will be provided to the Audit & Risk Committee regularly.  | <br>Chairman Audit & Risk Committee (ARC)  |
+| All matters regarding Chairman ARC  | [nlswhistleblowing2@gmail.com](mailto:nlswhistleblowing2@gmail.com)  <br><br>Note: this account is accessed by Chairman BOD and the Principal. Updates on emails will be provided to the Audit & Risk Committee regularly.  | Board Chairman together with appointed directors. Board Chairman will decide on composition depending on the nature of the situation.  |
 |   |   |   |
