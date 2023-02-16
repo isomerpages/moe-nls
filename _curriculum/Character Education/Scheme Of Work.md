@@ -25,3 +25,11 @@ The PE Scheme of Work is planned and designed with progression of skills in mind
 | <br><br><br>Year 3<br>(5 periods)  | <br><br>Striking/ Fielding <br>(3) Softball and Rounders<br>SFC (2)  | <br><br>SFC (2)<br>ICG (3)\*Class banding required (min 3 classes)<br>Touch/Contact Rugby  | Modular/Elective Sports (5); 4 different mediums<br>•Advance Aquatics<br>•Mountain Biking/Trail riding<br>•Endurance Sports/Fitness<br>•Bouldering/Rock Climbing  | Modular/Elective Sports (5); 4 different mediums<br>•Advance Aquatics<br>•Mountain Biking/Trail riding<br>•Endurance Sports/Fitness<br>•Bouldering/Rock Climbing  |
 | <br><br>Year 4<br>(5 periods)  | <br><br>Martial Arts Programme <br>(4)  | <br><br><br>NAPFA (2)<br>SG (2)  | <br><br><br>NAPFA (2)<br>SG (2)  | Apex Games (4)<br>•Amazing Race I<br>•Amazing Race II<br>•Land Ex on wheels<br>•Sports Fiesta<br>•Inclusive sports <br>•Water Carnival <br>•Water Carnival  |
 |   |   |   |   |   |
+
+**YEAR 5 & 6**
+
+|   | Term 1  | Term 2  | Term 3  | Term 4  |
+|:-:|---|---|---|---|
+| Year 5<br>(2 periods)  | SFC (2)<br><br>Aerobics & <br>Anaerobic Conditioning  |<br> NAPFA (2)  | <br>HE (2)  | SG (2)<br>\-          Kinball<br>\-          Dodgeball<br>\-          Handball  |
+| Year 6<br>(2 periods)  | SFC (2)<br><br>Fitness and weight <br>training  | <br>NAPFA (2)  | <br> HE (2) | SG (2)<br>\-          Nerf<br>\-          Bocce<br>\-          Ultimate Frisbee  |
+|   |   |   |   |   |
