@@ -40,3 +40,18 @@ The framework sets the direction for and provides guidance in teaching, learning
 </a></p>
 <br clear=right>
 <br><br>
+
+<img src="/images/foundation3.jpg" align=left style="width:85%">
+<br clear=left>
+
+**INFO-COMM TECHNOLOGY**<br>
+VISION<br>
+*   Students, Staff and Stakeholders use
+*   Technology seamlessly in
+*   Areas of their teaching, learning, work & communication in a
+*   Respectful, responsible and ethical way
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:20%" align=right src="/images/readmore.jpg">
+</a></p>
+<br clear=right>
