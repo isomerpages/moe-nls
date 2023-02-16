@@ -41,10 +41,10 @@ third_nav_title: School Organisation
 | <br><br>3CS1  | PHUA SHIOK HORNG BETTY <br><br> BEMISH MANEN CHEE <br><br> SANJIT KAUR CHAHIL d/o JASWANT SINGH  | [phua\_shiok\_horng\_betty@schools.gov.sg](mailto:phua_shiok_horng_betty@schools.gov.sg)<br><br>[bemish\_manen\_ehee@schools.gov.sg](mailto:bemish_manen_ehee@schools.gov.sg)<br><br>[sanjit\_kaur\_chahil\_jaswant@schools.gov.sg](mailto:sanjit_kaur_chahil_jaswant@schools.edu.sg)  |
 | <br>3FS1  | HAMDAN BIN HAMID<br><br>  PINTO NICHOLAS MICHAEL    | [hamdan\_hamid@schools.gov.sg](mailto:hamdan_hamid@schools.gov.sg)<br><br>[pinto\_nicholas\_michael@schools.gov.sg](mailto:pinto_nicholas_michael@schools.gov.sg)  |
 | <br>3FS2  | KWAN CHONG HOW <br><br> ONG CHONG CHENG KEVIN  | [kwan\_chong\_how@schools.gov.sg](mailto:kwan_chong_how@schools.gov.sg)<br><br>[ong\_chong\_cheng@schools.gov.sg](mailto:ong_chong_cheng@schools.gov.sg)  |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+| <br>3HS1  | TOON CHOON HUAT, LAWRENCE <br><br> THERESA NG CHEN WOON  | [toon\_choon\_huat@schools.gov.sg](mailto:toon_choon_huat@schools.gov.sg)<br><br>[theresa\_ng\_chen\_woon@schools.gov.sg](mailto:theresa_ng_chen_woon@schools.gov.sg)  |
+| <br>3HS2  | HENG AIK KWANG, DAVID <br><br> NUR ATIKA BINTI MOHAMED NAIM  | [heng\_aik\_kwang\_david@schools.gov.sg](mailto:heng_aik_kwang_david@schools.gov.sg)<br><br>[nur\_atika\_mohamed\_naim@schools.gov.sg](mailto:nur_atika_mohamed_naim@schools.gov.sg)  |
+| 3RS1  |   |   |
+| 3RS2  |   |   |
 |   |   |   |
 |   |   |   |
 |   |   |   |
