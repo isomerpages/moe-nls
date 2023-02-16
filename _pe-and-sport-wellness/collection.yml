@@ -2,6 +2,7 @@ collections:
   pe-and-sport-wellness:
     output: true
     order:
+      - Great Outdoor Experience (GOE).md
       - Assessment.md
       - Scheme Of Work.md
       - Mission & Vision.md
