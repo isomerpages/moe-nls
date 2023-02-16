@@ -34,3 +34,12 @@ There is no cut-off date for application to the MOE Financial Assistance Scheme 
 *   Singapore Citizen
 
 **3 \.    Income Limits**
+
+<img src="/images/ffas2.jpg" align=left style="width:70%">
+<br clear=left>
+
+**4 \.    Calculation for Per Capita Income (PCI)**
+
+<img src="/images/Calculation for Per Capita Income (PCI).png" align=left style="width:85%">
+<br clear=left>
+
