@@ -2,9 +2,9 @@ collections:
   pe-and-sport-wellness:
     output: true
     order:
-      - GRIT Week.md
-      - Great Outdoor Experience (GOE).md
-      - Assessment.md
-      - Scheme Of Work.md
-      - Mission & Vision.md
       - Department Home.md
+      - Mission & Vision.md
+      - Scheme Of Work.md
+      - Assessment.md
+      - Great Outdoor Experience (GOE).md
+      - GRIT Week.md
