@@ -94,7 +94,9 @@ A brief outline for the curriculum is shown in the table below.
 | Domains  | NLP Components  |   |   |
 |:-:|---|---|---|
 |   | Year 1  | Year 2  | Year 3  |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+| <br><br><br>Values Education  | Service Learning<br><br>Family Education<br><br>Career & Finance  | Service Learning<br><br>Family Education<br><br>Career & Finance  | Service Learning<br><br>Family Education  |
+| Socio-emotional Competencies  | Social Skills<br><br>Family Education  | Social Skills<br><br>Family Education  | Social Skills<br><br>Family Education  |
+| Habits of Mind  | EQUAL<br><br>Leadership  | EQUAL (Y2 Junior)<br><br>Leadership  |   |
+| Education & Career Guidance  |   |   |   |
+| National Education  |   |   |   |
 |   |   |   |   |
