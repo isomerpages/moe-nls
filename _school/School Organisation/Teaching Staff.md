@@ -72,6 +72,32 @@ third_nav_title: School Organisation
 | Mr Lawrence Toon Choon Huat  | Teacher  |
 | Mr Rahman Bin Mijan  | Technician  |
 |   |   |
+| **Info-Comm Technology**  |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
 |   |   |
 |   |   |
 |   |   |
