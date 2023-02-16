@@ -81,3 +81,25 @@ Alternatively, you may purchase directly from their retail shop at the above add
 – Monday, Wednesday, Thursday and Friday: 3.00 p.m. to 8.00 p.m.<br>
 – Saturday and Sunday: 10.00 a.m. to 4.00 p.m.<br>
 – Closed on Tuesday and Public Holidays
+
+#### STUDENT INSURANCE
+
+**Group Personal Accident (GPA) Insurance for Students:**
+
+All students are covered under the GPA Insurance Plan which provides 24-hour worldwide accident coverage while they are at the school premises, in Singapore or elsewhere, participating in school-related activities, including Co-Curricular Activities (CCA) and sports and commuting from (or to) his or her place of residence, to (or from) either the school’s premises or the place where an activity covered by the GPA Insurance.
+
+<u>Points to note:</u>
+
+1 \.  Parents may submit the GPA insurance claim online (eSubmission) or manually (through school).
+
+2 \. For online submission, click this link: [https://www.income.com.sg/claims/insurance-for-students-and-children/student-group-personal-accident-plan](https://www.income.com.sg/claims/insurance-for-students-and-children/student-group-personal-accident-plan)
+
+3 \. For manual submission, the Claim Form can be downloaded from the NTUC Income’s website and the url : <br>
+[https://www.income.com.sg/forms/claims/group-personal-accident-for-students-claim.aspx](https://www.income.com.sg/forms/claims/group-personal-accident-for-students-claim.aspx)<br>
+Please note that original paid hospital invoices or clinic receipts will be required.
+
+4 \. For more details on the GPA Plan, please visit the website [https://www.income.com.sg/studentgpa](https://www.income.com.sg/studentgpa)
+
+5 \. Most claims require prior payment to be made first. Reimbursement by NTUC Income will be done upon approval of claims.
+
+If you have any queries, please contact SAU Manager, Mr Desmond Chua @ 6929 6256 or email: [chua\_kok\_boon\_desmond@schools.gov.sg](mailto:chua_kok_boon_desmond@schools.gov.sg)
