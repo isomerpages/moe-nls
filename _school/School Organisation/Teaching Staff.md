@@ -18,18 +18,36 @@ third_nav_title: School Organisation
 | Ms Nurasyikin Bte Hamzah  | Teacher Aide  |
 |   |   |
 | **CCE/Student Development Team**  |   |
-| Mr E.M. Rajaen  |   |
-| Mr Pinto Nicholas Michael  |   |
-| Ms Choong Mi Mi  |   |
-| Mr Mohamad Shaleem Bin Khamalluden  |   |
-| Mdm Shabana Haleem  |   |
-| Ms Chia Su Yin Linda  |   |
-| Mr Lim Kian Hua Marcus  |   |
-| Mr Soh Yeow Choong Kenneth  |   |
-| Ms Zeenath Begam Binte Abdul Rahim  |   |
-| Ms Juliana Poh Shi Min  |   |
-| Ms Nadira Begum  |   |
-| Mr Muhammad Amirul Irsyad Bin Mohd Yusof  |   |
+| Mr E.M. Rajaen  | HOD  |
+| Mr Pinto Nicholas Michael  | Senior Teacher  |
+| Ms Choong Mi Mi  | Teacher Aide  |
+| Mr Mohamad Shaleem Bin Khamalluden  | Student Welfare Officer  |
+| Mdm Shabana Haleem  | Allied Educator (Learning and Behavioural Support Officer)  |
+| Ms Chia Su Yin Linda  | Psychologist  |
+| Mr Lim Kian Hua Marcus  | Counsellor  |
+| Mr Soh Yeow Choong Kenneth  | Counsellor |
+| Ms Zeenath Begam Binte Abdul Rahim  | Counsellor  |
+| Ms Juliana Poh Shi Min  | Counsellor  |
+| Ms Nadira Begum  | ECG Counsellor  |
+| Mr Muhammad Amirul Irsyad Bin Mohd Yusof  | AED PCO  |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
 |   |   |
 |   |   |
 |   |   |
