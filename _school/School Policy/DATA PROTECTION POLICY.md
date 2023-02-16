@@ -51,3 +51,21 @@ d. Retain and use personal data after a staff or student has left employment/gra
 6 \. For the purposes of the School’s students (as minors), it is reasonable and accepted that parental/guardian consent is sufficient.
 
 7 \. By voluntarily providing the School with your personal data, you shall be deemed to consent the School to collect, use and disclose the data for the purpose that you have provided it for. Examples of such situations are staff employment and student enrolment. The School shall also highlight such situations and seek to obtain explicit consent.
+
+##### DATA SECURITY AND RETENTION
+
+8 \. The School undertakes to:
+
+a. Implement appropriate security measures to protect personal data against accidental or unlawful destruction or accidental loss, alteration, unauthorised disclosure or access, in particular when the processing of data involves the transmission or storage on or within a network.
+
+b. Notify data subjects about any accidental or unauthorised access of their data that may lead to damage or harm.
+
+c. Keep the data collected for as long as there is a necessity to provide the services specified or outlined above.
+
+##### SHARING DATA WITH THIRD PARTIES
+
+9 \. The School shares personal data with a variety of third parties for the purposes of the third party providing a relevant service to the school. Examples of these services include transport, catering, travel services, accommodation and medical.
+
+10 \. The School will only share data for the purposes of eliciting a necessary service from these third party organisations and not for commercial gain.
+
+11 \. Where the School signs explicit contracts with these organisations, it will ensure that the organisation is using the data purely for the intended purpose of providing the required service and that it is taking appropriate precautions to safeguard the data.
