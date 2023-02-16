@@ -53,8 +53,8 @@ third_nav_title: School Organisation
 |:-:|---|---|
 | <br>4FS1  | DANIEL LIU CHIH WEN  <br><br>JOEY GREGORY SETIAWAN  | [daniel\_liu\_chih\_wen@schools.gov.sg](mailto:daniel_liu_chih_wen@schools.gov.sg)<br><br>[joey\_gregory\_setiawan@schools.gov.sg](mailto:joey_gregory_setiawan@schools.gov.sg)  |
 | <br><br>4FS2  | NG SEOW KENG, KEN <br><br> KHAIROL HISHAM BIN MOHAMED SANI<br><br>  MOHAMAD SUHAILI BIN ABDUL LATIFF  | [ng\_seow\_keng@schools.gov.sg](mailto:ng_seow_keng@schools.gov.sg)<br><br>[khairol\_hisham\_b\_mohamed@schools.gov.sg](mailto:khairol_hisham_b_mohamed@schools.gov.sg)<br><br><br>[mohamad\_suhaili\_abdul\_latiff@schools.gov.sg](mailto:mohamad_suhaili_abdul_latiff@schools.gov.sg)  |
-|   |   |   |
-|   |   |   |
+| <br>4HS1  | CHUA BOON HOU, FELIX <br><br> PATSON LOW TUCK WOH  | [chua\_boon\_hou\_felix@schools.gov.sg](mailto:chua_boon_hou_felix@schools.gov.sg)<br><br>[patson\_low\_tuck\_woh@schools.gov.sg](mailto:patson_low_tuck_woh@schools.gov.sg)  |
+| <br><br>4HS2  | MICHAEL CHELVARAJAH POORE <br><br> SHAZAWANI BEGUM BINTE ABDUL KARIM  | [michael\_poore@schools.gov.sg](mailto:michael_poore@schools.gov.sg)<br><br><br>[shazawani\_begum@schools.gov.sg](mailto:shazawani_begum@schools.gov.sg)  |
 |   |   |   |
 |   |   |   |
 |   |   |   |
