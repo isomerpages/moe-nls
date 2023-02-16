@@ -12,9 +12,9 @@ The PE Scheme of Work is planned and designed with progression of skills in mind
 
 **YEAR 1 & YEAR 2**
 
-|   |   |   |   |   |
+|   | Term 1  | Term 2  | Term 3  | Term 4  |
 |:-:|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
+| <br><br>Year 1<br>(7 periods)  | Basic Outdoor Education I (5)<br>• Basic Orienteering<br>\-map reading<br>\-pacing<br>\-use of compass<br>\-legends<br>• Intro to Cycling (5w)<br>SFC (2)  | Basic Outdoor Education II (5)<br>• Camp Craft<br>\-Knots and Lashes<br>\-rafting<br>\-tent pitching<br>\-Outdoor cooking<br>TB (2)  | <br><br>FMS (3)<br>SG + HE (4)<br>Netball, Soccer  | <br>SG + HE (3) (4w x2)<br>Basketball (3w), <br>Frisbee (3w),<br>Floorball (3w)<br>(not assessed)<br>Gym (4)( Movt Education)  |
+| Year 2<br>(7 periods)  |   |   |   |   |
 |   |   |   |   |   |
 |   |   |   |   |   |
