@@ -2,11 +2,6 @@ collections:
   school:
     output: true
     order:
-      - Student Informations/Admission.md
-      - Student Informations/Fees, Financial Assistance and Uniform.md
-      - Student Informations/Education Grants and Scholarships.md
-      - Student Informations/Shuttle Bus.md
-      - Student Informations/.keep
       - About Us/.keep
       - About Us/About Us.md
       - About Us/School Song.md
@@ -18,3 +13,8 @@ collections:
       - School Organisation/Administrative Staff.md
       - School Organisation/Form Teachers.md
       - Key Information.md
+      - Student Informations/.keep
+      - Student Informations/Admission.md
+      - Student Informations/Fees, Financial Assistance and Uniform.md
+      - Student Informations/Education Grants and Scholarships.md
+      - Student Informations/Shuttle Bus.md
