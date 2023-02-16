@@ -2,3 +2,6 @@ logo: /images/logo.jpg
 links:
   - title: School
     collection: school
+  - title: Curriculum
+    url: /permalink
+    sublinks: []
