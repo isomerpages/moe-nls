@@ -173,6 +173,14 @@ The Discipline Committee recognizes that apart from corrective approaches, the r
 <br clear="left"><br>
 
 PROGRAMMES<br>
-**GAMES HQ:**
-
+**GAMES HQ:**<br>
 To ensure a safe physical environment where there is care for the students in the morning and after school, the Games HQ provided a safe haven for the students to gather. It is equipped with machines and games that promote healthy interactions with peers. To ensure sustained interest in the students to be engaged in school, new games and machines are being introduced once in a semester. Free Wifi is also provided for the students who wished to be engaged in their own games via their mobile phones. The Discipline Committee members actively engage and interact with our students through monthly events and competitions held in the Games HQ.
+
+<img src="/images/dis1.jpg" style="width:85%">
+
+**SPARKS@NLS:**<br>
+SPARKS@NLS is an after-school engagement programme that is targeted at identified group of students in need of extensive mentoring. It is runs twice weekly (2 hours per session) from February to November. The school works with community partners to provide customised support and after-school engagement, and strengthen our students’ social-emotional (SE) competencies and social skills. The programme focuses on deliberate and intended effort towards tackling identified issues and correcting factors that exist within our youths to enable them to stay clear of undesirable activities and enhance their chances of success.
+
+<img src="/images/eng6.jpeg" style="width:49%" align=left>
+<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<br clear="left"><br>
