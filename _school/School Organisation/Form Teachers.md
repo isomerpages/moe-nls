@@ -30,6 +30,6 @@ third_nav_title: School Organisation
 | <br>2T4  | BADRAL BTE ABDULLAH<br><br> JEFFREY CHYE MIN HOCK  | [badral\_abdullah@schools.gov.sg](mailto:badral_abdullah@schools.gov.sg)<br><br>[jeffrey\_chye\_min\_hock@schools.gov.sg](mailto:jeffrey_chye_min_hock@schools.gov.sg)  |
 | <br>2T5  | LIEW KUAN CHIN, FRANKIE<br><br> TONG MOH CHIH, FREDDY  | [liew\_kuan\_chin\_frankie@schools.gov.sg](mailto:liew_kuan_chin_frankie@schools.gov.sg)<br><br>[tong\_moh\_chih@schools.gov.sg](mailto:tong_moh_chih@schools.gov.sg)  |
 | <br>2T6  | HENG KAI LE <br><br>INDERJIT SINGH  | [heng\_kai\_le@schools.gov.sg](mailto:heng_kai_le@schools.gov.sg)<br><br>[inderjit\_singh@schools.gov.sg](mailto:inderjit_singh@schools.gov.sg)  |
-| <br>2T7  | DANNY SUM KAI MENG<br><br> ANG YEN SAN, MAY  |   |
-| <br>2T8  | SOH LAY HONG<br><br> LIM THIAM CHYE  |   |
+| <br>2T7  | DANNY SUM KAI MENG<br><br> ANG YEN SAN, MAY  | [danny\_sum\_kai\_meng@schools.gov.sg](mailto:danny_sum_kai_meng@schools.gov.sg)<br><br>[ang\_yen\_san@schools.gov.sg](mailto:ang_yen_san@schools.gov.sg)  |
+| <br>2T8  | SOH LAY HONG<br><br> LIM THIAM CHYE  | [soh\_lay\_hong@schools.gov.sg](mailto:soh_lay_hong@moe.edu.sg)<br><br>[lim\_thiam\_chye@schools.gov.sg](mailto:lim_thiam_chye@schools.gov.sg)  |
 |   |   |   |
