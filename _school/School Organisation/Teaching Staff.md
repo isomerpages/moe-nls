@@ -44,18 +44,18 @@ third_nav_title: School Organisation
 | Mr Freddy Tong Moh Chih  | Teacher  |
 |   |   |
 | **English**  |   |
-| Mrs Tai-Lim Peng Peng  |   |
-| Mdm Tamil Selvi d/o Muthair  |   |
-| Ms Marianne Ha Ee Lyn  |   |
-| Ms Soh Chi Chan Pauline  |   |
-| Ms Yeo Xin Yi  |   |
-| Ms Chen Wei Teng  |   |
-| Ms Cindy Koh Mui Leng  |   |
-| Ms Eng Li Hwa Sally  |   |
-| Mr Heng Kai Le  |   |
-| Ms Kuan Hai Cheng  |   |
-| Ms Justine Yoong Yuping  |   |
-| Ms Kanchana Varatharajalu  |   |
+| Mrs Tai-Lim Peng Peng  | HOD  |
+| Mdm Tamil Selvi d/o Muthair  | Year Head - Yr 2  |
+| Ms Marianne Ha Ee Lyn  | SSD  |
+| Ms Soh Chi Chan Pauline  | Senior Teacher  |
+| Ms Yeo Xin Yi  | Teacher  |
+| Ms Chen Wei Teng  | Teacher  |
+| Ms Cindy Koh Mui Leng  | Teacher  |
+| Ms Eng Li Hwa Sally  |  Teacher |
+| Mr Heng Kai Le  | Teacher  |
+| Ms Kuan Hai Cheng  | Teacher  |
+| Ms Justine Yoong Yuping  | Teacher  |
+| Ms Kanchana Varatharajalu  | Teacher  |
 |   |   |
 |   |   |
 |   |   |
