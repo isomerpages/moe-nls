@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Vocational Education/.keep
       - Framework and Objectives.md
       - Character Education/.keep
       - Character Education/Character Education.md
