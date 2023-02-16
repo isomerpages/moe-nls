@@ -16,7 +16,7 @@ Develop young people’s values, attitudes and personal qualities, to enable the
 **PHYSICAL EDUCATION & SPORTS WELLNESS**<br>
 As one of three main pillars of character development and holistic education, Physical Education & Sports Wellness (PE SW) curriculum serve to imbibe in our students the importance of teamwork, resilience, creative problem solving and character & values formation as part of 21 Century CC. The PE SW Department's curriculum is designed to ensure that students' learning is made experiential, and fun as most of our students are kinaesthetic and visual learners. The environment our students are exposed to is created deliberately to ensure that their learning is purposeful and nurtures meaningful socio-emotional development. Underpinning the SW curriculum is the philosophical intent NLS PE 2.0 which is premised on the acronym M.O.V.E-Multuple Opportunities for Varied Experiences. These opportunities further serve to enhance our students' P.I.E.S (Physical, Intellectual, Emotional & Social). Additionally, the PE SW curriculum is developmentally progressive in that it begins with Exposure (different sports, skills and knowledge) to Familiarization through Practise, leading on to Refinement and finally Consolidation.
 
-<p><a href="/curriculum/Character-Education/ce/">
+<p><a href="/curriculum/Character-Education/dept-home/">
 <img style="width:20%" align=right src="/images/readmore.jpg">
 </a></p>
 <br clear=right><br><br>
