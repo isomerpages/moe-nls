@@ -19,3 +19,11 @@ Edusave Awards are given by the government annually to Singaporeans pupils to he
 | Edusave Merit Bursary<br> (EMB)  | Pupils who are within the top 25% in terms of academic performance, have good conduct and whose monthly household income does not exceed $6,900 (or per capita income does not exceed $1,725). Pupils must not be recipients of an Edusave scholarship.  | $500  |
 | Edusave Good Progress<br> Award (GPA)  | Pupils who are within the top 10% of their level and course in terms of improvement in academic performance and have demonstrated good conduct.  | $400  |
 |   |   |   |
+
+#### NATIONAL AWARDS
+
+| Type of Award  | Eligibility Criteria  | Quantum  |
+|:-:|---|---|
+| Lee Hsien Loong Award for Special Achievement  | The Singaporean graduate will be nominated based on the following:<br>a.  Good Academic Achievement (GPA of 2.5 or better and qualified for ITE)<br>b.  Good CCA record<br>c.  Contribution to school and community<br>d.  Strong Leadership qualities (at class, CCA or school level)<br>e.  Positive Character Development (good conduct, positive attitude towards learning & self-improvement)  | <br><br><br><br><br>$600  |
+| Tay Eng Soon Scholarship  | The Singaporean **OR** Permanent Resident graduate, who has achieved the following:<br>a.  outstanding results in his/her course at NLS<br>b.  commencing his/her full-time ITE Nitec courses<br>c.  He/she possesses good records of active participation in CCA and is not financially sponsored by employers.  | <br><br>*   $500<br>*   Waiver of ITE tuition fees  |
+|   |   |   |
