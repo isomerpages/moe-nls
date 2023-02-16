@@ -57,3 +57,6 @@ a. Completed Financial Assistance (FAS) Application form\* with supporting docum
 8 \.  Medical Reports / Doctor’s letters / Transition Report from AED / Psycho-Educational Report, SEAB Outcome of Access Arrangement Application for 2022 PSLE, if any, and<br>
 9 \.  Sufficient cash to pay for the fees and uniform (Payment for school fees can also be made via Cheque, NETS or PAYNOW)
 
+\* To facilitate the application, we encourage applicant eligible for the MOE FAS to apply for his/her MOE FAS application for 2023 at his/her primary school. If he/she has sibling in the same school or other sibling in other government or government-aided school (GGAS), please include him/her in his/her sibling’s FAS application. This will facilitate his/her MOE FAS application in NorthLight School.
+
+<img src="/images/Admission Level 2021.png" style="width:85%">
