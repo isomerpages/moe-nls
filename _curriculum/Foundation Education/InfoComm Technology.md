@@ -53,3 +53,10 @@ The ICT programme comprises four components namely Skills, Cyberwellness, Projec
 | Project Work  | The Project Work component anchors on the Maker Spirit which involves students in collaborative tasks to create technology-enabled artefacts.  <br><br>Students develop computational thinking through learning about basic block-based programming and work with one another in groups towards a common goal.  |
 | Habits of Mind  | The Habits of Mind (HOM) component is incorporated into the ICT curriculum, in line with the whole-school approach to inculcate good learning habits and thinking dispositions among our students.  |
 |   |   |
+
+<img src="/images/ict-1.png" style="width:85%">
+<img src="/images/ict-2.png" style="width:85%">
+
+**CYBERWELLNESS**
+
+<img src="/images/ICTCyberwellness.jpg" style="width:85%">
