@@ -2,7 +2,6 @@ collections:
   school:
     output: true
     order:
-      - Key Information.md
       - School Organisation/.keep
       - School Organisation/School Leaders.md
       - School Organisation/Teaching Staff.md
@@ -13,3 +12,4 @@ collections:
       - About Us/School Song.md
       - School Milestones.md
       - Board of Directors.md
+      - Key Information.md
