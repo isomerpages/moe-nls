@@ -2,6 +2,7 @@ collections:
   school:
     output: true
     order:
+      - School Organisation/Teaching Staff.md
       - School Organisation/School Leaders.md
       - School Organisation/.keep
       - About Us/.keep
