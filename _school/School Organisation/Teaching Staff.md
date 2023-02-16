@@ -32,18 +32,30 @@ third_nav_title: School Organisation
 | Mr Muhammad Amirul Irsyad Bin Mohd Yusof  | AED PCO  |
 |   |   |
 | **Facility & Mechanical Services**  |   |
-| Mr Lim Kim Meng Francis  |   |
-| Mr Md Suhaili Bin Abd Latiff  |   |
-| Mr Ken Ng Seow Keng  |   |
-| Mr Daniel Liu Chih Wen  |   |
-| Mr Jeffrey Chye Min Hock  |   |
-| Mr Tieh Seng Fatt  |   |
-| Mr Hamdan Bin Hamid  |   |
-| Mr Kwan Chong How  |   |
-| Mr Sia Sze Hui  |   |
+| Mr Lim Kim Meng Francis  | Subject Head  |
+| Mr Md Suhaili Bin Abd Latiff  | Teacher  |
+| Mr Ken Ng Seow Keng  | Teacher  |
+| Mr Daniel Liu Chih Wen  | Teacher  |
+| Mr Jeffrey Chye Min Hock  | Teacher  |
+| Mr Tieh Seng Fatt  | Teacher  |
+| Mr Hamdan Bin Hamid  | Teacher  |
+| Mr Kwan Chong How  | Teacher  |
+| Mr Sia Sze Hui  | Teacher  |
+| Mr Freddy Tong Moh Chih  | Teacher  |
 |   |   |
-|   |   |
-|   |   |
+| **English**  |   |
+| Mrs Tai-Lim Peng Peng  |   |
+| Mdm Tamil Selvi d/o Muthair  |   |
+| Ms Marianne Ha Ee Lyn  |   |
+| Ms Soh Chi Chan Pauline  |   |
+| Ms Yeo Xin Yi  |   |
+| Ms Chen Wei Teng  |   |
+| Ms Cindy Koh Mui Leng  |   |
+| Ms Eng Li Hwa Sally  |   |
+| Mr Heng Kai Le  |   |
+| Ms Kuan Hai Cheng  |   |
+| Ms Justine Yoong Yuping  |   |
+| Ms Kanchana Varatharajalu  |   |
 |   |   |
 |   |   |
 |   |   |
