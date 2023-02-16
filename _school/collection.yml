@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Student Informations/.keep
-      - Shuttle Bus.md
       - Admission.md
       - Fees, Financial Assistance and Uniform.md
       - Education Grants and Scholarships.md
