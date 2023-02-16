@@ -32,3 +32,12 @@ Click **[HERE](/files/Joint%20Admission%20Process%20Briefing%20Slides_NLS%20Exp-
 
 1 \.  _Priority for admission will be given to students who have attempted their PSLE thrice, twice or once in 2022._<br>
 2 \.  _The age requirements for the levels the students seeking admission to NorthLight School are as follows:_
+
+|   |   |
+|:-:|---|
+| Level Seeking  Admission To  | Permissible Age  (as at 1st January of Year of Admission)  |
+| Year 1  | 13 to 15  |
+| Year 2  | 14 to 16  |
+| Year 3  | 15 to 17  |
+| Year 4  | 16 to 18  |
+|   |   |
