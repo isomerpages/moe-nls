@@ -32,3 +32,7 @@ Our Approach: Support and sustain (Children learn best in supportive environment
 Involve stakeholders in implementing discipline structures<br>
 Clear understanding of codes of behaviours and roles<br>
 Focus on success (catch them good)<br>
+Build up quality relationships<br>
+Strong involvement of students<br>
+Clear and convenient system for obtaining emotional or additional support<br>
+Sustained encouragement
