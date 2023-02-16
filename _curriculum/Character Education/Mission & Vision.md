@@ -15,3 +15,7 @@ The PE SW curriculum at times can appear organic but it is premised on creating 
 Underlying the MOVE philosophy, the “Purposeful Play” approach is adopted. By providing the physical, cognitive, social and affective tools our students need to purposefully play, it will be a step closer to empowering them to move on their own terms. Drawing on the notion of purposeful play, the department adapted the key tenets into our SW programme and ensures that our students feel a sense of joyful completion for every given tasks. Furthermore, students are encouraged to take calculated risks and learn from their mistakes. They work in teams to collaborate and in so doing, garner a sense of ownership and pride.
 
 <img src="/images/our-framework.jpg" style="width:85%">
+
+Differentiated Learning is another approach undertaken in the teaching of PE SW. Differentiated Instruction is a complement to Purposeful Play as it student-centric and looks at the readiness of the student and this requires purposeful planning ie pre test/assessment or the modification of equipment to allow our student to experience success and for learning to take place. All these components then inform Purpose Play especially in the Preparation and Practice phases.
+
+<img src="/images/frame-work-image.jpg" style="width:85%">
