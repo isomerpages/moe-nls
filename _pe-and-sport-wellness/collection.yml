@@ -2,5 +2,6 @@ collections:
   pe-and-sport-wellness:
     output: true
     order:
+      - Scheme Of Work.md
       - Mission & Vision.md
       - Department Home.md
