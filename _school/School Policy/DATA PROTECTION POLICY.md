@@ -69,3 +69,6 @@ c. Keep the data collected for as long as there is a necessity to provide the se
 10 \. The School will only share data for the purposes of eliciting a necessary service from these third party organisations and not for commercial gain.
 
 11 \. Where the School signs explicit contracts with these organisations, it will ensure that the organisation is using the data purely for the intended purpose of providing the required service and that it is taking appropriate precautions to safeguard the data.
+
+##### CONTACTING US – WITHDRAWAL OF CONSENT, ACCESS AND CORRECTION OF YOUR PERSONAL DATA
+
