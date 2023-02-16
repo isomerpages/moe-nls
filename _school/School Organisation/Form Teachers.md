@@ -27,10 +27,9 @@ third_nav_title: School Organisation
 | <br><br>2T1  | KUAN HAI CHENG<br><br> ZHENG JINGLIN <br><br>ANDREW TAN KENG LIAN  | [kuan\_hai\_cheng@schools.gov.sg](mailto:kuan_hai_cheng@schools.gov.sg)<br><br> [zheng\_jinglin@schools.gov.sg](mailto:zheng_jinglin@schools.gov.sg) <br><br>[andrew\_tan\_keng\_lian@schools.gov.sg](mailto:andrew_tan_keng_lian@schools.gov.sg)  |
 | <br>2T2  | WOO PHUI LENG, PETRINE <br><br> WONG SHIN LOONG, DESMOND  | [woo\_phui\_leng@schools.gov.sg](mailto:woo_phui_leng@schools.gov.sg) <br><br>[wong\_shin\_loong\_desmond@schools.gov.sg](mailto:wong_shin_loong_desmond@schools.gov.sg)  |
 | <br>2T3  | CHUA TAT WEE <br><br>YEO XIN YI  | [chua\_tat\_wee@schools.gov.sg](mailto:chua_tat_wee@schools.gov.sg)<br><br> [yeo\_xin\_yi@schools.gov.sg](mailto:yeo_xin_yi@schools.gov.sg)  |
-| 2T4  | BADRAL BTE ABDULLAH<br><br> JEFFREY CHYE MIN HOCK  |   |
-| 2T5  | LIEW KUAN CHIN, FRANKIE<br><br> TONG MOH CHIH, FREDDY  |   |
-| 2T6  | HENG KAI LE <br><br>INDERJIT SINGH  |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+| <br>2T4  | BADRAL BTE ABDULLAH<br><br> JEFFREY CHYE MIN HOCK  | [badral\_abdullah@schools.gov.sg](mailto:badral_abdullah@schools.gov.sg)<br><br>[jeffrey\_chye\_min\_hock@schools.gov.sg](mailto:jeffrey_chye_min_hock@schools.gov.sg)  |
+| <br>2T5  | LIEW KUAN CHIN, FRANKIE<br><br> TONG MOH CHIH, FREDDY  | [liew\_kuan\_chin\_frankie@schools.gov.sg](mailto:liew_kuan_chin_frankie@schools.gov.sg)<br><br>[tong\_moh\_chih@schools.gov.sg](mailto:tong_moh_chih@schools.gov.sg)  |
+| <br>2T6  | HENG KAI LE <br><br>INDERJIT SINGH  | [heng\_kai\_le@schools.gov.sg](mailto:heng_kai_le@schools.gov.sg)<br><br>[inderjit\_singh@schools.gov.sg](mailto:inderjit_singh@schools.gov.sg)  |
+| <br>2T7  | DANNY SUM KAI MENG<br><br> ANG YEN SAN, MAY  |   |
+| <br>2T8  | SOH LAY HONG<br><br> LIM THIAM CHYE  |   |
 |   |   |   |
