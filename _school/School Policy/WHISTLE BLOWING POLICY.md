@@ -82,3 +82,16 @@ c.    Propriety: NLS shall not condone any frivolous, mischievous or malicio
 14 \. All concerns should be made in writing, either in the form of a letter or email, and should include the background, history of events, reasons for raising the concern, persons involved and evidence to support the concern raised.
 
 15 \.  The concern raised can be raised via email with the subject title **‘Whistle-blowing Policy’** and addressed to the relevant investigation team members.
+
+| **Concerns Regarding**  | **Suggested Channel**  | **Investigation Team Members**  |
+|:-:|---|---|
+| All matters regarding school matters, Vice-Principals or staff  | <br>[Sung\_Mee\_Har@schools.gov.sg](mailto:Sung_Mee_Har@schools.gov.sg)  | <br>Principal  |
+| <br>All matters regarding Principal  | [https://www.moe.gov.sg/feedback](https://www.moe.gov.sg/feedback)<br><br>(Under online form > Subject > Others, indicate ‘Whistle-blowing Policy’)  | <br>MOE Cluster Superintendent  |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
