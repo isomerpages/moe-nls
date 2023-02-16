@@ -28,7 +28,7 @@ third_nav_title: School Policy
 
 ##### REPORTABLE INCIDENTS
 
-7.  Below is a non-exhaustive list of examples of reportable incidents covered by this policy:
+7 \.  Below is a non-exhaustive list of examples of reportable incidents covered by this policy:
 
 *   Concerns about NLS’s accounting, internal controls, or auditing matters;
 *   Impropriety, corruption, acts of fraud, theft and/misuse of NLS’s properties, assets, or resources;
@@ -42,4 +42,40 @@ third_nav_title: School Policy
 *   Unfair practices toward staff or external parties e.g. unfair HR practices, intimidation of staff.
 
 ##### SAFEGUARDS
+
+8 \.  The policy is designed to enable directors, management and staff to raise concerns and the safeguards are put in place to facilitate the process, namely to ensure protection against reprisals for the whistle-blower and to maintain confidentiality of the identity of the whistle-blower and the concerns raised.
+
+a.   Protection: When raising concern or providing information about an actual, suspected, or anticipated wrongdoing, done in good faith; the individual , be it an employee or anyone else, he/she shall be protected against any reprisal.
+
+b.   Confidentiality: Concern or information about an actual, suspected or anticipated wrongdoing as well as its source shall be treated with strictest confidence .
+
+c.    Propriety: NLS shall not condone any frivolous, mischievous or malicious allegations.
+
+9 \.  Exceptions to the above include:
+
+*   When NLS is under legal obligation to disclose such information provided;
+*   When the information is already in the public domain;
+*   When the information is given in strict confidence to legal or auditing
+*   Professionals for the purpose of obtaining professional advice; and
+*   When the information is given to the Police for criminal investigation.
+
+10 \.  Concerns or information provided <u>anonymously</u> will still be given due consideration by NLS but will be investigated on their own merits.
+
+##### PROCEDURES
+
+11 \.  Upon receiving a concern raised in writing or in email, assessment of the concern or information shall be made with due consideration given to the following factors:
+
+*   Seriousness of the issue raised;
+*   Credibility of the concern or information; and
+*   Likelihood of confirming the concern or information from the attributable sources
+
+12 \.  Depending on the nature of the concern raised or information provided, the investigation will be conducted, involving one or more of the following individuals or entities:
+
+*   The Audit & Risk Committee
+*   The External Auditor, and/or
+*   The Police or Commercial Affairs Department.
+
+13 \.  The amount of contact between the whistle-blower and the person(s) investigating the concern raised or information provided will be determined by the nature and clarity of the matter reported. Further information may be sought from the whistle-blower during the course of the investigation. When the investigation is completed, the investigating officer(s) will report the findings to the Audit & Risk Committee for its necessary action. The school will compile the number of concerns sent to the whistle-blowing channels and update the ARC at each meeting.
+
+##### REPORTING A CONCERN
 
