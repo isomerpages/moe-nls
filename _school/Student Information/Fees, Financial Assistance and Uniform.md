@@ -43,3 +43,14 @@ There is no cut-off date for application to the MOE Financial Assistance Scheme 
 <img src="/images/Calculation for Per Capita Income (PCI).png" align=left style="width:85%">
 <br clear=left>
 
+<u>Note:</u><br>
+1 \. Please submit the completed application form together with all the necessary supporting documents to the Student Affairs Unit.
+
+[Download MOE FAS Application Form](/files/MOE%20FAS%20Application%20Form%20for%20Specialised%20Schools%20Sep%2022.pdf)
+
+2 \. Information on Transport Voucher redemption for FAS students
+
+* Please take note of the period to redeem the transport e-voucher. For example, to redeem the bus/train concession pass voucher for use in February, students can redeem the pass e-vouchers from 27 January to 26 February.
+* For June and December, a $17 top up e-voucher will be provided only for MOE FAS students (there will be no concession pass issued).
+* Click the link for the step-by-step **[redemption process](/files/How%20to%20Activate%20Card%20and%20Redeem%20Transport%20-%20Steps.pdf)**
+* Click the link for step-by-step **[replacement of lost card](/files/Replacement%20of%20Lost%20Student%20Concession%20Card%20-%20Steps.pdf)**
