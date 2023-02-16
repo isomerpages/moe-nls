@@ -39,3 +39,13 @@ The NorthLight School CCE Framework is anchored on the school motto “Never Giv
 
 We are guided by the NLS CCE Framework which is based on the belief that education is about developing the child holistically. Centred on the NLS vision and mission, this framework focuses on the knowledge, skills and values which we hope to inculcate in our students to equip them to be citizens of good character and lifelong learners. Our student development efforts are guided by three big ideas – Identity, Relationship and Choices. The framework is supported by learning structures for instructional and non-instructional programmes. Eventually, we hope to nurture our students holistically so that we are able to achieve the eight CCE learning outcomes (LOs).
 
+##### THE NORTHLIGHT SCHOOL CCE FRAMEWORK CAN BE ILLUSTRATED IN FIGURE 1.
+
+<img src="/images/cce-framework.png" style="width:85%">
+
+##### Figure 1: NorthLight School Character and Citizenship Education (CCE) Framework  
+
+The NLS CCE framework is represented by a Swiss roll. In NLS, a sound CCE curriculum and framework forms the core of education for our students. Having good values, strength in character and citizenship serve as a moral compass to help our students to steer through life.
+
+a) Core Values<br>
+Aligned to the Framework for 21CC and Student Outcomes, the SHINE values (Sincerity, Honesty, Innovation, Networking and Excellence) in NLS form the core of the NLS CCE Framework as core values are fundamental for a NorthLight student to be a person of good character and to be a useful citizen of Singapore who develops to be a lifelong learner.
