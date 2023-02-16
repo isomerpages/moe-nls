@@ -97,6 +97,30 @@ third_nav_title: School Organisation
 | Ms Chee Soon Teck Christopher  | Teacher  |
 | Mr Joey Gregory Setiawan  | Teacher  |
 |   |   |
+| **Sports and Wellness**  |   |
+| Mr Rodney Yeo Chin Koon  | HOD  |
+| Mr Ong Tai Hian Leonard  | Year Head - Yr 2  |
+| Mr Mohd Nazri Bin Jamal  | Discipline Master  |
+| Mr Koh Hor Yee  | Level Discipline Master  |
+| Miss Nurulaini Binte Ariffin  | Level Discipline Master  |
+| Mr Mohd Rasidee Bin Ishak  | Subject Head  |
+| Mr Lai Wee Chong  | Teacher  |
+| Ms Shazawani Begum Binte Abdul Karim  | Teacher  |
+| Mr Liew Kuan Chin Frankie  | Teacher  |
+| Mr Khairol Hisham Bin Mohamed Sani  | Teacher  |
+| Mr Jespal Singh Mann  | Teacher  |
+| Mr Ramsey Ram  | Teacher Aide  |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
 |   |   |
 |   |   |
 |   |   |
