@@ -2,9 +2,9 @@ collections:
   school:
     output: true
     order:
-      - School Policy/WHISTLE BLOWING POLICY.md
-      - School Policy/DATA PROTECTION POLICY.md
       - School Policy/.keep
+      - School Policy/DATA PROTECTION POLICY.md
+      - School Policy/WHISTLE BLOWING POLICY.md
       - About Us/.keep
       - About Us/About Us.md
       - About Us/School Song.md
