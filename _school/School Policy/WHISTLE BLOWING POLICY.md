@@ -90,3 +90,6 @@ c.    Propriety: NLS shall not condone any frivolous, mischievous or malicio
 | All matters regarding Chairman or Directors (excluding Chairman ARC)  | [nlswhistleblowing1@gmail.com](mailto:nlswhistleblowing1@gmail.com)<br><br>Note: this account is accessed by Chairman ARC and the Principal. Updates on emails will be provided to the Audit & Risk Committee regularly.  | <br>Chairman Audit & Risk Committee (ARC)  |
 | All matters regarding Chairman ARC  | [nlswhistleblowing2@gmail.com](mailto:nlswhistleblowing2@gmail.com)  <br><br>Note: this account is accessed by Chairman BOD and the Principal. Updates on emails will be provided to the Audit & Risk Committee regularly.  | Board Chairman together with appointed directors. Board Chairman will decide on composition depending on the nature of the situation.  |
 |   |   |   |
+
+16 \.  For reporting by mail, the whistle-blower can send the letter to the following address and attention to the relevant investigation members:
+
