@@ -29,3 +29,9 @@ There is a term limit of 4 years for the Treasurer i.e. Chairman/Finance Committ
 Once in 3 years, the Board Chairman BOD and Principal will initiate the process of renewal for the next term of office. The current 3-year term of office started on 1 June 2021.
 
 Inputs for new members are sought from Board members. All nominations are submitted to ITE and MOE for approval. The Chairman and Principal meet with all prospective/new Board members to provide them with the necessary background information on the school and the Board.
+
+#### SELF-EVALUATION
+
+Once in 3 years, the Board formally conducts self-evaluation of areas such as its contributions and effectiveness. The last self-evaluation was done in June 2020.
+
+Please refer to the following document for the policy on conflict of interest for Board members and key staff: **[Conflict of Interest](/files/NLS%20Conflict%20of%20Interest%20policy.pdf)**
