@@ -1,4 +1,5 @@
 collections:
   pe-and-sport-wellness:
     output: true
-    order: []
+    order:
+      - Department Home.md
