@@ -84,18 +84,18 @@ third_nav_title: School Organisation
 | Mr Kris Aidil Bin Abdullah  | Teacher Aide  |
 |   |   |
 | **Mathematics**  |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
+| Mr Lim Say Chionh  | HOD  |
+| Mr Lawrence Alphonsus Yeo Kim Seng  | Year Head – Yr 1  |
+| Ms Seow Wei Lin  | Year Head- Yr 4  |
+| Ms Yap Lai Boon  | Subject Head  |
+| Ms Tan Chu Yan  | Subject Head  |
+| Mdm Badral Bte Abdullah  | Teacher  |
+| Ms Woo Phui Leng Petrine  | Teacher  |
+|  Mr Inderjit Singh | Teacher  |
+| Ms Lye Foong Mei May  | Teacher  |
+| Ms Soh Lay Hong  | Teacher  |
+| Ms Chee Soon Teck Christopher  | Teacher  |
+| Mr Joey Gregory Setiawan  | Teacher  |
 |   |   |
 |   |   |
 |   |   |
