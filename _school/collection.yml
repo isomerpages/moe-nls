@@ -2,9 +2,9 @@ collections:
   school:
     output: true
     order:
-      - Student Information/Fees, Financial Assistance and Uniform.md
-      - Student Information/Admission.md
       - Student Information/.keep
+      - Student Information/Admission.md
+      - Student Information/Fees, Financial Assistance and Uniform.md
       - About Us/.keep
       - About Us/About Us.md
       - About Us/School Song.md
