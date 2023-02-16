@@ -60,3 +60,17 @@ a. Completed Financial Assistance (FAS) Application form\* with supporting docum
 \* To facilitate the application, we encourage applicant eligible for the MOE FAS to apply for his/her MOE FAS application for 2023 at his/her primary school. If he/she has sibling in the same school or other sibling in other government or government-aided school (GGAS), please include him/her in his/her sibling’s FAS application. This will facilitate his/her MOE FAS application in NorthLight School.
 
 <img src="/images/Admission Level 2021.png" style="width:85%">
+
+**Other Information**
+
+1 \.  **School Hours**  
+    Monday to Wednesday – 8.00 am to 2.45 pm  
+    Thursday (CCA) – 8.00 am to 5.00 pm  
+    Friday – 8.00 am to 12.30 pm  
+      
+Students are to be in the Hall for the flag-raising ceremony, which commences at 8.00am sharp. Students are advised to report 10 minutes earlier on Tuesday 3 Jan 2023 in the Multi-Purpose Hall at level 2.  
+      
+    
+2 \.  **Course Commencement**  
+    Day: Tuesday  
+    Date: 3 January 2023
