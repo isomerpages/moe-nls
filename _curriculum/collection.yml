@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Framework and Objectives.md
+      - Foundation Education/InfoComm Technology.md
       - Foundation Education/.keep
       - Foundation Education/Foundation Education.md
       - Foundation Education/English.md
