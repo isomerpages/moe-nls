@@ -33,3 +33,18 @@ third_nav_title: School Organisation
 | <br>2T7  | DANNY SUM KAI MENG<br><br> ANG YEN SAN, MAY  | [danny\_sum\_kai\_meng@schools.gov.sg](mailto:danny_sum_kai_meng@schools.gov.sg)<br><br>[ang\_yen\_san@schools.gov.sg](mailto:ang_yen_san@schools.gov.sg)  |
 | <br>2T8  | SOH LAY HONG<br><br> LIM THIAM CHYE  | [soh\_lay\_hong@schools.gov.sg](mailto:soh_lay_hong@moe.edu.sg)<br><br>[lim\_thiam\_chye@schools.gov.sg](mailto:lim_thiam_chye@schools.gov.sg)  |
 |   |   |   |
+
+##### YEAR 3
+
+| Class  | Form Teachers  | Email  |
+|:-:|---|---|
+| <br><br>3CS1  | PHUA SHIOK HORNG BETTY <br><br> BEMISH MANEN CHEE <br><br> SANJIT KAUR CHAHIL d/o JASWANT SINGH  | [phua\_shiok\_horng\_betty@schools.gov.sg](mailto:phua_shiok_horng_betty@schools.gov.sg)<br><br>[bemish\_manen\_ehee@schools.gov.sg](mailto:bemish_manen_ehee@schools.gov.sg)<br><br>[sanjit\_kaur\_chahil\_jaswant@schools.gov.sg](mailto:sanjit_kaur_chahil_jaswant@schools.edu.sg)  |
+| <br>3FS1  | HAMDAN BIN HAMID<br><br>  PINTO NICHOLAS MICHAEL    | [hamdan\_hamid@schools.gov.sg](mailto:hamdan_hamid@schools.gov.sg)<br><br>[pinto\_nicholas\_michael@schools.gov.sg](mailto:pinto_nicholas_michael@schools.gov.sg)  |
+| <br>3FS2  | KWAN CHONG HOW <br><br> ONG CHONG CHENG KEVIN  | [kwan\_chong\_how@schools.gov.sg](mailto:kwan_chong_how@schools.gov.sg)<br><br>[ong\_chong\_cheng@schools.gov.sg](mailto:ong_chong_cheng@schools.gov.sg)  |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
+|   |   |   |
