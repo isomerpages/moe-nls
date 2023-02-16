@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Framework and Objectives.md
-      - Character Education/GRIT Week.md
       - Character Education/.keep
       - Character Education/Character Education.md
       - Character Education/Department Home.md
@@ -11,6 +10,7 @@ collections:
       - Character Education/Scheme Of Work.md
       - Character Education/Assessment.md
       - Character Education/Great Outdoor Experience (GOE).md
+      - Character Education/GRIT Week.md
       - Foundation Education/.keep
       - Foundation Education/Foundation Education.md
       - Foundation Education/English.md
