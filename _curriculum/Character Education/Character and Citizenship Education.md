@@ -77,3 +77,16 @@ e) Post Exam Activities
 *   One NE activity for each Post Exam period;
 *   Arts Appreciation activity for each Post Exam period;
 *   Class Bonding activities to enhance TSR
+
+##### THE NORTHLIGHT PROGRAMME (NLP)
+
+NLP is part of the school Character and Citizenship Education. It aims to support the school mission to provide an engaging career-oriented and values-focused education for youth and prepare them for lifelong learning and employability.<br>
+There are 5 broad objectives:
+
+*   Support students’ development as socially responsible citizens who contribute meaningfully to the community through the learning and application of values, in particular the school values of SHINE – Sincerity, Honesty, Innovation, Network and Excellence
+*   Acquire socio-emotional competencies and Habits of Mind to help students learn skills and knowledge for meaningful relationships and to help them face various challenges in life
+*   Acquire Habits of Mind – a disposition to behave intelligently when confronted with problems or uncertainties
+*   Equip students with the necessary knowledge, skills and values to make informed decisions for successful transition from school to further education or work
+*   Develop students to become concerned citizens by helping them to better understand the interconnectedness of Singapore and the world we live in
+
+A brief outline for the curriculum is shown in the table below.
