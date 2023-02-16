@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Framework and Objectives.md
+      - Character Education/Aesthetics.md
       - Character Education/.keep
       - Character Education/Character Education.md
       - Character Education/Character and Citizenship Education.md
