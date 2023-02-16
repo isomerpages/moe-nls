@@ -51,7 +51,7 @@ VISION<br>
 *   Areas of their teaching, learning, work & communication in a
 *   Respectful, responsible and ethical way
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/curriculum/Foundation-Education/infotech/">
 <img style="width:20%" align=right src="/images/readmore.jpg">
 </a></p>
 <br clear=right>
