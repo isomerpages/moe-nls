@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - Framework and Objectives.md
+      - Foundation Education/English.md
       - Foundation Education/Foundation Education.md
       - Foundation Education/.keep
