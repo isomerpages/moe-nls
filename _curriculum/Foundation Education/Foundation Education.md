@@ -35,7 +35,7 @@ NorthLight School adopted the Mathematics Framework from the Ministry of Educati
 
 The framework sets the direction for and provides guidance in teaching, learning and assessment of mathematics, as a continuation from their primary school years.
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/curriculum/Foundation-Education/mathe/">
 <img style="width:20%" align=right src="/images/readmore.jpg">
 </a></p>
 <br clear=right>
