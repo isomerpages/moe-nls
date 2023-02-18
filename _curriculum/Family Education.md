@@ -73,3 +73,15 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexu
 | **Lesson 7: Being Aware Being Safe**  | 1 hour  | *   reflect on the reasons for people to use social networking sites to make friends or to engage their existing friends<br>*   learn about the dangers of making friends over social networking platforms  |   |
 | **Lesson 8: Media Truths & Lies**  | 1 hour  | *   express their views about information from the internet and be aware of the potential/ possible dangers of it<br>*   recognize that one does not need to rely on the internet, particularly online chat portals, to make friends  |   |
 |   |   |   |   |
+
+| **LESSON**  | **DURATION**  | **Lesson Objectives  <br>At the end of the lesson, students will be able to:**  | **TIME PERIOD**  |
+|:-:|---|---|---|
+| **Lesson 9: Love vs Infatuation**  | 1 hour  | *   understand that infatuation is temporary and a normal part of growing up<br>*   appreciate different kinds of love and crushes<br>*   demonstrate appropriate ways of showing affection towards friends, teachers and other adults  | Term 2 or 4  |
+| **Lesson 10: True Love**  | 1 hour  | *   understand what commitment and true love is  |   |
+| **Lesson 11: The Dating Game**  | 1 hour  | *   recognise the importance of developing a friendship before committing to a romantic relationship<br>*   recognise what dating involves<br>*   recognize why it is not recommended that we go steady at a young age  |   |
+| **Lesson 12: Breaking Up is Not Easy**  |   |   |   |
+| **Lesson 13: Temptation**  |   |   |   |
+| **Lesson 14: Responsible Me, Safe Me**  |   |   |   |
+| **Lesson 15: Must It Be As Expected**  |   |   |   |
+| **Lesson 16: At the Crossroads**  |   |   |   |
+|   |   |   |   |
