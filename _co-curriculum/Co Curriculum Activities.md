@@ -39,7 +39,7 @@ All students must participate in one CCA each year and must be present in all we
 Students are not allowed to transfer their CCA on their own accord.  
 All transfer requests must be submitted formally in writing to the CCA Coordinator for the School's consideration and approval. The transfer of CCA can only be done within January. The CCA Transfer Form must be completed and submitted for the CCA Coordinator's consideration.
 
-##### EXCELLENCE IN CCA: AWARDS
+**EXCELLENCE IN CCA: AWARDS**
 
 **CCA Merit Award:** <br>
 The **CCA Merit Award** awarded once every year to recognize and award top-performing students in each CCA.  
@@ -76,3 +76,13 @@ Clubs & Societies: Chairperson, Vice-Chairperson, other committee positions
 
 **CCA TERMLY SCHEDULE:**<br>
 Every Thursday, 1500 - 1700, from Term 1 - Term 4.
+
+**CCA ORIENTATION FOR NEW STUDENTS:**<br>
+This is held in January for new students (Year 1 and Year 2 Junior) where they have a chance to find out more about the wide range of CCAs that NLS offers.  
+These new students will then need to attend the CCA Selection Trials, complete the CCA Option Form (where they must indicate their choices of CCAs) and submit it online or to their Form Teacher. Each student's CCA is allocated according to how well they have performed for the selection trials as well as what they have chosen in the CCA Option Form, subject to availability.  
+The results of the CCA allocation exercise for new students will be put up prominently outside the Multi-Purpose Hall. Students must report for their allocated CCA henceforth and attend CCA sessions faithfully.  
+For enquiries, please contact:
+
+1 \.  Your child's CCA teacher 6929 6290;<br>
+2 \.  Mr Frankie Liew (CCA Coordinator) 6929 6290;<br>
+3 \.  Mr Rodney Yeo (HOD PE/ CCA) 6929 6290
