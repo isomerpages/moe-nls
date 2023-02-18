@@ -106,3 +106,5 @@ The job opportunities for ISC in Facility Services graduates are as follow:
 *   Service Technicians of Commercial building/household electrical products
 *   Assistant Air-Conditioning Technician
 *   Handyman in DIY shops
+
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
