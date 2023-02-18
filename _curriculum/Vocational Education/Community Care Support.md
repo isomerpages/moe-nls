@@ -28,5 +28,10 @@ There are 5 core modules in the ITE Skills Certificate (ISC) in Community Care S
 
 **INFECTION CONTROL & WORKPLACE SAFETY**<br>
 On completion of the module, students should be able to perform infection control and workplace safety procedures for personal hygiene and personal protection of healthcare professionals, and preparatory work to assist clients to meet basic needs.
-	
 
+<img src="/images/InfectionControl.png" style="width:85%">
+
+**COMMUNITY CARE ACTIVITIES & SERVICES**<br>
+On completion of the module, students should be able to provide support to community care and social service staff in daily operations such as meeting nutritional needs, performing screening, rendering basic first aid, performing simple wound dressings, administering topical medication, and assisting in simple healthcare procedures. In addition, students should be able to demonstrate basic attending techniques towards clients, and conduct activities.
+
+<img src="/images/CommunityCareActivities.png" style="width:85%">
