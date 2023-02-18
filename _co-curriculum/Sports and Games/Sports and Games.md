@@ -100,5 +100,15 @@ Regular practice play during CCA will drill members to improve on their dexterit
 <img style="width:20%" align=right src="/images/readmore.jpg">
 </a></p>
 
-<img src="/images/eng1.jpeg" align=left style="width:85%">
+<img src="/images/sng8.jpg" align=left style="width:85%">
 <br clear=left>
+
+**BADMINTON**
+
+To develop the members' badminton skills, fitness level and game tactics.<br>
+To inculcate discipline, sportsmanship and teamwork.<br>
+To inculcate the value social responsibility through Values In Action activities
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:20%" align=right src="/images/readmore.jpg">
+</a></p>
