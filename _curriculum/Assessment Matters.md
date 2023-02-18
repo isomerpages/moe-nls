@@ -25,3 +25,11 @@ In addition ongoing formative assessment is also used to give specific feedback 
 | Attendance minimum **80%**<br>PASS in **all** ISC moduless<br>PASS in English **or** Math  |
 |   |
 
+| Mark Range  | Grade  |
+|:-:|---|
+| 80% and above  | A  |
+| 70% - 79%  | B  |
+| 60% - 69%  | C  |
+| 50% - 59%  | D  |
+| < 50%  | F  |
+|   |   |
