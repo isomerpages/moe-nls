@@ -28,3 +28,5 @@ The department adopt the MOE’s ICAN Principles in our teaching methodology.
 Through these principles, we aim to equip our students with foundational mathematical concepts and skills to meet the general demands of life at home and at work, and also for participation in the community. At the same time, students must be able to appreciate mathematics as essential and relevant to daily life; demonstrate confidence in the use of mathematics, and perseverance in solving problems in practical and relevant situations.
 
 A key outcome of the programme is the ability to demonstrate their competency level during the Workplace Numeracy test.
+
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
