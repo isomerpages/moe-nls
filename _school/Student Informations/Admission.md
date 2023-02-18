@@ -4,8 +4,6 @@ permalink: /school/Student-Information/admission/
 description: ""
 third_nav_title: Student Informations
 ---
-
-
 ## ADMISSION
 
 #### REQUIREMENTS
@@ -76,3 +74,5 @@ Students are to be in the Hall for the flag-raising ceremony, which commences at
 2 \.  **Course Commencement**  
     Day: Tuesday  
     Date: 3 January 2023
+		
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
