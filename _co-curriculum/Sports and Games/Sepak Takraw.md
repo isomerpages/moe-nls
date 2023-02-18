@@ -24,3 +24,8 @@ During CCA sessions, the students will be engaged in physical, tactical and ment
 
 **CCA STUDENT LEADERS**
 
+|   |   |   |
+|:-:|---|---|
+| Captain (B Div) <br> Muhammad Aakif Naufal Bin Aerwan  | Vice Captain (B Div) <br> Muhammad Syazwan Bin Abdullah  | Junior Captain <br> Mohamed Naiman Indallah Bin Mohamed Tahir  |
+| <img src="/images/st5.jpg" style="width:73%">  | <img src="/images/st6.jpg" style="width:85%">  | <img src="/images/st7.jpg" style="width:64%">  |
+|   |   |   |
