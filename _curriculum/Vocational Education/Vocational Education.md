@@ -20,7 +20,9 @@ This course provides students with knowledge, skills and attitudes on basic heal
 
 <p><a href="https://www.ezhishi.net/CKPSebook2022/">
 <img style="width:20%" align=right src="/images/readmore.jpg">
-</a></p><br><br>
+</a></p>
+<br clear=right>
+<br><br>
 
 <img src="/images/eng1.jpeg" align=left style="width:85%">
 
