@@ -113,3 +113,14 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexu
 
 **Year 3**
 
+| **LESSON**  | **DURATION**  | **Lesson Objectives  <br>At the end of the lesson, students will be able to:**  | **TIME PERIOD**  |
+|:-:|---|---|---|
+| **Lesson 1: Marriage**  | 1 hour  |   |   |
+| **Lesson 2: Love Conquers All**  | 1 hour  |   |   |
+| **Lesson 3: Family**  | 1 hour  |   |   |
+| **Lesson 4: eTeens Lesson 1 – Decision Making**  | 1 hour  |   |   |
+| **Lesson 5: eTeens Lesson 2 – Assertiveness**  | 1 hour  |   |   |
+| **Lesson 6: eTeens Lesson 3 – Negotiation**  | 1 hour  |   |   |
+| **Lesson 7: eTeens Lesson 4 – Is It Safe**  | 1 hour  |   |   |
+| **Lesson 8: Online Self-Disclosure**  | 1 hour  |   |   |
+|   |   |   |   |
