@@ -85,3 +85,16 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexu
 | **Lesson 15: Must It Be As Expected**  | 1 hour  | *   know the influence of family, culture and society on one’s perception of his gender role<br>*   understand societal expectations of gender roles<br>*   recognize that societal expectations should not restrain personal development  |   |
 | **Lesson 16: At the Crossroads**  | 1 hour  | *   demonstrate healthy attitudes towards human sexuality<br>*   accept one’s uniqueness as a male or female<br>*   define what sexual orientation (heterosexuality and homosexuality) is<br>*   recognize the need to treat people with respect regardless of their sexual orientation  |   |
 |   |   |   |   |
+
+**Year 2**
+
+| **LESSON**  | **DURATION**  | **Lesson Objectives  <br>At the end of the lesson, students will be able to:**  | **TIME PERIOD**  |
+|:-:|---|---|---|
+| **Lesson 1: Online Encounters**  | 1 hour  |   |   |
+| **Lesson 2: A Touchy Issue**  |1 hour   |   |   |
+| **Lesson 3: Touching Others**  | 1 hour  |   |   |
+| **Lesson 4: Sexual Abuse**  | 1 hour  |   |   |
+| **Lesson 5: Getting To Know you**  | 1 hour  |   |   |
+| **Lesson 6: Moving On – Breaking Up**  |  1 hour |   |   |
+| **Lesson 7: The Morning After**  | 1 hour  |   |   |
+|   |   |   |   |
