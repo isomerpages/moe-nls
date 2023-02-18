@@ -44,4 +44,4 @@ A living and learning community.
 <img src="/images/The Crest-1.jpg" style="width:85%">
 <img src="/images/The Crest-2.jpg" style="width:85%">
 
-<p align="center"><a href="#"><img src="/images/arrow-up.png" style="width:20px; display:inline"/> Back to Top </a> </p>
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
