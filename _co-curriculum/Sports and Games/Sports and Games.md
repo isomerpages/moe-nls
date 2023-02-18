@@ -55,7 +55,7 @@ Objectives of CCA: To enable members to build resilience, teamwork and sportsman
 To train members to acquire basketball skills, know the game and play it well<br>
 To develop leadership qualities through the training
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/co-curriculum/Sports-and-Games/bball/">
 <img style="width:20%" align=right src="/images/readmore.jpg">
 </a></p>
 
