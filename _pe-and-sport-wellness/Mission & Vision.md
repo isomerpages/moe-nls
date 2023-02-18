@@ -3,8 +3,6 @@ title: Mission & Vision
 permalink: /curriculum/Character-Education/mv/
 description: ""
 ---
-
-
 ## MISSION & VISSION
 
 **OUR DEPARTMENT MISSION**
@@ -20,3 +18,5 @@ Underlying the MOVE philosophy, the “Purposeful Play” approach is adopted. B
 Differentiated Learning is another approach undertaken in the teaching of PE SW. Differentiated Instruction is a complement to Purposeful Play as it student-centric and looks at the readiness of the student and this requires purposeful planning ie pre test/assessment or the modification of equipment to allow our student to experience success and for learning to take place. All these components then inform Purpose Play especially in the Preparation and Practice phases.
 
 <img src="/images/frame-work-image.jpg" style="width:85%">
+
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
