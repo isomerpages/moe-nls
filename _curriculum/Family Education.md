@@ -149,3 +149,13 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexu
 | Mass Talk by HPB appointed vendor  | *   Awareness of the different STIs and HIV/AIDS<br>*   Modes of transmission<br>*   Modes of protection, specifically on how the condom is used<br>*   Consequences and impact of STIs/HIV  | Term 3  |
 | Classroom-based Lesson  | *   Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making  | Term 2 or 4  |
 |   |   |   |
+
+**Information for Parents**
+
+9 \.  Parents may opt their children out of Growing Years, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+10 \.  Parents who wish to opt their children out of the **Growing Years (GY) programme** need to complete an opt-out form. This form is downloadable **[here](/files/Parent-Opt-Out-Form-2022-NLS.pdf)** . A hardcopy or softcopy of the form, duly completed and signed, is to be submitted to the school office by 13 January 2023.
+
+11 \.Parents who wish to opt their children out of the **_eTeens_ programme** need to complete an opt-out form. This form is downloadable **[here](/files/eTeens-programme-2020.pdf).** A hardcopy or softcopy of the form, duly completed and signed, is to be submitted to the school office by 13 January 2023.
+
+12 \.  Parents an contact the school at 6929 6290 or [nls@moe.edu.sg](mailto:Northlight@ite.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
