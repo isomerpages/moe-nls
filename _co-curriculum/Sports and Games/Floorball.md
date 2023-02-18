@@ -31,3 +31,20 @@ To inculcate discipline, teamwork and passion for the sports.
 | **Member:**  <br>S. V. Muhamed Sulaimaan (3FS1)  | **Captain:**  <br>Mohammad Hafiz Bin Iswandy (2T5)  |   |
 | <img src="/images/sulaimaan.jpg" style="width:85%">  | <img src="/images/hafiz.jpg" style="width:74%">  |   |
 |   |   |   |
+
+**CCA VENUE**<br>
+MPH
+
+**CCA HIGHLIGHTS/ACHIEVEMENTS**<br>
+Participated in National Schools B Division Boys Floorball Competition in 2016, 2017,2018, 2020  
+Participated in National Schools C Division Floorball Competition in 2016, 2017  
+Took part in inter schools Friendlies with Spectra (2018), APS (2018)
+
+**PARTNERS AND ACTIVITIES**<br>
+Friendly match and Inter class competition among the Y1, Y2, Y3 and Y4
+
+**CCA PROGRAM FOR THE YEAR**<br>
+Basic Technical Skills, Offensive and Defensive play, Dribbling Skills and Tactical knowledge
+
+**VIA ACTIVITIES**<br>
+To be advised
