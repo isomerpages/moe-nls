@@ -114,4 +114,10 @@ NLA works closely with committed industry partners in this 2-year 'Work Study' p
 *   Development of workplace skills through industry-based training, job coaching & mentoring
 *   Development of essential workplace literacy and numeracy skills
 
-Benefits for students: Earn as you learn, Learn in real-work environment, Explore pathways for full
+Benefits for students: Earn as you learn, Learn in real-work environment, Explore pathways for full-time employment and progression
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:20%" align=right src="/images/readmore.jpg">
+</a></p>
+<br clear=right>
+<br><br>
