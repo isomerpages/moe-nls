@@ -10,3 +10,5 @@ third_nav_title: PE Programmes
 Team-building games embedded in the NorthLight PE curriculum allows students to learn more about working together as a team, allowing **themselves** and others to discover their strengths and weaknesses and empowering them to overcome challenges that stand in their way. As team players, they will discover that more can be achieved if they put their heads together as one. There is no I in the word TEAM plus TEAM = **T**ogether **E**veryone **A**chieves **M**ore.
 
 <img src="/images/teambuilding.jpg" style="width:85%">
+
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
