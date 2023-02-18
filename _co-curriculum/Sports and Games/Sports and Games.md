@@ -46,8 +46,18 @@ During CCA sessions, the students will be engaged in physical, tactical and ment
 <img style="width:20%" align=right src="/images/readmore.jpg">
 </a></p>
 
-<img src="/images/eng1.jpeg" align=left style="width:85%">
+<img src="/images/sng4.jpeg" align=left style="width:85%">
 <br clear=left>
+
+**BASKETBALL**
+
+Objectives of CCA: To enable members to build resilience, teamwork and sportsmanship through basketball training and competition<br>
+To train members to acquire basketball skills, know the game and play it well<br>
+To develop leadership qualities through the training
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:20%" align=right src="/images/readmore.jpg">
+</a></p>
 
 <img src="/images/eng1.jpeg" align=left style="width:85%">
 <br clear=left>
