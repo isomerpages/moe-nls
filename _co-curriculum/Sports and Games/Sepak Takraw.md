@@ -14,3 +14,10 @@ During CCA sessions, the students will be engaged in physical, tactical and ment
 
 **TEACHERS-IN-CHARGE:**
 
+|   |   |   |
+|:-:|---|---|
+| **Mr. Khairol Hisham Bin Mohamed**  <br>Sepak Takraw CCA IC  | **Mr.Hamdan Bin Hamid**  <br>Sepak Takraw CCA 2IC  | **Mr. Andrew Tan Keng Lian**  <br>Sepak Takraw CCA Teacher  |
+| <img src="/images/st1.jpg" style="width:73%">  | <img src="/images/st2.jpg" style="width:85%">  | <img src="/images/st3.jpg" style="width:85%">  |
+|   |   |   |
+|   |   |   |
+|   |   |   |
