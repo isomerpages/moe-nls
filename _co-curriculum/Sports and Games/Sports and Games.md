@@ -69,8 +69,22 @@ Football team is made up of Year 1 to Year 4 students; we cater to both the soci
 Objectives<br>
 To develop student-athletes who display self-discipline and commitment towards football; and pride and belonging to NorthLight School.
 
-<img src="/images/eng1.jpeg" align=left style="width:85%">
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:20%" align=right src="/images/readmore.jpg">
+</a></p>
+
+<img src="/images/sng6.jpg" align=left style="width:85%">
 <br clear=left>
+
+**TABLE TENNIS**
+
+Table Tennis CCA comprise mostly non-competitive groups of paddlers. CCA members are introduced to play techniques such as stroke play, footwork, ball control, service, defence and attack strategies.
+
+Regular practice play during CCA will drill members to improve on their dexterity, quick reflexes, speed, power and agility. Our members are nurtured both physically and mentally to stretch their potential. Dedication and enthusiasm towards the game will be instilled in the CCA members to achieve discipline, teamwork and sportsmanship.
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:20%" align=right src="/images/readmore.jpg">
+</a></p>
 
 <img src="/images/eng1.jpeg" align=left style="width:85%">
 <br clear=left>
