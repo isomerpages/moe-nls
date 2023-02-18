@@ -86,7 +86,7 @@ There are 5 core modules in the ISC in Retail Services course. The 5 core module
 *   Point-of-Sale Operations
 *   Industry Experiential Programme (IEP)
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/curriculum/Vocational-Education/rs/">
 <img style="width:20%" align=right src="/images/readmore.jpg">
 </a></p>
 <br clear=right>
