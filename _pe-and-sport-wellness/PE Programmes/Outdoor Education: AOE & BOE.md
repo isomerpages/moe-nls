@@ -25,3 +25,5 @@ The BOE programme in NorthLight school allows students to develop outdoor skills
 5 \.  Kayaking 1 Star Certification
 
 <img src="/images/outdoor.jpg" style="width:85%">
+
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
