@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Assessment Matters.md
       - Framework and Objectives.md
       - Character Education/.keep
       - Character Education/Character Education.md
