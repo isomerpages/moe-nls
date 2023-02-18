@@ -117,3 +117,5 @@ Various personnel in the school will help to facilitate the personal growth, dev
 ##### PARTNERSHIPS
 
 NorthLight School strives to form strategic partnerships with our stakeholders, anchored on the various key approaches with the aim of developing the 21st century competencies in our students. The guiding principle is grounded on the belief that the home, school, industry and community have a shared goal to create an environment that best supports all NLS’ students learning and development. Parents have a primary influence on their children’s total development, while schools provide the foundations through formal education. Industry and community partnerships present authentic opportunities to build the students’ sense of identity and responsibility towards the community and nation. The home, school, industry and community must work together in mutual trust, respect and understanding to bring the best out of the students.
+
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
