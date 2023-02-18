@@ -33,3 +33,23 @@ third_nav_title: Sports and Games
 <img src="/images/baseket-5.jpeg" style="width:49%" align=left>
 <img src="/images/baseket-6.jpeg" style="width:49%" align=right>
 <br clear="left"><br>
+
+**CCA HIghlights/Achievements:**
+
+*   2018- Participated in National School Games B and C Div Basketball Championship
+*   2018- Participated in Specialized Schools’ League
+*   2019- Participated in National School Games B Div Basketball Championship
+*   2019- Participated in Specialized Schools’ League
+
+**CCA Programme for the year**
+
+*   SSSC National Schools Games B and C Div Championship
+*   Specialized Schools League
+*   Overseas Training trip
+*   VIA (TBC)
+*   Basketball Clinics conducted by SportsSG
+
+**VIA Activities**
+
+*   Beach Cleaning
+*   Visit to Orphanage/Homes
