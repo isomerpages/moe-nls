@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Progression Path.md
       - Framework and Objectives.md
       - Character Education/.keep
       - Character Education/Character Education.md
@@ -23,3 +22,4 @@ collections:
       - Vocational Education/Industry Experiential Programme.md
       - Vocational Education/NorthLight Academy.md
       - Family Education.md
+      - Progression Path.md
