@@ -46,7 +46,28 @@ There are 5 core modules in the Facility Services Course. The 5 core modules are
 <br clear=right>
 <br><br>
 
-<img src="/images/eng1.jpeg" align=left style="width:85%">
+<img src="/images/ve3.jpg" align=left style="width:85%">
+<br clear=left>
+
+**HOSPITALITY SERVICES**
+ITE SKILLS CERTIFICATE (ISC) IN HOSPITALITY SEEVICES<br>
+This course provides students with the skills and knowledge to prepare basic western cuisine, provide food & beverage service, perform housekeeping and attend to customer needs, requests and enquiries.
+
+Core modules
+
+There are 5 core modules in the ITE Skills Certificate (ISC) in Hospitality Services course. The 5 core modules are:
+
+*   Food Preparation
+*   Food & Beverage Service
+*   Housekeeping Services
+*   Customer Service
+*   Industry Experiential Programme (IEP)
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:20%" align=right src="/images/readmore.jpg">
+</a></p>
+<br clear=right>
+<br><br>
 
 <img src="/images/eng1.jpeg" align=left style="width:85%">
 
