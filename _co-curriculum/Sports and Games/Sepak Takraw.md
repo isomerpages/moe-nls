@@ -54,3 +54,12 @@ Thursdays: 3 p.m - 5 p.m
 
 **VIA ACTIVITIES**<br>
 Beach Cleaning – East Coast
+
+<img src="/images/st8.jpg" style="width:85%"><br>
+
+<img src="/images/st9.jpg" style="width:85%"><br>
+
+<img src="/images/st10.jpg" style="width:85%"><br>
+
+<img src="/images/st11.jpg" style="width:85%">
+
