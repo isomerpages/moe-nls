@@ -50,8 +50,8 @@ Community forsuccessful Aging at whampoo Community Centre Aug 2019
 **VIA ACTIVITIES:**<br>
 Area cleaning of Games room
 
-<img src="/images/eng1.jpeg" style="width:85%">
+<img src="/images/bad5.jpg" style="width:85%"><br>
 
-<img src="/images/eng1.jpeg" style="width:85%">
+<img src="/images/bad6.jpg" style="width:85%"><br>
 
-<img src="/images/eng1.jpeg" style="width:85%">
+<img src="/images/bad7.jpg" style="width:85%">
