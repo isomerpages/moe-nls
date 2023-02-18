@@ -62,3 +62,14 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexu
 
 **Year 1**
 
+| **LESSON**  | **DURATION**  | **Lesson Objectives  <br>At the end of the lesson, students will be able to:**  | **TIME PERIOD**  |
+|:-:|---|---|---|
+| **Lesson 1: Puberty**  | 1 hour  | *   recognise the physical development during puberty in boys and girls<br>*   recognize the emotional changes at puberty<br>*   identify ways to cope with their physical & emotional changes<br>  | Term 1 or 3  |
+| **Lesson 2: Personal Hygiene**  | 1 hour  | *   understand the importance of personal hygiene<br>*   demonstrate the ability to maintain personal hygiene  |   |
+| **Lesson 3: The Real Self**  | 1 hour  | *   understand how one’s perception of his body is linked to personal experiences and the sources of information that are taken in<br>*   understand the influence of media on body image<br>*   understand that physical features are only one aspect of our person and identity  |   |
+| **Lesson 4: Eating Disorders**  | 1 hour  | *   recognise that one’s self-perception is influenced by his perception of his body<br>*   learn about eating disorders e.g. anorexia, bulimia<br>*   learn ways to develop healthy/positive perception of one’s body  |   |
+| **Lesson 5: Uniquely Me**  | 1 hour  | *   develop a deeper understanding and appreciation of themselves  |   |
+| **Lesson 6: Healthy Relationships**  | 1 hour  | *   define what constitute a healthy relationship<br>*   explain the need to maintain healthy relationships in the family<br>*   take steps to build healthy relationships with members of the family  |   |
+| **Lesson 7: Being Aware Being Safe**  | 1 hour  |   |   |
+| **Lesson 8: Media Truths & Lies**  | 1 hour  |   |   |
+|   |   |   |   |
