@@ -53,3 +53,5 @@ third_nav_title: Sports and Games
 
 *   Beach Cleaning
 *   Visit to Orphanage/Homes
+
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
