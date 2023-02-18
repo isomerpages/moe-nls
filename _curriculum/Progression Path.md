@@ -27,3 +27,5 @@ description: ""
 |   |   |
 
 Shortlisted applicants for **Aerospace Machining Technology / Asian Culinary Arts / Beauty & Wellness** / **Digital Animation / Floristry / Hair Fashion & Design / Pastry & Baking / Product Design / Rapid Transit Technology / Visual Communication / Western Culinary Arts** are also required to attend and pass an interview .
+
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
