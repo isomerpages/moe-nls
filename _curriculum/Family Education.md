@@ -98,3 +98,15 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexu
 | **Lesson 6: Moving On – Breaking Up**  |  1 hour | *   explain the process of grief and loss that people experience when a relationship breaks down<br>*   exercise sensitivity and empathy when communicating break-up<br>*   recognise that one can emerge stronger after a break-up  |   |
 | **Lesson 7: The Morning After**  | 1 hour  | *   distinguish between touching and petting<br>*   recognize that petting is an act of physical stimulation<br>*   realise that petting may be perceived differently by different genders<br>*   take actions to avoid the consequences of arousing one’s physical and emotional desires through petting<br>*   differentiate what constitutes a sexual act/ sexual relationship<br>*   distinguish sex as an expression of love between a married couple and sex to satisfy a physical need  |   |
 |   |   |   |   |
+
+| **LESSON**  | **DURATION**  | **Lesson Objectives  <br>At the end of the lesson, students will be able to:**  | **TIME PERIOD**  |
+|:-:|---|---|---|
+| **Lesson 8: In the Name of the Law**  | 1 hour  | *   understand why pre-marital and underage sex are punishable by law<br>*   reflect on the legal consequences of sexual behavior and include these considerations in their decision-making pertaining to pornography  |   |
+| **Lesson 9: Teenage Pregnancy**  | 1 hour  | *   understand the consequences of teenage pregnancy<br>*   identify sources to seek help and support from when faced with teenage pregnancy  |   |
+| **Lesson 10: Abortion**  | 1 hour  | *   explain the process of abortion<br>*   recognise the effects of abortion  |   |
+| **Lesson 11: Sexual Health**  | 1 hour  | *   explain the need to take responsibility for their sexual health<br>*   recognise the signs and symptoms ofAIDS & STIs and the complications<br>*   recognise how STIs/STDs can be transmitted  |   |
+| **Lesson 12: Sexual Abstinence**  | 1 hour  |   |   |
+| **Lesson 13: Contraception**  | 1 hour  |   |   |
+| **Lesson 14: Exhibitionism**  | 1 hour  |   |   |
+| **Lesson 15: Stranger Danger**  | 1 hour  |   |   |
+|   |   |   |   |
