@@ -82,3 +82,15 @@ Track & Field CCA aims to develop member's fitness levels, build resilience, tea
 <figcaption> Standard Chartered marathon Toyota ekiden event (Dec 2021)
  </figcaption>
 </figure>
+
+**CCA PROGRAM FOR THE YEAR:**
+
+*   Fitness Training at Kallang Practice Track / Bedok Reservoir / School Field.
+*   Reaction training through games.
+*   Cycling / Swimming (tbc).
+*   Scenic Run with partners.
+
+**VIA ACTIVITIES:**
+
+*   Environmental related service learning.
+*   Fitness community events.
