@@ -103,3 +103,5 @@ Upon successful completion on the course of study, ISC in Hospitality Services s
 *   Commis Cook / Pastry Cook / Baker
 *   Restaurant or In-room Dining Service Personnel
 *   Housekeeping Attendant
+
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
