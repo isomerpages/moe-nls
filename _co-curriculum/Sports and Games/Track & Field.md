@@ -39,3 +39,17 @@ Track & Field aims to:
 *   Sia Ding Yang Joshua
 *   Israfil Fitri Bin Rezal Sohairy
 
+<figure>
+<img src="/images/tnf3.jpg" style="width:90%">
+<figcaption>  CCA Student Leaders (Y1 & Y2)
+ </figcaption>
+</figure>
+
+*   Lim MingJie
+*   Sahinur Khatun
+
+**VENUE:**<br>
+School Field or Kallang Practice Track
+
+**TIMING:**<br>
+Every Thursday, 3 p.m. – 5 p.m.
