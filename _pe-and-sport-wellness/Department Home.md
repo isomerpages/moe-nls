@@ -3,8 +3,6 @@ title: Department Home
 permalink: /curriculum/Character-Education/dept-home/
 description: ""
 ---
-
-
 ## DEPARTMENT HOME
 
 <img src="/images/SW 2021.jpg" style="width:85%">
@@ -24,3 +22,5 @@ description: ""
 |  S&W  AED | Mr Ramesh  |
 | Lifestyle Mentor  | Ms Farah  |
 |   |   |
+
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
