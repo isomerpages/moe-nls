@@ -94,3 +94,15 @@ Track & Field CCA aims to develop member's fitness levels, build resilience, tea
 
 *   Environmental related service learning.
 *   Fitness community events.
+
+<figure>
+<img src="/images/tnf8.jpg" style="width:90%">
+<figcaption>  CCA training at Kallang Practice Track
+ </figcaption>
+</figure>
+
+<figure>
+<img src="/images/tnf9.jpg" style="width:90%">
+<figcaption>  CCA training at 100 plus track at Sports Hub
+ </figcaption>
+</figure>
