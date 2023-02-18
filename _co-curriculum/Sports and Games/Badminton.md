@@ -22,3 +22,10 @@ third_nav_title: Sports and Games
 
 **STUDENT LEADERS:**
 
+<img src="/images/eng6.jpeg" style="width:49%" align=left>
+<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/eng6.jpeg" style="width:49%" align=left>
+<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<br clear="left"><br>
