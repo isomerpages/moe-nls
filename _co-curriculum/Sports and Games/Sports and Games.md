@@ -30,7 +30,7 @@ Maximise the potential in every student for floorball as a team player and as a 
 
 To inculcate discipline, teamwork and passion for the sports.
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/co-curriculum/Sports-and-Games/floorball/">
 <img style="width:20%" align=right src="/images/readmore.jpg">
 </a></p>
 
