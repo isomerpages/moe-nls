@@ -70,6 +70,6 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexu
 | **Lesson 4: Eating Disorders**  | 1 hour  | *   recognise that one’s self-perception is influenced by his perception of his body<br>*   learn about eating disorders e.g. anorexia, bulimia<br>*   learn ways to develop healthy/positive perception of one’s body  |   |
 | **Lesson 5: Uniquely Me**  | 1 hour  | *   develop a deeper understanding and appreciation of themselves  |   |
 | **Lesson 6: Healthy Relationships**  | 1 hour  | *   define what constitute a healthy relationship<br>*   explain the need to maintain healthy relationships in the family<br>*   take steps to build healthy relationships with members of the family  |   |
-| **Lesson 7: Being Aware Being Safe**  | 1 hour  |   |   |
-| **Lesson 8: Media Truths & Lies**  | 1 hour  |   |   |
+| **Lesson 7: Being Aware Being Safe**  | 1 hour  | *   reflect on the reasons for people to use social networking sites to make friends or to engage their existing friends<br>*   learn about the dangers of making friends over social networking platforms  |   |
+| **Lesson 8: Media Truths & Lies**  | 1 hour  | *   express their views about information from the internet and be aware of the potential/ possible dangers of it<br>*   recognize that one does not need to rely on the internet, particularly online chat portals, to make friends  |   |
 |   |   |   |   |
