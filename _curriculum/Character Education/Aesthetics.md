@@ -29,3 +29,5 @@ The framework objectives are for every student to be able to **Create, Explore 
 | **Create**  <br>To Create to inspire confidence and creativity  | **Explore**  <br>To Explore and embrace diverse experiences  | **Appreciate**  <br>To Appreciate and cultivate understanding  |
 | Students to develop visual literacy through the arts by creating, presenting and performing.  | Students generate ideas to respond and communicate through the exploration of the arts.  | Students discover meaningful connections between the arts and the world.  |
 |   |   |   |
+
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
