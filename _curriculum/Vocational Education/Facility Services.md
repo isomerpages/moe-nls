@@ -46,3 +46,27 @@ Students are trained to fabricate and install refrigeration piping, perform leak
 **Air-Conditioning System Maintenance**
 
 Students are trained to verify air-conditioning system performance, rectify refrigerant leakage, service and replace defective components of air-conditioning system.
+
+<img src="/images/fs4.jpg" style="width:85%">
+
+**Industry Experiential Programme (IEP)**    
+
+The 9-week Industry Experiential Programme (IEP) module is compulsory for all final year students prior to their graduation. IEP provides students with the opportunities to improve their social, communication and technical skills needed for real work life upon their graduation. Their IEP is graded by industry supervisors based on their performance.
+
+<figure>
+<img src="/images/fs5.jpeg" style="width:90%">
+<figcaption>  Students replacing TV components
+ </figcaption>
+</figure>
+
+<figure>
+<img src="/images/fs6.jpeg" style="width:90%">
+<figcaption>  Students checking system pressure
+ </figcaption>
+</figure>
+
+<figure>
+<img src="/images/fs7.jpeg" style="width:90%">
+<figcaption>  Student replacing LED bulb
+ </figcaption>
+</figure>
