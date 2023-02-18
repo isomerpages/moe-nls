@@ -159,3 +159,5 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexu
 11 \.Parents who wish to opt their children out of the **_eTeens_ programme** need to complete an opt-out form. This form is downloadable **[here](/files/eTeens-programme-2020.pdf).** A hardcopy or softcopy of the form, duly completed and signed, is to be submitted to the school office by 13 January 2023.
 
 12 \.  Parents an contact the school at 6929 6290 or [nls@moe.edu.sg](mailto:Northlight@ite.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
+
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
