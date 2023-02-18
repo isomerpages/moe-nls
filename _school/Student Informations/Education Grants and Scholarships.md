@@ -4,8 +4,6 @@ permalink: /school/Student-Information/egs/
 description: ""
 third_nav_title: Student Informations
 ---
-
-
 ## EDUCATION GRANTS AND SCHOLARSHIPS
 
 #### EDUSAVE AWARDS AND SCHOLARSHIPS
@@ -36,3 +34,5 @@ Edusave Awards are given by the government annually to Singaporeans pupils to he
 |:-:|---|---|
 | <br><br><br><br><br><br>NTUC Fairprice Education Grant  | The Singaporean graduate will be nominated based on the following:<br>*   Must be Singapore Citizen or PR<br>*   Sound Character<br>*   Vocational specialisation in Retail Operations and able to complete the course<br>*   Award recipients are not eligible to hold another bursary, scholarship or study award. **Exception for MOE/School Based FAS & Edusave Awards**<br>*   Attendance rate of at least 80% for entire academic year<br>*   Conduct of at least "Good", for final semester in the academic year<br>*   All ISC modules to be graded at least "C" and above<br>*   Recipients can be 3rd or final year Retail Operation students  | <br><br><br><br><br><br><br><br>$1,000  |
 |   |   |   |
+
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
