@@ -29,3 +29,22 @@ NLS offers a wide variety of CCAs for students to cater to a myriad of interests
 |:-:|---|---|---|
 | Art Club  <br>Club de Cuisine  <br>IT Club  <br>Entrepreneurship Club  <br>Environmental Club  <br>RippLes Club  | Dance  <br>Music  | Badminton  <br>Basketball  <br>Floorball  <br>Football  <br>Sepak Takraw  <br>Table Tennis  <br>Track & Field  <br>Net Ball  | Girl Guides  <br>National Civil Defence Cadet Corps  |
 |   |   |   |   |
+
+##### CCA POLICY CONCERNING STUDENTS:
+
+**It is mandatory for every student to participate in at least one CCA.**  
+All students must participate in one CCA each year and must be present in all weekly CCA sessions on Thursday afternoons. Every student entering NLS is expected to be committed to his/ her CCA. Every student is expected to contribute and excel within the CCA that he/ she has chosen to join.
+
+**TRANSFER OF CCA**<br>
+Students are not allowed to transfer their CCA on their own accord.  
+All transfer requests must be submitted formally in writing to the CCA Coordinator for the School's consideration and approval. The transfer of CCA can only be done within January. The CCA Transfer Form must be completed and submitted for the CCA Coordinator's consideration.
+
+##### EXCELLENCE IN CCA: AWARDS
+
+**CCA Merit Award:** <br>
+The **CCA Merit Award** awarded once every year to recognize and award top-performing students in each CCA.  
+Criteria:
+
+1 \.  Consistent attendance in CCA sessions;<br>
+2 \.  Positive learning attitude;<br>
+3 \.  Consistently demonstrates the SHINE values
