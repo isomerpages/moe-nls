@@ -2,8 +2,6 @@ collections:
   co-curriculum:
     output: true
     order:
-      - Performing Arts/Performing Arts.md
-      - Performing Arts/.keep
       - Co Curriculum Activities.md
       - Sports and Games/.keep
       - Sports and Games/Sports and Games.md
@@ -15,3 +13,5 @@ collections:
       - Sports and Games/Football.md
       - Sports and Games/Table Tennis.md
       - Sports and Games/Track & Field.md
+      - Performing Arts/.keep
+      - Performing Arts/Performing Arts.md
