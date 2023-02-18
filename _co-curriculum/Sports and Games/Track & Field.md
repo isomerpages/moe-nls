@@ -64,3 +64,21 @@ Every Thursday, 3 p.m. – 5 p.m.
 
 **PARTNERS AND ACTIVITIES:**<br>
 Track & Field CCA aims to develop member's fitness levels, build resilience, team spirit and responsibilities through opportunities provided by school and CCA partner SportsCare Singapore.
+
+<figure>
+<img src="/images/tnf5.jpg" style="width:90%">
+<figcaption> Outdoor Run with Li Foundation Volunteers (Mar 2021)
+ </figcaption>
+</figure>
+
+<figure>
+<img src="/images/tnf6.jpg" style="width:90%">
+<figcaption> SportsCares-Li foundation Multisport Bicycle Handover (Oct 2021)
+ </figcaption>
+</figure>
+
+<figure>
+<img src="/images/tnf7.jpg" style="width:90%">
+<figcaption> Standard Chartered marathon Toyota ekiden event (Dec 2021)
+ </figcaption>
+</figure>
