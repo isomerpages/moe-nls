@@ -59,8 +59,12 @@ To develop leadership qualities through the training
 <img style="width:20%" align=right src="/images/readmore.jpg">
 </a></p>
 
-<img src="/images/eng1.jpeg" align=left style="width:85%">
+<img src="/images/sng5.jpg" align=left style="width:85%">
 <br clear=left>
+
+**FOOTBALL**
+
+Football team is made up of Year 1 to Year 4 students; we cater to both the social recreation students and also the competitive school team.
 
 <img src="/images/eng1.jpeg" align=left style="width:85%">
 <br clear=left>
