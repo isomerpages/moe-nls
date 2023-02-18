@@ -30,3 +30,35 @@ School Parade Square
 
 **CCA Trainings**<br>
 Every Friday - 8.30am – 11.00am
+
+<img src="/images/nb1.jpg" style="width:49%" align=left>
+<img src="/images/nb2.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/nb3.jpg" style="width:49%" align=left>
+<img src="/images/nb4.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+**CCA Highlights/Achievements:**  
+
+*   National School Games ‘B’ Divisions South Zone Netball 2019
+*     National School Games ‘C’ Divisions South Zone Netball 2019
+*   Pesta Sukan Netball Carnival 2019
+
+**Partners and activities**
+
+*   Deloitte Group ( Pesta Sukan Netball Carnival 2019) CCA Programme for the year 
+*   M1 Mission Food Asian Netball Tournament 2019
+
+**CCA Programme for the year**  
+
+*   Year 1 CCA Orientation
+*   National School Games ‘B’ Divisions South Zone Netball 2020
+*   CCA Facilitation Toolkit Day
+*   National School Games ‘C’ Divisions South Zone Netball 2020
+*   Pesta Sukan Netball Carnival 2020
+*   Camp / OLJ
+
+**VIA Activities**
+
+*   VIA at M1 Mission Food Asian Netball Tournament 2020
