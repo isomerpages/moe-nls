@@ -82,7 +82,7 @@ Table Tennis CCA comprise mostly non-competitive groups of paddlers. CCA members
 
 Regular practice play during CCA will drill members to improve on their dexterity, quick reflexes, speed, power and agility. Our members are nurtured both physically and mentally to stretch their potential. Dedication and enthusiasm towards the game will be instilled in the CCA members to achieve discipline, teamwork and sportsmanship.
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/co-curriculum/Sports-and-Games/tt/">
 <img style="width:20%" align=right src="/images/readmore.jpg">
 </a></p>
 
