@@ -28,4 +28,6 @@ To inculcate discipline, teamwork and passion for the sports.
 | <img src="/images/mikail.jpg" style="width:85%">  | <img src="/images/mukkesh.jpg" style="width:72%">  | <img src="/images/bryan.jpg" style="width:85%">  |
 | **Captain:**  <br>Aaryan Bin Jasmani (3FS1)  | **Vice-Captain:**  <br>Ryan Eldelfi Jurayme (3HS1)  | **Member:**  <br>Terry Tan Li Wei (3RS2)  |
 | <img src="/images/aaryan.jpg" style="width:85%">  | <img src="/images/ryan.jpg" style="width:72%">  | <img src="/images/terry.jpg" style="width:85%">  |
+| **Member:**  <br>S. V. Muhamed Sulaimaan (3FS1)  | **Captain:**  <br>Mohammad Hafiz Bin Iswandy (2T5)  |   |
+| <img src="/images/sulaimaan.jpg" style="width:85%">  | <img src="/images/hafiz.jpg" style="width:74%">  |   |
 |   |   |   |
