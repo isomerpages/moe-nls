@@ -135,3 +135,17 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexu
 | **Lesson 4: The Dating Game**  | 1 hour  | *   evaluate one’s readiness for a romantic relationship, leading to marriage<br>*   recognise that intimacy in a relationship need not be limited to physical intimacy<br>*   recognise that break ups can allow one to understand oneself better  |   |
 | **Lesson 5: Family**  | 1 hour  | *   recognize and the importance of not stereotyping according to gender in the family<br>*   learn about imperfections in family and how to accept differences and get along with family members  |   |
 |   |   |   |   |
+
+**_eTeens Programme:_**
+
+7 \.  eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme.
+
+8 \.  Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
+
+**At NorthLight School, the _eTeens_ programme will be implemented as follows in 2023:**
+
+| **Topics/Lessons**  | **Programme Learning Objectives**  | **Time Period**  |
+|:-:|---|---|
+| Mass Talk by HPB appointed vendor  | *   Awareness of the different STIs and HIV/AIDS<br>*   Modes of transmission<br>*   Modes of protection, specifically on how the condom is used<br>*   Consequences and impact of STIs/HIV  | Term 3  |
+| Classroom-based Lesson  | *   Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making  | Term 2 or 4  |
+|   |   |   |
