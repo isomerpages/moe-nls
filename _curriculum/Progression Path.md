@@ -26,3 +26,4 @@ description: ""
 | <br>**_ISC_** **GPA ≥ 2.5**<br><br>required for all courses  | **\*** Also requires **Workplace Numeracy: Level 4**<br><br>**+** Also requires **Workplace Literacy: Level 4 in Reading & Writing**<br><br>**+ Level 5 in Listening & Speaking**  |
 |   |   |
 
+Shortlisted applicants for **Aerospace Machining Technology / Asian Culinary Arts / Beauty & Wellness** / **Digital Animation / Floristry / Hair Fashion & Design / Pastry & Baking / Product Design / Rapid Transit Technology / Visual Communication / Western Culinary Arts** are also required to attend and pass an interview .
