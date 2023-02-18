@@ -33,3 +33,5 @@ In addition ongoing formative assessment is also used to give specific feedback 
 | 50% - 59%  | D  |
 | < 50%  | F  |
 |   |   |
+
+##### <center> KINDLING PASSION. IGNITING POSSIBILITIES</center>
