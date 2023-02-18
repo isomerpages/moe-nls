@@ -2,9 +2,9 @@ collections:
   co-curriculum:
     output: true
     order:
-      - Sports and Games/Floorball.md
       - Sports and Games/.keep
       - Sports and Games/Sports and Games.md
       - Sports and Games/Badminton.md
       - Sports and Games/Basketball.md
+      - Sports and Games/Floorball.md
       - Co Curriculum Activities.md
