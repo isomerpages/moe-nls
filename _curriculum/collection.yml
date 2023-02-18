@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Assessment Matters.md
       - Framework and Objectives.md
       - Character Education/.keep
       - Character Education/Character Education.md
@@ -24,3 +23,4 @@ collections:
       - Vocational Education/NorthLight Academy.md
       - Family Education.md
       - Progression Path.md
+      - Assessment Matters.md
