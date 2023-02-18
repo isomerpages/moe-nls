@@ -40,3 +40,12 @@ On completion of this module, students should be able to perform pre-service act
 **Housekeeping Services**
 
 On completion of this module, students should be able to clean the guest rooms of an accommodation establishment and performs other housekeeping duties as required.
+
+<img src="/images/HospitalityHouseKeeping.jpg" style="width:49%" align=left>
+<br clear="left"><br>
+
+**Customer Service**  
+
+On completion of this module, students should be able to provide basic customer service involving the use of communication skills over the telephone and through face-to-face contact, and to carry out service recovery where appropriate.
+
+<img src="/images/HospitalityCustomerService.jpg" style="width:85%">
