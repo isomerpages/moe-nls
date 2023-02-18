@@ -90,11 +90,11 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexu
 
 | **LESSON**  | **DURATION**  | **Lesson Objectives  <br>At the end of the lesson, students will be able to:**  | **TIME PERIOD**  |
 |:-:|---|---|---|
-| **Lesson 1: Online Encounters**  | 1 hour  |   |   |
-| **Lesson 2: A Touchy Issue**  |1 hour   |   |   |
-| **Lesson 3: Touching Others**  | 1 hour  |   |   |
-| **Lesson 4: Sexual Abuse**  | 1 hour  |   |   |
-| **Lesson 5: Getting To Know you**  | 1 hour  |   |   |
+| **Lesson 1: Online Encounters**  | 1 hour  | *   express their views about information from the internet and be aware of the potential/ possible dangers of it  |   |
+| **Lesson 2: A Touchy Issue**  |1 hour   | *   recognise how new media has shaped public perception of acceptability of public display of affection<br>*   know that certain public displays of affection are not considered appropriate behaviour in our society  |   |
+| **Lesson 3: Touching Others**  | 1 hour  | *   develop healthy attitudes towards one’s body<br>*   recognize acceptable and unacceptable ways of touching others  |   |
+| **Lesson 4: Sexual Abuse**  | 1 hour  | *   explain what constitutes a sexual act<br>*   recognize what sexual abuse is and the different types of sexual abuse<br>*   know the physiological, psychological and social impact of sexual abuse on the individual<br>*   recognise the provision of Singapore laws that serves to protect teenagers from sexual perpetrators and persecute those who have committed such crimes<br>*   identify sources to seek help and support  |   |
+| **Lesson 5: Getting To Know you**  | 1 hour  | *   recognize what constitutes responsible dating<br>*   evaluate if a dating relationship is healthy or unhealthy<br>*   demonstrate competencies in managing emotions in dating and romantic relationships  |   |
 | **Lesson 6: Moving On – Breaking Up**  |  1 hour |   |   |
 | **Lesson 7: The Morning After**  | 1 hour  |   |   |
 |   |   |   |   |
