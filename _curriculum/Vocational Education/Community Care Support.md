@@ -101,3 +101,5 @@ Upon successful completion of the course of study, ISC in Community Care Support
 *   **Healthcare Assistant**
 
 providing care support to seniors and clients, under the direction and supervision of community care professionals in Social Service Agencies such as Community Hospital, Nursing Home, Community Rehabilitation Centre, Senior Care Centre and Senior Activity Centre.
+
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
