@@ -97,3 +97,12 @@ ITE Skills Certificate (ISC) in Facility Services graduates with good results ma
 *   Nitec in Urban Greenery & Landscape
 *   Nitec in Mechatronics & Robotics
 *   Nitec in Rapid Transit Technology
+
+<b><u>Career Opportunities for Facility Services</b></u><br>
+The job opportunities for ISC in Facility Services graduates are as follow:
+
+*   Assistant Electricians or Plumbers at construction sites
+*   Assistant Facility Maintenance Technician at commercial building, hospitals condominiums and factories
+*   Service Technicians of Commercial building/household electrical products
+*   Assistant Air-Conditioning Technician
+*   Handyman in DIY shops
