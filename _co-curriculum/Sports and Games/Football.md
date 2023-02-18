@@ -49,3 +49,5 @@ Thursdays: 3 p.m - 5 p.m
 <img src="/images/ft3.jpg" style="width:85%"><br>
 <img src="/images/ft4.jpg" style="width:85%"><br>
 <img src="/images/ft5.jpg" style="width:85%">
+
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
