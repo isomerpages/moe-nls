@@ -66,3 +66,5 @@ third_nav_title: School Organisation
 |  S451 | GERALDINE CHEAH SOH KUAN  | [geraldine\_cheah\_soh\_kuan@schools.gov.sg](mailto:geraldine_cheah_soh_kuan@schools.gov.sg)  |
 | S461  | LOW YONG CHOONG, JESPER  | [low\_yong\_choong@schools.gov.sg](mailto:low_yong_choong@schools.gov.sg)  |
 |   |   |   |
+
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
