@@ -4,8 +4,6 @@ permalink: /school/Student-Information/ffau/
 description: ""
 third_nav_title: Student Informations
 ---
-
-
 ## FEES, FINANCIAL ASSISTANCE AND UNIFORM
 
 #### SCHOOL FEES
@@ -105,3 +103,5 @@ Please note that original paid hospital invoices or clinic receipts will be requ
 5 \. Most claims require prior payment to be made first. Reimbursement by NTUC Income will be done upon approval of claims.
 
 If you have any queries, please contact SAU Manager, Mr Desmond Chua @ 6929 6256 or email: [chua\_kok\_boon\_desmond@schools.gov.sg](mailto:chua_kok_boon_desmond@schools.gov.sg)
+
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
