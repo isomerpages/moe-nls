@@ -8,11 +8,11 @@ third_nav_title: Vocational Education
 
 <img src="/images/ve3.jpg" style="width:85%">
 
-<b><u>ITE SKILLS CERTIFICATE (ISC) IN HOSPITALITY SERVICES</b></u>
+<u><b>ITE SKILLS CERTIFICATE (ISC) IN HOSPITALITY SERVICES</u></b>
 
 This course provides students with the skills and knowledge to prepare basic western cuisine, provide food & beverage service, perform housekeeping and attend to customer needs, requests and enquiries.
 
-<b><u>CORE MODULES</b></u>
+<u><b>CORE MODULES</u></b>
 
 There are 5 core modules in the ITE Skills Certificate (ISC) in Hospitality Services course. The 5 core modules are:
 
@@ -22,7 +22,7 @@ There are 5 core modules in the ITE Skills Certificate (ISC) in Hospitality Serv
 *   Customer Service
 *   Industry Experiential Programme (IEP)
 
-<b><u>CORE MODULES FOR HOSPITALITY SERVICES</b></u>
+<u><b>CORE MODULES FOR HOSPITALITY SERVICES</u></b>
 
 **Food Preparation**
 
@@ -67,7 +67,7 @@ The IEP module provides:
 
 <img src="/images/hospitality.jpg" style="width:85%">
 
-<b><u>Electives for Hospitality Services</b></u>
+<u><b>Electives for Hospitality Services</u></b>
 
 Students must complete a minimum of 4 electives at the end of the course.
 
