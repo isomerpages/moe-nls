@@ -186,3 +186,5 @@ SPARKS@NLS is an after-school engagement programme that is targeted at identifie
 <br clear="left"><br>
 
 <img src="/images/DisciplineSparks03.jpg" style="width:60%">
+
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
