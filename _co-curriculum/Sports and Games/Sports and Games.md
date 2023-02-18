@@ -86,8 +86,19 @@ Regular practice play during CCA will drill members to improve on their dexterit
 <img style="width:20%" align=right src="/images/readmore.jpg">
 </a></p>
 
-<img src="/images/eng1.jpeg" align=left style="width:85%">
+<img src="/images/sng7.jpg" align=left style="width:85%">
 <br clear=left>
+
+**NETBALL**
+
+*   To develop in our Netballers the love for the sport.
+*   To provide opportunities for Netballers to participate and grow in their leadership skills.
+*    To develop students’ basic skills, competency and confidence in the sport.
+*   To strengthen togetherness among students interested in the sport.
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:20%" align=right src="/images/readmore.jpg">
+</a></p>
 
 <img src="/images/eng1.jpeg" align=left style="width:85%">
 <br clear=left>
