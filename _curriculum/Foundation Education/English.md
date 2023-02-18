@@ -60,3 +60,5 @@ Customising curriculum and pedagogical approaches to individual needs is critica
     *   read and view with understanding, accuracy and appreciation of texts.
     *   produce functional, transactional texts, e.g. reports, letters and completing forms.
     *   present information through different modes to create impact.
+
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
