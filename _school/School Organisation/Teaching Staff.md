@@ -132,3 +132,5 @@ third_nav_title: School Organisation
 | Ms Phua Shiok Horng Betty  | Teacher  |
 | Ms Bemish Manen Chee  | Teacher  |
 |   |   |
+
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
