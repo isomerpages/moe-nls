@@ -62,3 +62,5 @@ Every Friday - 8.30am – 11.00am
 **VIA Activities**
 
 *   VIA at M1 Mission Food Asian Netball Tournament 2020
+
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
