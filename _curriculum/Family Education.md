@@ -103,10 +103,10 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexu
 |:-:|---|---|---|
 | **Lesson 8: In the Name of the Law**  | 1 hour  | *   understand why pre-marital and underage sex are punishable by law<br>*   reflect on the legal consequences of sexual behavior and include these considerations in their decision-making pertaining to pornography  |   |
 | **Lesson 9: Teenage Pregnancy**  | 1 hour  | *   understand the consequences of teenage pregnancy<br>*   identify sources to seek help and support from when faced with teenage pregnancy  |   |
-| **Lesson 10: Abortion**  | 1 hour  | *   explain the process of abortion<br>*   recognise the effects of abortion  |   |
+| **Lesson 10: Abortion**  | 1 hour  | *   explain the process of abortion<br>*   recognise the effects of abortion  | Term 2 or 4  |
 | **Lesson 11: Sexual Health**  | 1 hour  | *   explain the need to take responsibility for their sexual health<br>*   recognise the signs and symptoms ofAIDS & STIs and the complications<br>*   recognise how STIs/STDs can be transmitted  |   |
-| **Lesson 12: Sexual Abstinence**  | 1 hour  |   |   |
-| **Lesson 13: Contraception**  | 1 hour  |   |   |
-| **Lesson 14: Exhibitionism**  | 1 hour  |   |   |
-| **Lesson 15: Stranger Danger**  | 1 hour  |   |   |
+| **Lesson 12: Sexual Abstinence**  | 1 hour  | *   recognise that respect and responsible decision making are important in relationships<br>*   recognise the value of sexual abstinence before marriage  |   |
+| **Lesson 13: Contraception**  | 1 hour  | *   state the various contraception methods and describe their side effects<br>*   take steps to protect oneself against the potentially harmful consequences of sexual relationships like STDs and adolescent pregnancy  |   |
+| **Lesson 14: Exhibitionism**  | 1 hour  | *   know what exhibitionism is<br>*   show an awareness that exhibitionism is punishable by law<br>*   know what to do in the presence of an exhibitionist  |   |
+| **Lesson 15: Stranger Danger**  | 1 hour  | *   recognise the danger of meeting online friends, sharing too much personal info online<br>*   be aware of the physical boundaries with the adults they know<br>*   learn about sexting, sexual grooming, love scams e.g. sextortion  |   |
 |   |   |   |   |
