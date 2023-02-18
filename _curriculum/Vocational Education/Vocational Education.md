@@ -40,7 +40,7 @@ There are 5 core modules in the Facility Services Course. The 5 core modules are
 *   Air-Conditioning System Maintenance
 *   Industry Experiential Programme (IEP)
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/curriculum/Vocational-Education/fs/">
 <img style="width:20%" align=right src="/images/readmore.jpg">
 </a></p>
 <br clear=right>
