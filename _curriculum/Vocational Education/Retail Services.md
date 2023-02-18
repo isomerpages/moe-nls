@@ -42,6 +42,17 @@ On completion of this module, students should be able to prepare visual displays
 
 On completion of this module, students should be able to handle the movement of appropriate merchandise, sell merchandise, handle objections, close a sale, handle store security and issues relating to workplace safety and health.
 
-<img src="/images/eng1.jpeg" style="width:85%">
+<img src="/images/rs3.jpg" style="width:85%">
 
-<img src="/images/eng1.jpeg" style="width:85%">
+**Point-of-Sale Operations**
+
+On completion of this module, students should be able to set up a check-out counter, handle payment, bag goods and perform end-of-day closing.
+
+<img src="/images/rs4.jpg" style="width:85%">
+
+**Industry Experiential Programme (IEP)**
+
+As part of the ITE Skills Certificate (ISC) assessment, final year students are required to fulfil their IEP comprising 9 weeks of industry attachment in Year 4. Their IEP is graded by industry supervisors based on the students’ performance.
+
+Internships offer students with hands-on opportunity to work in their desired field and the experience to see what it is like actually working in the real work environment. They will not only learn how their course of study applies to the real world but also gain invaluable insight to evaluate the types of jobs that match their personal interests and personality for their future career path. It also serves as a platform for students to improve social, communication and technical skills needed for their working life upon graduation.
+
