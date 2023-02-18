@@ -35,3 +35,15 @@ On completion of the module, students should be able to perform infection contro
 On completion of the module, students should be able to provide support to community care and social service staff in daily operations such as meeting nutritional needs, performing screening, rendering basic first aid, performing simple wound dressings, administering topical medication, and assisting in simple healthcare procedures. In addition, students should be able to demonstrate basic attending techniques towards clients, and conduct activities.
 
 <img src="/images/CommunityCareActivities.png" style="width:85%">
+
+Images used with permission from Kwong Wai Siu Hospital, [https://www.kwsh.org.sg/en/](https://www.kwsh.org.sg/en/) accessed on 18 August 2022
+
+**ENVIRONMENTAL HYGIENE & CLEANLINESS**<br>
+On completion of the module, students should be able to assist in cleaning healthcare equipment, and maintaining cleanliness and tidiness of client's and care assistant's environments. In addition, they should also be able to support community care and social service staff in maintaining inventory control records.
+
+<img src="/images/EnvtHygiene.png" style="width:85%">
+
+**PERSONAL CARE & MOBILITY NEEDS**<br>
+On completion of the module, students should be able to support community care and social service staff in maintaining personal hygiene of clients. In addition, they should also be able to assist clients with various medical conditions in transfers and use of mobility aids.
+
+<img src="/images/PersonalCare.png" style="width:85%">
