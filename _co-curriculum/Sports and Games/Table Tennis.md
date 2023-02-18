@@ -67,3 +67,9 @@ Thursday 3 p.m. – 5 p.m.
 
 *   School Cleanliness Campaign
 *   Interaction with Elderly at Senior Activities Centre (Planned)
+
+<img src="/images/tt4.jpg" style="width:85%"><br>
+<img src="/images/tt5.jpg" style="width:85%"><br>
+<img src="/images/tt6.jpg" style="width:85%"><br>
+<img src="/images/tt7.jpg" style="width:85%">
+
