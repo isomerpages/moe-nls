@@ -79,9 +79,9 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexu
 | **Lesson 9: Love vs Infatuation**  | 1 hour  | *   understand that infatuation is temporary and a normal part of growing up<br>*   appreciate different kinds of love and crushes<br>*   demonstrate appropriate ways of showing affection towards friends, teachers and other adults  | Term 2 or 4  |
 | **Lesson 10: True Love**  | 1 hour  | *   understand what commitment and true love is  |   |
 | **Lesson 11: The Dating Game**  | 1 hour  | *   recognise the importance of developing a friendship before committing to a romantic relationship<br>*   recognise what dating involves<br>*   recognize why it is not recommended that we go steady at a young age  |   |
-| **Lesson 12: Breaking Up is Not Easy**  |   |   |   |
-| **Lesson 13: Temptation**  |   |   |   |
-| **Lesson 14: Responsible Me, Safe Me**  |   |   |   |
-| **Lesson 15: Must It Be As Expected**  |   |   |   |
-| **Lesson 16: At the Crossroads**  |   |   |   |
+| **Lesson 12: Breaking Up is Not Easy**  | 1 hour  | *   identify why relationships break down<br>*   identify the emotions that accompany the breakdown of a relationship<br>*   know healthy ways of coping with rejections and breakups<br>*   recognise the need to be respectful and responsible in ending a relationship<br>*   know ways to seek support when going through a breakdown of relationship and offer support for those going through the same  |   |
+| **Lesson 13: Temptation**  | 1 hour  | *   recognize the sources of temptation and situations that can lead to pre-marital sex<br>*   resist pressure to engage in sexual activities  |   |
+| **Lesson 14: Responsible Me, Safe Me**  | 1 hour  |   |   |
+| **Lesson 15: Must It Be As Expected**  | 1 hour  |   |   |
+| **Lesson 16: At the Crossroads**  | 1 hour  |   |   |
 |   |   |   |   |
