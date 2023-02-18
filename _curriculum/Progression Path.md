@@ -21,3 +21,8 @@ description: ""
 | • Logistics Services<br><br>• Retail Services<br><br>• Asian Culinary Arts<br><br>• Hospitality Operations **+**<br><br>• Pastry & Baking **+**<br><br>• Western Culinary Arts **+**  | • Logistics Services<br><br>• Retail Services<br><br>• Beauty & Wellness<br><br>• Hair Fashion & Design<br><br>• Floristry **+**<br><br>• Hospitality Operations **+**  |
 |   |   |
 
+|   |   |
+|:-:|---|
+| <br>**_ISC_** **GPA ≥ 2.5**<br><br>required for all courses  | **\*** Also requires **Workplace Numeracy: Level 4**<br><br>**+** Also requires **Workplace Literacy: Level 4 in Reading & Writing**<br><br>**+ Level 5 in Listening & Speaking**  |
+|   |   |
+
