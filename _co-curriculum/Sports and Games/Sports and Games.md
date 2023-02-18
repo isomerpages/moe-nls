@@ -17,7 +17,7 @@ third_nav_title: Sports and Games
 *   To build character, team spirit and responsibility and provide opportunities for development of leadership potential through CCA.
 *   To build resilience through training and participation in competition.
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/co-curriculum/Sports-and-Games/tnf/">
 <img style="width:20%" align=right src="/images/readmore.jpg">
 </a></p>
 
