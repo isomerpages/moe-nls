@@ -29,3 +29,28 @@ During CCA sessions, the students will be engaged in physical, tactical and ment
 | Captain (B Div) <br> Muhammad Aakif Naufal Bin Aerwan  | Vice Captain (B Div) <br> Muhammad Syazwan Bin Abdullah  | Junior Captain <br> Mohamed Naiman Indallah Bin Mohamed Tahir  |
 | <img src="/images/st5.jpg" style="width:73%">  | <img src="/images/st6.jpg" style="width:85%">  | <img src="/images/st7.jpg" style="width:64%">  |
 |   |   |   |
+
+**VENUE**<br>
+NLS Indoor Sports Hall - ISH
+
+**CCA TIMING**<br>
+Thursdays: 3 p.m - 5 p.m<br>
+School Team Training (if any)  <br>
+Thursdays: 3 p.m - 5 p.m
+
+**HIGHLIGHTS/ACHIEVEMENTS**
+
+*   2022 — Qualify to Quarter final in Singapore National School Games - Sepak Takraw (B Division)
+*   2019 — 2nd Place in Singapore National School Games - Sepak Takraw (C Division)
+*   2017 — 4th Place in Singapore National School Games - Sepak Takraw (C Division)
+*   2015 — South Zone Champion - Inter Zone Sepak Takraw Tournament (B Division)
+
+**CCA PROGRAMME FOR THE YEAR**
+
+*   National Sepak Takraw Tournament (B Div)
+*   National Sepak Takraw Tournament (C Div)
+*   Inter-class Sepak Takraw
+*   Friendly match
+
+**VIA ACTIVITIES**<br>
+Beach Cleaning – East Coast
