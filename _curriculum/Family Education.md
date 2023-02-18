@@ -124,3 +124,14 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexu
 | **Lesson 7: eTeens Lesson 4 – Is It Safe**  | 1 hour  | *   learn risk reduction for STIs/HIV and assess situations to aid the control of impulses in sexual behaviour  |   |
 | **Lesson 8: Online Self-Disclosure**  | 1 hour  | *   recognize the potential/ possible dangers of online self-disclosure  |   |
 |   |   |   |   |
+
+**Year 4**
+
+| **LESSON**  | **DURATION**  | **Lesson Objectives  <br>At the end of the lesson, students will be able to:**  | **TIME PERIOD**  |
+|:-:|---|---|---|
+| **Lesson 1: Being Safe**  | 1 hour  | *   learn about stranger danger, and the pros & cons of making friends over social networking platforms<br>*   recognise the inappropriate touch from ‘familiar’ adults and about ‘crossing boundaries’  | Term 1 & 2 or 3  |
+| **Lesson 2: Respecting Others**  | 1 hour  | *   learn what sexual expletives really mean<br>*   learn that hurling vulagarites, calling names or labelling others inappropriately as gay, lesbian, isolating others based on appearance or behaviour traits are acts of discrimination and bullying  |   |
+| **Lesson 3: PorNOgraphy**  | 1 hour  | *   recognise how how peer pressure can influence decision-making<br>*   learn how to resist peer pressure and temptations to watch porn or commit sexual acts  |   |
+| **Lesson 4: The Dating Game**  | 1 hour  | *   evaluate one’s readiness for a romantic relationship, leading to marriage<br>*   recognise that intimacy in a relationship need not be limited to physical intimacy<br>*   recognise that break ups can allow one to understand oneself better  |   |
+| **Lesson 5: Family**  | 1 hour  | *   recognize and the importance of not stereotyping according to gender in the family<br>*   learn about imperfections in family and how to accept differences and get along with family members  |   |
+|   |   |   |   |
