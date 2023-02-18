@@ -78,3 +78,28 @@ The electives offered are:
 3 \.  Local Cuisine<br>
 4 \.  Basic Mechanical Servicing<br>
 5 \.  Basic Retail Services
+
+<u><b>Taster Programme for Hospitality Services</u></b>
+
+The taster module for the ISC in Hospitality Services is titled Basic Culinary Art. It aims to train students to prepare simple western dishes and to understand the importance of safety and hygiene when working in the kitchen.
+
+<u><b>Progression & Career Opportunities for Hospitality Services</u></b>
+
+Eligible ISC in Hospitality Services graduates will be able to progress to the following Nitec courses if they have obtained a minimum GPA score of 2.5 and a Workplace Literacy (WPL) Level 5 in Listening and Speaking, Level 4 in Reading and Writing..
+
+The available courses are:
+
+*   _Nitec_ in Asian Culinary Arts
+*   _Nitec_ in Western Culinary Arts
+*   _Nitec_ in Pastry & Baking
+*   _Nitec_ in Hospitality Operations
+
+Or NorthLight Academy
+
+**Career Opportunities**
+
+Upon successful completion on the course of study, ISC in Hospitality Services students would be able to apply for entry-level employment in the hospitality sector as:
+
+*   Commis Cook / Pastry Cook / Baker
+*   Restaurant or In-room Dining Service Personnel
+*   Housekeeping Attendant
