@@ -56,3 +56,49 @@ As part of the ITE Skills Certificate (ISC) assessment, final year students are 
 
 Internships offer students with hands-on opportunity to work in their desired field and the experience to see what it is like actually working in the real work environment. They will not only learn how their course of study applies to the real world but also gain invaluable insight to evaluate the types of jobs that match their personal interests and personality for their future career path. It also serves as a platform for students to improve social, communication and technical skills needed for their working life upon graduation.
 
+<img src="/images/RetailIEP.jpg" style="width:85%">
+
+ELECTIVE FOR RETAIL SERVICES
+
+Students must complete a minimum of 4 electives at the end of the course.
+
+The electives offered are:
+
+*   Introduction to Digital Retailing
+*   Basic Gift Wrapping and Floral Arrangement
+*   Basic Retail Services
+*   Office Technology
+*   Department Store Operations
+*   Basic Mechanical Servicing
+*   Basic Restaurant Service
+
+TASTER PROGRAMME FOR RETAIL SERVICES
+
+The retail taster programme aims to provide students with an important insight into the basic skills and knowledge related to customer service, merchandise display, basic retail operations and point-of-sale operations. It also helps students to make an informed decision when selecting the course towards the end of Year 2.
+
+PROGRESSION & CAREER OPPORTUNITIES FOR RETAIL SERVICES
+
+Upon successful completion of the ITE Skills Certificate (ISC) in Retail Services course, students with a minimum GPA score of 2.5 will be eligible to apply for the following ITE _Nitec_ courses.
+
+The available Nitec courses are:
+
+*   _Nitec_ in Retail Services
+*   _Nitec_ in Logistics Services
+*   _Nitec_ in Beauty & Wellness\*
+*   _Nitec_ in Hair Fashion & Design\*
+*   _Nitec_ in Floristry\*
+*   _Nitec_ in Hospitality Operations\*
+
+\*Also requires to meet other ITE progression criteria.
+
+Or NorthLight Academy
+
+**Career Opportunities**
+
+The job opportunities for ISC in Retail Services graduates are as follows:
+
+*   Retail Sales Associate / Assistant
+*   Sales Promoter
+*   Customer Service Personnel
+*   Warehouse / Logistic Assistant
+*   Cashier
