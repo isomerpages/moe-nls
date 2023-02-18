@@ -47,3 +47,5 @@ b.  **Applied Learning through Industry Apprenticeship Programme** <br>
 
 Note: <br>
 Workplace skills certifications are attained upon successful completion. Job conversion and further progression are based on performance and subject to the acceptance by industry partners and learning institutions.
+
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
