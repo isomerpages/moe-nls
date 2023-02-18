@@ -2,6 +2,7 @@ collections:
   co-curriculum:
     output: true
     order:
+      - Co Curriculum Activities.md
       - Sports and Games/.keep
       - Sports and Games/Sports and Games.md
       - Sports and Games/Badminton.md
@@ -12,4 +13,3 @@ collections:
       - Sports and Games/Football.md
       - Sports and Games/Table Tennis.md
       - Sports and Games/Track & Field.md
-      - Co Curriculum Activities.md
