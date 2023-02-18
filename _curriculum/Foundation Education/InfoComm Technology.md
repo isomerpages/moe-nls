@@ -87,3 +87,5 @@ Students are trained and provided with the opportunity to undertake the **Inter
 The attainment of the internationally recognised ICDL certification will help to enhance their employability and complement their education pursuits upon graduation.
 
 <img src="/images/ICT-ICDL.jpg" style="width:85%">
+
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
