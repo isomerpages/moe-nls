@@ -86,7 +86,7 @@ The 9-week Industry Experiential Programme (IEP) module is compulsory for all fi
 
 The taster programme for the ISC in Facility Services aims to provide students with some exposures to the skills and knowledge relevant to what they will be learning when taking ISC in Facility Services course in year 3. This taster programme also serves to aid students to make an informed decision when selecting ISC module at the end of year 2. Students will have the opportunity to acquire some basic skills in plumbing system maintenance, electrical system maintenance, refrigeration system maintenance and air-conditioning system maintenance after completing the taster programme.
 
-<b><u>Progression Opportunities for Facility Services</b></u>
+**Progression Opportunities for Facility Services**
 
 ITE Skills Certificate (ISC) in Facility Services graduates with good results may apply for progression to the following courses:
 
@@ -98,7 +98,7 @@ ITE Skills Certificate (ISC) in Facility Services graduates with good results ma
 *   Nitec in Mechatronics & Robotics
 *   Nitec in Rapid Transit Technology
 
-<u><b>Career Opportunities for Facility Services</u></b><br>
+**Career Opportunities for Facility Services**<br>
 The job opportunities for ISC in Facility Services graduates are as follow:
 
 *   Assistant Electricians or Plumbers at construction sites
