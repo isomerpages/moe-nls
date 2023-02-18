@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Vocational Education/.keep
       - Framework and Objectives.md
       - Character Education/.keep
       - Character Education/Character Education.md
@@ -14,3 +13,4 @@ collections:
       - Foundation Education/English.md
       - Foundation Education/Mathematics.md
       - Foundation Education/InfoComm Technology.md
+      - Vocational Education/.keep
