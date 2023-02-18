@@ -12,7 +12,7 @@ third_nav_title: Vocational Education
 
 This course provides students with the skills and knowledge to prepare basic western cuisine, provide food & beverage service, perform housekeeping and attend to customer needs, requests and enquiries.
 
-<u><b>CORE MODULES</u></b>
+**CORE MODULES**
 
 There are 5 core modules in the ITE Skills Certificate (ISC) in Hospitality Services course. The 5 core modules are:
 
@@ -22,7 +22,7 @@ There are 5 core modules in the ITE Skills Certificate (ISC) in Hospitality Serv
 *   Customer Service
 *   Industry Experiential Programme (IEP)
 
-<u><b>CORE MODULES FOR HOSPITALITY SERVICES</u></b>
+**CORE MODULES FOR HOSPITALITY SERVICES**
 
 **Food Preparation**
 
@@ -67,7 +67,7 @@ The IEP module provides:
 
 <img src="/images/hospitality.jpg" style="width:85%">
 
-<u><b>Electives for Hospitality Services</u></b>
+**Electives for Hospitality Services**
 
 Students must complete a minimum of 4 electives at the end of the course.
 
@@ -79,11 +79,11 @@ The electives offered are:
 4 \.  Basic Mechanical Servicing<br>
 5 \.  Basic Retail Services
 
-<u><b>Taster Programme for Hospitality Services</u></b>
+**Taster Programme for Hospitality Services**
 
 The taster module for the ISC in Hospitality Services is titled Basic Culinary Art. It aims to train students to prepare simple western dishes and to understand the importance of safety and hygiene when working in the kitchen.
 
-<u><b>Progression & Career Opportunities for Hospitality Services</u></b>
+**Progression & Career Opportunities for Hospitality Services**
 
 Eligible ISC in Hospitality Services graduates will be able to progress to the following Nitec courses if they have obtained a minimum GPA score of 2.5 and a Workplace Literacy (WPL) Level 5 in Listening and Speaking, Level 4 in Reading and Writing..
 
