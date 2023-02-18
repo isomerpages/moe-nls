@@ -48,3 +48,31 @@ Criteria:
 1 \.  Consistent attendance in CCA sessions;<br>
 2 \.  Positive learning attitude;<br>
 3 \.  Consistently demonstrates the SHINE values
+
+**CCA Outstanding Award:** <br>
+The pinnacle **CCA Outstanding Award** is given to the most outstanding student in each CCA for the year.  
+Criteria:
+
+1 \.  Outstanding attendance in CCA sessions;<br>
+2 \.  Positive and humble learning attitude;<br>
+3 \.  Exemplifies the SHINE values
+
+**Other subsidiary Awards** (given internally within CCAs) <br>
+This is given out within the individual CCAs. Awards are given at the discretion of the CCA teachers to recognize positive traits such as sportsmanship, creativity, diligence, commitment etc.
+
+**EAGLES Award:** <br>
+This Award is given out to deserving CCA students who excel in the non-academic areas:
+
+1 \.  Achievement in CCA;<br>
+2 \.  Outstanding leadership;<br>
+3 \.  Community service
+
+**STUDENT LEADERSHIP IN CCA:**<br>
+Students are given opportunities to assume leadership roles within the various CCA groups:  
+Sports: Captain, Vice-Captains  
+Uniformed Groups: Any rank above Lance Corporal, appointments e.g. CSM, Patrol Leader  
+Performing Arts: Chairperson, Vice-Chairperson, other committee positions  
+Clubs & Societies: Chairperson, Vice-Chairperson, other committee positions
+
+**CCA TERMLY SCHEDULE:**<br>
+Every Thursday, 1500 - 1700, from Term 1 - Term 4.
