@@ -40,3 +40,30 @@ Right: Vice-Captain – Nur Diyana
 
 <img src="/images/tt3.jpg" style="width:49%" align=left>
 <br clear="left"><br>
+
+**VENUE:**<br>
+Level 1 Open Space outside Plumbing System Maintenance Workshop
+
+**TIMING:**<br>
+Thursday 3 p.m. – 5 p.m.
+
+**HIGHLIGHTS/ACHIEVEMENTS:**
+
+*   Organized Intra-CCA Table Tennis Competition
+*   Participated in Dr Lee Bee Wah – STTA Table Tennis Championship
+*   CCA Orientation Day
+*   CCA Service-Learning Day
+*   CCA Team Bonding Day
+
+**CCA PROGRAM FOR THE YEAR:**
+
+*   "Learn to Play" Workshop by STTA
+*   "Continue to Play" Workshop by STTA
+*   Intra-Table Tennis Competition
+*   Table Tennis Exchange Programme with other institutions
+*   CCA Day Camp
+
+**VIA ACTIVITIES:**
+
+*   School Cleanliness Campaign
+*   Interaction with Elderly at Senior Activities Centre (Planned)
