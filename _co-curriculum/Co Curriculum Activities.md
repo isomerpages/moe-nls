@@ -24,3 +24,8 @@ CCA provides all-round development in students in the following ways:
 
 **CCA@ NLS: WHAT WE OFFER**<br>
 NLS offers a wide variety of CCAs for students to cater to a myriad of interests and abilities. We offer 2 Uniformed Groups, 3 Performing Arts Groups, 10 Sports & Games and 8 Clubs & Societies. We have a group of dedicated teachers and student leaders who guide our students towards achieving the school goals and through that developing our students to be **S**incere, **H**onest, **I**nnovative, adept at **N**etworking, and always striving towards **E**xcellence.
+
+| Clubs & Societies  | Performing Arts  | Sports & Games  |  Uniformed Groups |
+|:-:|---|---|---|
+| Art Club  <br>Club de Cuisine  <br>IT Club  <br>Entrepreneurship Club  <br>Environmental Club  <br>RippLes Club  | Dance  <br>Music  | Badminton  <br>Basketball  <br>Floorball  <br>Football  <br>Sepak Takraw  <br>Table Tennis  <br>Track & Field  <br>Net Ball  | Girl Guides  <br>National Civil Defence Cadet Corps  |
+|   |   |   |   |
