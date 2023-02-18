@@ -66,3 +66,15 @@ The IEP module provides:
 *   gradual and consistent development for greater understanding of interpersonal and intrapersonal skills in a workplace
 
 <img src="/images/hospitality.jpg" style="width:85%">
+
+<b><u>Electives for Hospitality Services</b></u>
+
+Students must complete a minimum of 4 electives at the end of the course.
+
+The electives offered are:
+
+1 \.  Basic Baking Skills (Cake)<br>
+2 \.  Basic Baking Skills (Bread)<br>
+3 \.  Local Cuisine<br>
+4 \.  Basic Mechanical Servicing<br>
+5 \.  Basic Retail Services
