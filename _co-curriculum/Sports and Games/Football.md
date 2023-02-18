@@ -45,8 +45,7 @@ Thursdays: 3 p.m - 5 p.m
 
 *   Organise Football clinics for local primary schools
 
-<img src="/images/eng1.jpg" style="width:85%">
-<img src="/images/eng1.jpg" style="width:85%">
-<img src="/images/eng1.jpg" style="width:85%">
-<img src="/images/eng1.jpg" style="width:85%">
-<img src="/images/eng1.jpg" style="width:85%">
+<img src="/images/ft2.jpg" style="width:85%"><br>
+<img src="/images/ft3.jpg" style="width:85%"><br>
+<img src="/images/ft4.jpg" style="width:85%"><br>
+<img src="/images/ft5.jpg" style="width:85%">
