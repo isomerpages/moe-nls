@@ -15,3 +15,5 @@ Gymnastics in NorthLight allows students to have opportunities to explore and re
 4 \.  Mounting, dismounting & Vaulting actions; handstand, headstand & cartwheels
 
 <img src="/images/gym.jpg" style="width:85%">
+
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
