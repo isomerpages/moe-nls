@@ -25,5 +25,7 @@ To inculcate discipline, teamwork and passion for the sports.
 |   |   |   |
 |:-:|---|---|
 | **Captain:**  <br>Mikail Fitri Bin Rezal Sohairy (4HS1)  | **Vice-Captain:**  <br>Mukkesshrooshan S/O Vijaya Raj (4MS1)  | **Member:**  <br>Bryan Peng Shi Xian (4MS2)  |
-| <img src="/images/mikail.jpg" style="width:85%">  | <img src="/images/mukkesh.jpg" style="width:75%"  | <img src="/images/bryan.jpg" style="width:85%">  |
+| <img src="/images/mikail.jpg" style="width:85%">  | <img src="/images/mukkesh.jpg" style="width:72%">  | <img src="/images/bryan.jpg" style="width:85%">  |
+| **Captain:**  <br>Aaryan Bin Jasmani (3FS1)  | **Vice-Captain:**  <br>Ryan Eldelfi Jurayme (3HS1)  | **Member:**  <br>Terry Tan Li Wei (3RS2)  |
+| <img src="/images/aaryan.jpg" style="width:85%">  | <img src="/images/ryan.jpg" style="width:72%">  | <img src="/images/terry.jpg" style="width:85%">  |
 |   |   |   |
