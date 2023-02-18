@@ -22,14 +22,14 @@ third_nav_title: Sports and Games
 | CCA Timing:  | Thursday, 3 - 5pm  |
 |   |   |
 
-<img src="/images/eng6.jpeg" style="width:49%" align=left>
-<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<img src="/images/baseket-1.jpeg" style="width:49%" align=left>
+<img src="/images/baseket-2.jpeg" style="width:49%" align=right>
 <br clear="left"><br>
 
-<img src="/images/eng6.jpeg" style="width:49%" align=left>
-<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<img src="/images/baseket-3.jpeg" style="width:49%" align=left>
+<img src="/images/baseket-4.jpeg" style="width:49%" align=right>
 <br clear="left"><br>
 
-<img src="/images/eng6.jpeg" style="width:49%" align=left>
-<img src="/images/SS04.jpeg" style="width:49%" align=right>
+<img src="/images/baseket-5.jpeg" style="width:49%" align=left>
+<img src="/images/baseket-6.jpeg" style="width:49%" align=right>
 <br clear="left"><br>
