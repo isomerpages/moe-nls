@@ -96,7 +96,7 @@ Regular practice play during CCA will drill members to improve on their dexterit
 *    To develop students’ basic skills, competency and confidence in the sport.
 *   To strengthen togetherness among students interested in the sport.
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/co-curriculum/Sports-and-Games/netball/">
 <img style="width:20%" align=right src="/images/readmore.jpg">
 </a></p>
 
