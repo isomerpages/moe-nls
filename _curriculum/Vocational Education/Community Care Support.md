@@ -72,3 +72,32 @@ The electives offered are:
 
 **TASTER PROGRAMME FOR ISC IN COMMUNITY CARE SUPPORT**<br>
 The Community Care Support taster programme aims to provide students with important insights into basic skills and knowledge related to performing basic healthcare activities, and community care activities and services, to support community care professionals in carrying out routine services and assist clients with personal care and mobility needs, within community care and social service settings. It also helps students to make an informed decision when selecting the course towards the end of Year 2.
+
+<img src="/images/Taster.png" style="width:85%">
+
+**PROGRESSION & CAREER OPPORTUNITIES FOR ISC IN COMMUNITY CARE SUPPORT**<br>
+Upon successful completion of the ITE Skills Certificate (ISC) in Community Care Support course, students with a minimum GPA score of 2.5 will be eligible to apply for the following ITE _Nitec_ courses.
+
+The available Nitec courses are:
+
+*   _Nitec_ in Community Support and Social Services\*
+*   _Nitec_ in Retail Services\*
+*   _Nitec_ in Logistics Services\*
+*   _Nitec_ in Beauty & Wellness\*
+*   _Nitec_ in Hair Fashion & Design\*
+*   _Nitec_ in Floristry\*
+*   _Nitec_ in Hospitality Operations\*
+
+\*\*Also required to meet other ITE progression criteria.
+
+Or NorthLight Academy
+
+**CAREER OPPORTUNITIES**<br>
+Upon successful completion of the course of study, ISC in Community Care Support graduates may apply for entry-level jobs in the community care and social service sectors, as:
+
+*   **Care Assistant/Associate**
+*   **ComCare Assistant**
+*   **Activity and Care Assistant**
+*   **Healthcare Assistant**
+
+providing care support to seniors and clients, under the direction and supervision of community care professionals in Social Service Agencies such as Community Hospital, Nursing Home, Community Rehabilitation Centre, Senior Care Centre and Senior Activity Centre.
