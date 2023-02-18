@@ -86,3 +86,5 @@ For enquiries, please contact:
 1 \.  Your child's CCA teacher 6929 6290;<br>
 2 \.  Mr Frankie Liew (CCA Coordinator) 6929 6290;<br>
 3 \.  Mr Rodney Yeo (HOD PE/ CCA) 6929 6290
+
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
