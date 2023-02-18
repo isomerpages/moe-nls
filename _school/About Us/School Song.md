@@ -45,4 +45,5 @@ NorthLight I believe in you and<br>
 NorthLight I believe in you and me<br><br>
 	<b>Song & Lyrics by _Jai Wahab 2006_</b>
 	</center>
-
+	
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
