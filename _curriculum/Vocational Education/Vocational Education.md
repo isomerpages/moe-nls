@@ -69,7 +69,28 @@ There are 5 core modules in the ITE Skills Certificate (ISC) in Hospitality Serv
 <br clear=right>
 <br><br>
 
-<img src="/images/eng1.jpeg" align=left style="width:85%">
+<img src="/images/ve4.jpg" align=left style="width:85%">
+<br clear=left>
+
+**RETAIL SERVICES**<br>
+ITE SKILLS CERTIFICATE (ISC) IN RETAIL SERVICES<br>
+This course provides students with the skills and technical knowledge to prepare merchandise for display on the shop floor, conduct stock-take, sell merchandise, provide customer service and handle point-of-sale operations.
+
+Core modules
+
+There are 5 core modules in the ISC in Retail Services course. The 5 core modules are:
+
+*   Customer Service
+*   Merchandise Display
+*   Basic Retail Operations
+*   Point-of-Sale Operations
+*   Industry Experiential Programme (IEP)
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:20%" align=right src="/images/readmore.jpg">
+</a></p>
+<br clear=right>
+<br><br>
 
 <img src="/images/eng1.jpeg" align=left style="width:85%">
 
