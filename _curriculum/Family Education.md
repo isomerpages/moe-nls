@@ -81,7 +81,7 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexu
 | **Lesson 11: The Dating Game**  | 1 hour  | *   recognise the importance of developing a friendship before committing to a romantic relationship<br>*   recognise what dating involves<br>*   recognize why it is not recommended that we go steady at a young age  |   |
 | **Lesson 12: Breaking Up is Not Easy**  | 1 hour  | *   identify why relationships break down<br>*   identify the emotions that accompany the breakdown of a relationship<br>*   know healthy ways of coping with rejections and breakups<br>*   recognise the need to be respectful and responsible in ending a relationship<br>*   know ways to seek support when going through a breakdown of relationship and offer support for those going through the same  |   |
 | **Lesson 13: Temptation**  | 1 hour  | *   recognize the sources of temptation and situations that can lead to pre-marital sex<br>*   resist pressure to engage in sexual activities  |   |
-| **Lesson 14: Responsible Me, Safe Me**  | 1 hour  |   |   |
-| **Lesson 15: Must It Be As Expected**  | 1 hour  |   |   |
-| **Lesson 16: At the Crossroads**  | 1 hour  |   |   |
+| **Lesson 14: Responsible Me, Safe Me**  | 1 hour  | *   know what is considered pornographic material on the Internet under the Internet code of practice<br>*   know what masturbation is<br>*   understand the unhealthy consequences of excessive masturbation<br>*   know some ways to cope with the feelings and urge to masturbate  |   |
+| **Lesson 15: Must It Be As Expected**  | 1 hour  | *   know the influence of family, culture and society on one’s perception of his gender role<br>*   understand societal expectations of gender roles<br>*   recognize that societal expectations should not restrain personal development  |   |
+| **Lesson 16: At the Crossroads**  | 1 hour  | *   demonstrate healthy attitudes towards human sexuality<br>*   accept one’s uniqueness as a male or female<br>*   define what sexual orientation (heterosexuality and homosexuality) is<br>*   recognize the need to treat people with respect regardless of their sexual orientation  |   |
 |   |   |   |   |
