@@ -30,5 +30,11 @@ The 9-week Industry Experiential Programme (IEP) module is compulsory for all fi
 <img src="/images/iep6.jpg" style="width:49%" align=left>
 <br clear="left"><br>
 
-**RETAIL SERVICES**  
+**RETAIL SERVICES**
 
+<img src="/images/retail1.jpg" style="width:49%" align=left>
+<img src="/images/retail2.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/retail3.jpg" style="width:49%" align=left>
+<br clear="left"><br>
