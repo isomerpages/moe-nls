@@ -35,3 +35,5 @@ In addition ongoing formative assessment is also used to give specific feedback 
 |   |   |
 
 ##### <center> KINDLING PASSION. IGNITING POSSIBILITIES</center>
+
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
