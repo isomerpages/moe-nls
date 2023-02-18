@@ -2,7 +2,6 @@ collections:
   curriculum:
     output: true
     order:
-      - Family Education.md
       - Framework and Objectives.md
       - Character Education/.keep
       - Character Education/Character Education.md
@@ -22,3 +21,4 @@ collections:
       - Vocational Education/Retail Services.md
       - Vocational Education/Industry Experiential Programme.md
       - Vocational Education/NorthLight Academy.md
+      - Family Education.md
