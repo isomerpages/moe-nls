@@ -69,7 +69,7 @@ Football team is made up of Year 1 to Year 4 students; we cater to both the soci
 Objectives<br>
 To develop student-athletes who display self-discipline and commitment towards football; and pride and belonging to NorthLight School.
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/co-curriculum/Sports-and-Games/football/">
 <img style="width:20%" align=right src="/images/readmore.jpg">
 </a></p>
 
