@@ -53,3 +53,7 @@ School Field or Kallang Practice Track
 
 **TIMING:**<br>
 Every Thursday, 3 p.m. – 5 p.m.
+
+**HIGHLIGHTS/ACHIEVEMENTS:**
+
+
