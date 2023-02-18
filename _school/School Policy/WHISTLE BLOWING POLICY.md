@@ -99,3 +99,5 @@ c.    Propriety: NLS shall not condone any frivolous, mischievous or malicio
 | Re:  | **Whistle-blowing Matters**  |
 | Address:  | NorthLight School<br>151 Towner Road<br>Singapore 327830  |
 |   |   |
+
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
