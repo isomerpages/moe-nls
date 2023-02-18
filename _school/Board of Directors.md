@@ -35,3 +35,5 @@ Inputs for new members are sought from Board members. All nominations are submit
 Once in 3 years, the Board formally conducts self-evaluation of areas such as its contributions and effectiveness. The last self-evaluation was done in June 2020.
 
 Please refer to the following document for the policy on conflict of interest for Board members and key staff: **[Conflict of Interest](/files/NLS%20Conflict%20of%20Interest%20policy.pdf)**
+
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
