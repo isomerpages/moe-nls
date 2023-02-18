@@ -102,3 +102,5 @@ The job opportunities for ISC in Retail Services graduates are as follows:
 *   Customer Service Personnel
 *   Warehouse / Logistic Assistant
 *   Cashier
+
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
