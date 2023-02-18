@@ -110,3 +110,6 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexu
 | **Lesson 14: Exhibitionism**  | 1 hour  | *   know what exhibitionism is<br>*   show an awareness that exhibitionism is punishable by law<br>*   know what to do in the presence of an exhibitionist  |   |
 | **Lesson 15: Stranger Danger**  | 1 hour  | *   recognise the danger of meeting online friends, sharing too much personal info online<br>*   be aware of the physical boundaries with the adults they know<br>*   learn about sexting, sexual grooming, love scams e.g. sextortion  |   |
 |   |   |   |   |
+
+**Year 3**
+
