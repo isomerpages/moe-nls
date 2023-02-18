@@ -49,3 +49,20 @@ On completion of this module, students should be able to clean the guest rooms o
 On completion of this module, students should be able to provide basic customer service involving the use of communication skills over the telephone and through face-to-face contact, and to carry out service recovery where appropriate.
 
 <img src="/images/HospitalityCustomerService.jpg" style="width:85%">
+
+**INDUSTRY EXPERIENTIAL PROGRAMME**
+
+This 9-week Industry Experiential Programme (IEP) module is aligned to the Hospitality Core Principles of E3 \[ENGAGED to learn, ENRICHED with knowledge & EMPOWERED to serve\] where every student is given ample opportunities to apply the knowledge and skills taught during their hospitality lessons and workshops. Students will also acquire new skills in managing relationships upon carrying out the various tasks assigned during their IEP.
+
+IEP serves as a platform which empowers the students to practice and live out the SHINE values of NorthLight School. It also allows opportunities for them to improve social, communication and technical skills needed for real work life upon their graduation.
+
+This module is necessary for all final-year students prior to their graduation and the assessment is graded by industry supervisors based on the student’s performance.
+
+The IEP module provides:
+
+*   developmental assessment of students based on their professional work habits and skills
+*   better prospects for full-time employment upon graduation
+*   means for testing career goals and provision of work experience prior to graduation
+*   gradual and consistent development for greater understanding of interpersonal and intrapersonal skills in a workplace
+
+<img src="/images/hospitality.jpg" style="width:85%">
