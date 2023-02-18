@@ -56,4 +56,11 @@ Every Thursday, 3 p.m. – 5 p.m.
 
 **HIGHLIGHTS/ACHIEVEMENTS:**
 
+<figure>
+<img src="/images/tnf4.jpg" style="width:90%">
+<figcaption>  MapMyRun Challenge (Sep-Dec 2021)
+ </figcaption>
+</figure>
 
+**PARTNERS AND ACTIVITIES:**<br>
+Track & Field CCA aims to develop member's fitness levels, build resilience, team spirit and responsibilities through opportunities provided by school and CCA partner SportsCare Singapore.
