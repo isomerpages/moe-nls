@@ -73,3 +73,4 @@ Thursday 3 p.m. – 5 p.m.
 <img src="/images/tt6.jpg" style="width:85%"><br>
 <img src="/images/tt7.jpg" style="width:85%">
 
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
