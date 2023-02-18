@@ -116,7 +116,7 @@ NLA works closely with committed industry partners in this 2-year 'Work Study' p
 
 Benefits for students: Earn as you learn, Learn in real-work environment, Explore pathways for full-time employment and progression
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/curriculum/Vocational-Education/nla/">
 <img style="width:20%" align=right src="/images/readmore.jpg">
 </a></p>
 <br clear=right>
