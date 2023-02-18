@@ -55,3 +55,5 @@ Area cleaning of Games room
 <img src="/images/bad6.jpg" style="width:85%"><br>
 
 <img src="/images/bad7.jpg" style="width:85%">
+
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
