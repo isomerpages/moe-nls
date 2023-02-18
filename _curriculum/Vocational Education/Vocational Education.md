@@ -63,7 +63,7 @@ There are 5 core modules in the ITE Skills Certificate (ISC) in Hospitality Serv
 *   Customer Service
 *   Industry Experiential Programme (IEP)
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/curriculum/Vocational-Education/hs/">
 <img style="width:20%" align=right src="/images/readmore.jpg">
 </a></p>
 <br clear=right>
