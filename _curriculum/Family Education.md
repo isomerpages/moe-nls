@@ -115,12 +115,12 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexu
 
 | **LESSON**  | **DURATION**  | **Lesson Objectives  <br>At the end of the lesson, students will be able to:**  | **TIME PERIOD**  |
 |:-:|---|---|---|
-| **Lesson 1: Marriage**  | 1 hour  |   |   |
-| **Lesson 2: Love Conquers All**  | 1 hour  |   |   |
-| **Lesson 3: Family**  | 1 hour  |   |   |
-| **Lesson 4: eTeens Lesson 1 – Decision Making**  | 1 hour  |   |   |
-| **Lesson 5: eTeens Lesson 2 – Assertiveness**  | 1 hour  |   |   |
-| **Lesson 6: eTeens Lesson 3 – Negotiation**  | 1 hour  |   |   |
-| **Lesson 7: eTeens Lesson 4 – Is It Safe**  | 1 hour  |   |   |
-| **Lesson 8: Online Self-Disclosure**  | 1 hour  |   |   |
+| **Lesson 1: Marriage**  | 1 hour  | *   define what cohabitation is and evaluate the consequences of cohabitation<br>*   recognize that commitment is a necessary ingredient for success in a marriage<br>*   identify responsibilities involved and the challenges faced in a marriage<br>*   evaluate the consequences of divorce on the family members  | Term 2 or 4  |
+| **Lesson 2: Love Conquers All**  | 1 hour  | *   reflect on the qualities of a healthy romantic relationship  |   |
+| **Lesson 3: Family**  | 1 hour  | *   distinguish differences in family types and the structural roles of family members<br>*   understand that each family performs the same basic functions of providing love, protection, guidance and support  |   |
+| **Lesson 4: eTeens Lesson 1 – Decision Making**  | 1 hour  | *   understand there are consequences in any decision one makes regarding sexual intercourse<br>*   understand that one needs correct and accurate information to make the right decisions regarding one’s sexual health<br>*   learn to make decisions that will reduce the risk to their sexual health.  |   |
+| **Lesson 5: eTeens Lesson 2 – Assertiveness**  | 1 hour  | *   understand what assertive behaviour is<br>*   practise responding to persuasion assertively  |   |
+| **Lesson 6: eTeens Lesson 3 – Negotiation**  | 1 hour  | *   practise negotiating one’s way out of a negative situation  |   |
+| **Lesson 7: eTeens Lesson 4 – Is It Safe**  | 1 hour  | *   learn risk reduction for STIs/HIV and assess situations to aid the control of impulses in sexual behaviour  |   |
+| **Lesson 8: Online Self-Disclosure**  | 1 hour  | *   recognize the potential/ possible dangers of online self-disclosure  |   |
 |   |   |   |   |
