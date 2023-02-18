@@ -98,7 +98,7 @@ There are 5 core modules in the ISC in Retail Services course. The 5 core module
 **INDUSTRY EXPERIENTIAL PROGRAMME**<br>
 The 9-week Industry Experiential Programme (IEP) module is compulsory for all final year students prior to their graduation. IEP provides students with the opportunities to improve their social, communication and technical skills needed for real work life upon their graduation. Their IEP is graded by industry supervisors based on their performance.
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/curriculum/Vocational-Education/iep/">
 <img style="width:20%" align=right src="/images/readmore.jpg">
 </a></p>
 <br clear=right>
