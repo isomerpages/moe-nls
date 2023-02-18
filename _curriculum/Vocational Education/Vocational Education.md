@@ -18,7 +18,7 @@ ITE SKILLS CERTIFICATE IN COMMUNITY CARE SUPPORT
 
 This course provides students with knowledge, skills and attitudes on basic healthcare, workplace safety, environmental hygiene and cleanliness, community care activities and services, to support community care professionals in carrying out routine services and assist clients with personal care and mobility needs, within community care and social service settings.
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/curriculum/Vocational-Education/ccs/">
 <img style="width:20%" align=right src="/images/readmore.jpg">
 </a></p>
 <br clear=right>
