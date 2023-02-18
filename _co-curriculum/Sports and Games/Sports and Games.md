@@ -34,8 +34,17 @@ To inculcate discipline, teamwork and passion for the sports.
 <img style="width:20%" align=right src="/images/readmore.jpg">
 </a></p>
 
-<img src="/images/eng1.jpeg" align=left style="width:85%">
+<img src="/images/sng3.jpg" align=left style="width:85%">
 <br clear=left>
+
+**SEPAK TAKRAW**
+
+This Sepak Takraw is one of the most popular CCA as it is the time where the students to learn about teamwork, juggling skills and playing in various competitions and tournaments. The NLS team has achieved 2nd place position in the National School Sepak Takraw tournament in 2019.<br>
+During CCA sessions, the students will be engaged in physical, tactical and mental activities to build their character and skills. They will be lead by dedicated coach and teachers during the CCA activities. The students will have the chance to grow their mindset and knowledge, build stronger character and friendship, show their skills and competitive potentials.
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:20%" align=right src="/images/readmore.jpg">
+</a></p>
 
 <img src="/images/eng1.jpeg" align=left style="width:85%">
 <br clear=left>
