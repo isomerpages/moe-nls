@@ -19,3 +19,24 @@ To enable students to:<br>
 4 \.  Learn the value of teamwork through sports
 
 **TEACHERS-IN-CHARGE:**
+
+<figure>
+<img src="/images/tt1.jpg" style="width:90%">
+<figcaption>  From Left: Mr Seah Kok Woei, Mr Goh Chin Teik (Mr Gopal)
+ </figcaption>
+</figure>
+
+**STUDENT LEADERS:**<br>
+**Senior (Y3 and 4) CCA Leaders** <br>
+Left: Captain – Sharul <br>
+Right: Vice-Captain - Arissa
+
+<img src="/images/tt2.jpg" style="width:49%" align=left>
+<br clear="left"><br>
+
+**Junior (Y1 and 2) CCA Leaders** <br>
+Left: Captain – Nicholas Ko <br>
+Right: Vice-Captain – Nur Diyana
+
+<img src="/images/tt3.jpg" style="width:49%" align=left>
+<br clear="left"><br>
