@@ -3,8 +3,6 @@ title: Scheme Of Work
 permalink: /curriculum/Character-Education/sow/
 description: ""
 ---
-
-
 ## SCHEME OF WORK
 
 **SCHEME OF WORK**
@@ -34,3 +32,5 @@ The PE Scheme of Work is planned and designed with progression of skills in mind
 | Year 5<br>(2 periods)  | SFC (2)<br><br>Aerobics & <br>Anaerobic Conditioning  |<br> NAPFA (2)  | <br>HE (2)  | SG (2)<br>\-          Kinball<br>\-          Dodgeball<br>\-          Handball  |
 | Year 6<br>(2 periods)  | SFC (2)<br><br>Fitness and weight <br>training  | <br>NAPFA (2)  | <br> HE (2) | SG (2)<br>\-          Nerf<br>\-          Bocce<br>\-          Ultimate Frisbee  |
 |   |   |   |   |   |
+
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
