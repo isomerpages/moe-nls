@@ -64,7 +64,10 @@ To develop leadership qualities through the training
 
 **FOOTBALL**
 
-Football team is made up of Year 1 to Year 4 students; we cater to both the social recreation students and also the competitive school team.
+Football team is made up of Year 1 to Year 4 students; we cater to both the social recreation students and also the competitive school team. We welcome students who have the passion and love for the sports. During our training sessions, we emphasize on building on our players' character.
+
+Objectives<br>
+To develop student-athletes who display self-discipline and commitment towards football; and pride and belonging to NorthLight School.
 
 <img src="/images/eng1.jpeg" align=left style="width:85%">
 <br clear=left>
