@@ -121,3 +121,5 @@ Benefits for students: Earn as you learn, Learn in real-work environment, Explor
 </a></p>
 <br clear=right>
 <br><br>
+
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
