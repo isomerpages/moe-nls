@@ -69,3 +69,6 @@ In RIPPLES Club, students will learn to improve their reading, presenting, liste
 <img style="width:20%" align=right src="/images/readmore.jpg">
 </a></p>
 <br clear=right><br><br>
+
+<img src="/images/cns5.jpg" align=left style="width:85%">
+<br clear=left>
