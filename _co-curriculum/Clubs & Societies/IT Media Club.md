@@ -57,3 +57,10 @@ CITIC SaturdayKids
 
 **VIA ACTIVITIES:**<br>
 Digital Ambassadors for Seniors and Drone Videography for School-based Production
+
+<img src="/images/it1.jpg" style="width:85%"><br>
+<img src="/images/it2.jpg" style="width:85%"><br>
+<img src="/images/it3.jpg" style="width:85%"><br>
+<img src="/images/it4.jpg" style="width:85%"><br>
+<img src="/images/it5.jpg" style="width:85%"><br>
+<img src="/images/it6.jpg" style="width:85%">
