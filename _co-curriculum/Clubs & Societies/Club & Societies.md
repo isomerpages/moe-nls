@@ -82,3 +82,14 @@ To develop our students to be useful contributors to society through inculcating
 </a></p>
 <br clear=right><br><br>
 
+<img src="/images/cns6.jpg" align=left style="width:85%">
+<br clear=left>
+
+**ART CLUB**
+
+Art Club offers students with interest in visual arts a safe space to come together and hone their artistic talent through meaningful art experiences. Student-artists get to explore new art techniques, expand their knowledge in art and cultivate their spirit of creativity, innovation, and experimentation through art. Art Club also creates opportunities to enhance connections to the arts between our students and the community at large.
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:20%" align=right src="/images/readmore.jpg">
+</a></p>
+<br clear=right><br><br>
