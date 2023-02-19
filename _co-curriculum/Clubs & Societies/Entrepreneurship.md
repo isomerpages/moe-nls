@@ -85,3 +85,13 @@ Upcoming Mask Lanyard Project to benefit bus captains working for SBS Transit
 <img src="/images/entre3.jpg" style="width:49%" align=left>
 <img src="/images/entre4.jpg" style="width:49%" align=right>
 <br clear="left"><br>
+
+EXTERNAL WORKSHOPS CONDUCTED IN 2021<br>
+_Balloon Twisting_
+
+<img src="/images/entre5.jpg" style="width:49%" align=left>
+<img src="/images/entre6.jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+_Slime Making_
+
