@@ -72,3 +72,13 @@ In RIPPLES Club, students will learn to improve their reading, presenting, liste
 
 <img src="/images/cns5.jpg" align=left style="width:85%">
 <br clear=left>
+
+**ENTREPRENEURSHIP CLUB**
+
+To develop our students to be useful contributors to society through inculcating entrepreneurship values in students to create, innovate and search for solutions.
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:20%" align=right src="/images/readmore.jpg">
+</a></p>
+<br clear=right><br><br>
+
