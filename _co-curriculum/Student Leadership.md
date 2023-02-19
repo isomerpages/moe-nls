@@ -52,3 +52,7 @@ description: ""
 | 2 IC:  | Mr Aaron  |
 | <br><br><br>Teachers  | Mr Jespal  <br>Mr Khairol  <br>Mr Kwan  <br>Ms Sarah  <br>Ms Justine  <br>Mr Ramesh  <br>Mr Ray  |
 |   |   |
+
+**STUDENT Leadership TEACHERS**
+
+<img src="/images/sl3.jpg" style="width:85%">
