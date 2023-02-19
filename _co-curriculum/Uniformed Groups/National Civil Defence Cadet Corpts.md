@@ -67,3 +67,6 @@ Every Thursday, 3 p.m. – 5 p.m.
 
 *   Kayaking by the Kallang River
 *   Hiking at Park
+
+<img src="/images/ncdcc1.jpg" style="width:85%"><br>
+<img src="/images/ncdcc2.jpg" style="width:85%">
