@@ -48,3 +48,8 @@ Thursdays 3 - 5 p.m.
 
 **VIA ACTIVITIES**<br>
 Keeping School Campus Clean
+
+<img src="/images/envir1.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/envir2.jpg" style="width:26%;margin-right:15px;" align = "left">
+<img src="/images/envir3.jpg" style="width:30%;margin-right:15px;" align = "left">
+<br clear="left">
