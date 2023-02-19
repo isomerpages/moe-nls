@@ -55,4 +55,4 @@ description: ""
 
 **STUDENT Leadership TEACHERS**
 
-<img src="/images/sl3.jpg" style="width:85%">
+<img src="/images/sl3.jpg" align=left style="width:85%">
