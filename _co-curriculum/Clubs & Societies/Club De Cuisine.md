@@ -43,3 +43,6 @@ SREE NARAYANA MISSION HOME – 12 April 2019
 <img src="/images/cdc2.jpg" style="width:85%">
 <img src="/images/cdc3.jpg" style="width:85%">
 <img src="/images/cdc4.jpg" style="width:85%">
+
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
+
