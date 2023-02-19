@@ -2,7 +2,6 @@ collections:
   co-curriculum:
     output: true
     order:
-      - Student Leadership.md
       - Co Curriculum Activities.md
       - Sports and Games/.keep
       - Sports and Games/Sports and Games.md
@@ -30,3 +29,4 @@ collections:
       - Clubs & Societies/Environment.md
       - Clubs & Societies/Entrepreneurship.md
       - Clubs & Societies/Ripples Club.md
+      - Student Leadership.md
