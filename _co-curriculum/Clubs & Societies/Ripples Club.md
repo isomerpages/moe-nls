@@ -62,3 +62,6 @@ Collaboration with Club De Cuisine to make cookies for school cleaners and secur
 <img src="/images/ripples1.jpg" style="width:85%"><br>
 <img src="/images/ripples2.jpg" style="width:85%"><br>
 <img src="/images/ripples3.jpg" style="width:85%">
+
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
+
