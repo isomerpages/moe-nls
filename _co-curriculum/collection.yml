@@ -2,10 +2,10 @@ collections:
   co-curriculum:
     output: true
     order:
-      - Uniformed Groups/National Civil Defence Cadet Corpts.md
       - Uniformed Groups/.keep
       - Uniformed Groups/Uniformed Groups.md
       - Uniformed Groups/Girl Guides.md
+      - Uniformed Groups/National Civil Defence Cadet Corpts.md
       - Co Curriculum Activities.md
       - Sports and Games/.keep
       - Sports and Games/Sports and Games.md
