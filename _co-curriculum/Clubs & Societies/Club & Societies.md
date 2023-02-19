@@ -29,5 +29,11 @@ The objective is to create the awareness that healthy food is not necessary 'bla
 Goals and Objectives<br>
 Students to develop an interest, knowledge and skills in gardening as part of horticulture (career exploration) and to learn about environmental issues to do their part to care for our environment.<br>
 To educate students about food source, food cycle, nutrients, living conditions and environmental issues (4Rs, conservation, food waste)<br>
-To inculcate in students a greater appreciation for food, hard work and delayed gratification
-To 
+To inculcate in students a greater appreciation for food, hard work and delayed gratification<br>
+To teach students how to care for plants and our environment and develop skills such as teamwork, safety and problem-solving<br>
+To build in students values such as patience, care, responsibility, resilience, respect & 'harmony' (with their peers and the environment)
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:20%" align=right src="/images/readmore.jpg">
+</a></p>
+<br clear=right><br><br>
