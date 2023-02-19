@@ -22,3 +22,12 @@ The mission of NCDCC is to develop and empower our youths to be active and conce
 
 <img src="/images/ug2.jpg" align=left style="width:85%">
 <br clear=left>
+
+**GIRL GUIDES**
+
+To enable girls and young women to develop their fullest potential as responsible citizens of the world.
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:20%" align=right src="/images/readmore.jpg">
+</a></p>
+<br clear=right><br><br>
