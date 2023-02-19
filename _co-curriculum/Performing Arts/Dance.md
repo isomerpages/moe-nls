@@ -64,3 +64,5 @@ To Be Decided.
 **REQUIRE JACKSON INPUT VIDEO**
 
 **REQUIRE JACKSON INPUT VIDEO**
+
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
