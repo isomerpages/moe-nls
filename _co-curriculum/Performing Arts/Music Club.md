@@ -52,3 +52,9 @@ Thursdays 3 - 5 p.m.
 
 **VIA ACTIVITIES**<br>
 To be confirmed.
+
+<img src="/images/music2.jpg" style="width:85%"><br>
+<img src="/images/music3.jpg" style="width:85%"><br>
+<img src="/images/music4.jpg" style="width:85%">
+
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
