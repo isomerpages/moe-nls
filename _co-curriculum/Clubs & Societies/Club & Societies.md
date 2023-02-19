@@ -20,3 +20,8 @@ The objective is to create the awareness that healthy food is not necessary 'bla
 <img style="width:20%" align=right src="/images/readmore.jpg">
 </a></p>
 <br clear=right><br><br>
+
+<img src="/images/cns2.jpg" align=left style="width:85%">
+<br clear=left>
+
+**ENVIRONMENT**
