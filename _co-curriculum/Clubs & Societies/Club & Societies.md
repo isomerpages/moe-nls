@@ -37,3 +37,19 @@ To build in students values such as patience, care, responsibility, resilience, 
 <img style="width:20%" align=right src="/images/readmore.jpg">
 </a></p>
 <br clear=right><br><br>
+
+<img src="/images/cns3.jpg" align=left style="width:85%">
+<br clear=left>
+
+**IT MEDIA CLUB**
+
+*   To develop students' appreciation for ICT in today's society.
+*   To hone students' skills in developing ICT within and outside the school environment.
+*   To develop students' competency and confidence in ICT through training sessions.
+*   To provide a fun and interactive approach to ICT.
+*   To strengthen togetherness among students interested in ICT.
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:20%" align=right src="/images/readmore.jpg">
+</a></p>
+<br clear=right><br><br>
