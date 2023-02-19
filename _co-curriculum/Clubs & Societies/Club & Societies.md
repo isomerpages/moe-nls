@@ -53,3 +53,19 @@ To build in students values such as patience, care, responsibility, resilience, 
 <img style="width:20%" align=right src="/images/readmore.jpg">
 </a></p>
 <br clear=right><br><br>
+
+<img src="/images/cns4.jpg" align=left style="width:85%">
+<br clear=left>
+
+**RIPPLES CLUB**
+
+The RIPPLES Club focuses on developing in our students the skills of Reading, Presenting, Listening and Speaking, with the first letter of each skill found in the word "RIPPLES".
+
+Learning to listen, read and speak better helps one be more confident in themselves and can create a ripple effect in their lives. We hope that through participation in the RIPPLES Club, students also develop a lifelong interest and find meaning in the spoken and written words around them.
+
+In RIPPLES Club, students will learn to improve their reading, presenting, listening and speaking skills through authentic, meaningful and engaging activities crafted around the themes of food, art, travel and nature.
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:20%" align=right src="/images/readmore.jpg">
+</a></p>
+<br clear=right><br><br>
