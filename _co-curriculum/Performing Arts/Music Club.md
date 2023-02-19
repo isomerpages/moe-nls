@@ -21,3 +21,34 @@ third_nav_title: Performing Arts
 *   Ms Nur Atika Binti Mohamed Naim
 *   Mr Toon Choon Huat Lawrence
 
+**STUDENT LEADERS**
+
+*   CCA Chairman: Siti Nur Taufiqah Binte Di-Ladir 3RS2
+*   CCA Vice-Chairman: Ryan Au Bin Rahmat 3RS1
+
+**VENUE**<br>
+Drama Room 2
+
+**TIMING**<br>
+Thursdays 3 - 5 p.m.
+
+**CCA HIGHLIGHTS/ACHIEVEMENTS**
+
+*   2022  
+    INTERNAL PERFORMANCES
+    *   January: Chinese New Year Concert (Recorded Performance)
+    *   March: Awards Day (Blended of Live and Recorded Performance)
+    *   May: Hari Raya Concert (Recorded Performance)
+*   2021  
+    INTERNAL PERFORMANCES
+    *   February: Chinese New Year Concert (Recorded Performance)
+    *   May: Hari Raya Concert (Recorded Performance)
+    *   July: Youth Day (Recorded Performance)
+
+**CCA PROGRAM FOR THE YEAR**
+
+*   Internal School Concerts (e.g. Chinese New Year, Awards Day, Hari Raya, etc.)
+*   External Performances (to be confirmed)
+
+**VIA ACTIVITIES**<br>
+To be confirmed.
