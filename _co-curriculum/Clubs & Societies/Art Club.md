@@ -41,3 +41,6 @@ Experiencing different art techniques through workshops, visits to galleries and
 School Community Projects; Tiles and Canvas Painting for Kallang Polyclinic
 
 <img src="/images/ac1.jpg" style="width:85%">
+
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
+
