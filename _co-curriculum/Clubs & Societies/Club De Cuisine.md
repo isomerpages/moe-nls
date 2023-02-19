@@ -39,7 +39,7 @@ Gelato / Ice-cream workshop Yearly 2019 Creative Culinaire
 **VIA ACTIVITIES**<br>
 SREE NARAYANA MISSION HOME – 12 April 2019
 
-<img src="/images/eng1.jpg" style="width:85%">
-<img src="/images/eng1.jpg" style="width:85%">
-<img src="/images/eng1.jpg" style="width:85%">
-<img src="/images/eng1.jpg" style="width:85%">
+<img src="/images/cdc1.jpg" style="width:85%">
+<img src="/images/cdc2.jpg" style="width:85%">
+<img src="/images/cdc3.jpg" style="width:85%">
+<img src="/images/cdc4.jpg" style="width:85%">
