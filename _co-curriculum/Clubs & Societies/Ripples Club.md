@@ -58,3 +58,7 @@ Lighthouse
 
 **VIA ACTIVITIES:**<br>
 Collaboration with Club De Cuisine to make cookies for school cleaners and security guards
+
+<img src="/images/ripples1.jpg" style="width:85%"><br>
+<img src="/images/ripples2.jpg" style="width:85%"><br>
+<img src="/images/ripples3.jpg" style="width:85%">
