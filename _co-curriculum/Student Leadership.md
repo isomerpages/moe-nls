@@ -56,3 +56,6 @@ description: ""
 **STUDENT Leadership TEACHERS**
 
 <img src="/images/sl3.jpg" align=left style="width:85%">
+<br clear=left>
+
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
