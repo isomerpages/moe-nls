@@ -46,3 +46,6 @@ Thursdays 2.45 p.m. - 5 p.m.
 
 **VIA ACTIVITIES**<br>
 Student initiated VIA involving community, environment or animals. E.g. In 2019, 15 senior citizens from Tampines Starlight RC were invited to join us at the World Thinking Day Carnival. It provided a platform for our girls to interact with the elderly and learn the values of respect and care through this project. In 2020 and 2021, the girls handcrafted some CNY decorative items for the elderly and staff at Kwong Wai Shiu Hospital to bring them blessings and good cheer.
+
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
+
