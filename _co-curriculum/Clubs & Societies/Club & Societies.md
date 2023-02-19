@@ -25,3 +25,9 @@ The objective is to create the awareness that healthy food is not necessary 'bla
 <br clear=left>
 
 **ENVIRONMENT**
+
+Goals and Objectives<br>
+Students to develop an interest, knowledge and skills in gardening as part of horticulture (career exploration) and to learn about environmental issues to do their part to care for our environment.<br>
+To educate students about food source, food cycle, nutrients, living conditions and environmental issues (4Rs, conservation, food waste)<br>
+To inculcate in students a greater appreciation for food, hard work and delayed gratification
+To 
