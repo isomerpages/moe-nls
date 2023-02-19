@@ -39,3 +39,5 @@ Experiencing different art techniques through workshops, visits to galleries and
 
 **VIA ACTIVITIES:**<br>
 School Community Projects; Tiles and Canvas Painting for Kallang Polyclinic
+
+<img src="/images/ac1.jpg" style="width:85%">
