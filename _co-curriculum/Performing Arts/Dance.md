@@ -55,3 +55,12 @@ Thursdays 3 - 4 p.m.
 
 **VIA ACTIVITIES**<br>
 To Be Decided.
+
+<img src="/images/dance1.jpg" style="width:85%"><br>
+<img src="/images/dance2.jpg" style="width:85%"><br>
+<img src="/images/dance3.jpg" style="width:85%"><br>
+<img src="/images/dance4.jpg" style="width:85%">
+
+**REQUIRE JACKSON INPUT VIDEO**
+
+**REQUIRE JACKSON INPUT VIDEO**
