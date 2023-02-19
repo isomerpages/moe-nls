@@ -20,20 +20,18 @@ To develop our students to be useful contributors to society through inculcating
 
 <img src="/images/cns5.jpg" style="width:85%">
 
-##### STUDENT LEADERS:
+**STUDENT LEADERS:**
 
 *   Candice Tee Yi Ting (3RS1) — Chairperson
 *   Nur Rilianna Binte Mohamed Jufrei (3HS2) — Vice Chairperson
 
-##### VENUE:
-
+**VENUE:**<br>
 Retail Connection Workshop
 
-##### TIMING:
-
+**TIMING:**<br>
 Every Thursday 2.45 p.m. to 5.00 p.m.
 
-##### HIGHLIGHTS/ACHIEVEMENTS:
+**HIGHLIGHTS/ACHIEVEMENTS:**
 
 *   Sales Events in 2021
     *   2021 CNY Sales event
@@ -48,7 +46,7 @@ Every Thursday 2.45 p.m. to 5.00 p.m.
 *   VIA Project “Care Packs” for Care Staff in Kwong Wai Shiu Hospital
 *   Business and sales training by CCA teachers
 
-##### PARTNERS AND ACTIVITIES:
+**PARTNERS AND ACTIVITIES:**
 
 *   J L Hearts Online Jewellery
     *   Design and create innovative jewellery products
@@ -56,7 +54,7 @@ Every Thursday 2.45 p.m. to 5.00 p.m.
     *   Sales Training
     *   Product knowledge and demonstration
 
-##### CCA PROGRAM FOR THE YEAR:
+**CCA PROGRAM FOR THE YEAR:**
 
 The club aims to encourage entrepreneurship and impart life skills to students through the following activities:
 
@@ -67,10 +65,9 @@ The club aims to encourage entrepreneurship and impart life skills to students t
 *   Design promotional materials
 *   Price merchandise to meet market demands and expectation
 
-##### VIA ACTIVITIES:
-
+**VIA ACTIVITIES:**<br>
 Upcoming Mask Lanyard Project to benefit bus captains working for SBS Transit
 
-##### PHOTOS:
+**PHOTOS:**
 
-###### 2021 BUSINESS CHALLENGE
+2021 BUSINESS CHALLENGE
