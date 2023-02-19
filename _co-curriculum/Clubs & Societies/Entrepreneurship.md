@@ -95,3 +95,6 @@ _Balloon Twisting_
 
 _Slime Making_
 
+<img src="/images/entre7.jpg" style="width:49%" align=left>
+<img src="/images/entre8.jpg" style="width:49%" align=right>
+<br clear="left"><br>
