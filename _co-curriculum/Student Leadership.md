@@ -43,3 +43,5 @@ description: ""
 <figcaption>  STUDENT COUNCIL MISSION: ASPIRE TO LEAD, INSPIRE TO FOLLOW
  </figcaption>
 </figure>
+
+**STUDENT Leadership TEACHERS**
