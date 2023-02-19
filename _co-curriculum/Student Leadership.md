@@ -38,3 +38,8 @@ description: ""
 
 **The Northlight 14th Student Council**
 
+<figure>
+<img src="/images/sl2.jpg" style="width:90%">
+<figcaption>  STUDENT COUNCIL MISSION: ASPIRE TO LEAD, INSPIRE TO FOLLOW
+ </figcaption>
+</figure>
