@@ -79,3 +79,9 @@ Upcoming Mask Lanyard Project to benefit bus captains working for SBS Transit
  </figcaption>
 <img src="/images/entre2.jpg" style="width:90%">
 </figure>
+
+2021 VIA PROJECT "CARE PACKS" FOR CARE STAFF IN KWONG WAI SHIU HOSPITAL
+
+<img src="/images/entre3.jpg" style="width:49%" align=left>
+<img src="/images/entre4.jpg" style="width:49%" align=right>
+<br clear="left"><br>
