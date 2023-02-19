@@ -98,3 +98,6 @@ _Slime Making_
 <img src="/images/entre7.jpg" style="width:49%" align=left>
 <img src="/images/entre8.jpg" style="width:49%" align=right>
 <br clear="left"><br>
+
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
+
