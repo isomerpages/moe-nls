@@ -73,3 +73,9 @@ Upcoming Mask Lanyard Project to benefit bus captains working for SBS Transit
 2021 BUSINESS CHALLENGE
 
 <img src="/images/entre1.jpg" style="width:85%">
+
+<figure>
+<figcaption>  2021 - 2022 CHINESE NEW YEAR SALES EVENT
+ </figcaption>
+<img src="/images/entre2.jpg" style="width:90%">
+</figure>
