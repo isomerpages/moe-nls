@@ -64,3 +64,6 @@ Digital Ambassadors for Seniors and Drone Videography for School-based Productio
 <img src="/images/it4.jpg" style="width:85%"><br>
 <img src="/images/it5.jpg" style="width:85%"><br>
 <img src="/images/it6.jpg" style="width:85%">
+
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
+
