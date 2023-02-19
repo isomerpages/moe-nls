@@ -45,3 +45,10 @@ description: ""
 </figure>
 
 **STUDENT Leadership TEACHERS**
+
+| Advisor: Mr Rodney Yeo  |   |
+|:-:|---|
+| Student Leadership IC:  | Mr Rasidee  |
+| 2 IC:  | Mr Aaron  |
+| Teachers  | Mr Jespal  <br>Mr Khairol  <br>Mr Kwan  <br>Ms Sarah  <br>Ms Justine  <br>Mr Ramesh  <br>Mr Ray  |
+|   |   |
