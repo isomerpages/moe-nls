@@ -15,7 +15,7 @@ third_nav_title: Uniformed Groups
 
 The mission of NCDCC is to develop and empower our youths to be active and concerned citizens advocating life-saving skills.
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/co-curriculum/Uniformed-Groups/ncdcc/">
 <img style="width:20%" align=right src="/images/readmore.jpg">
 </a></p>
 <br clear=right><br><br>
