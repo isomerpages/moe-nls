@@ -2,7 +2,6 @@ collections:
   partnerships:
     output: true
     order:
-      - Friends of NorthLight.md
       - Parents Gateaway.md
       - Parent Support Group/.keep
       - Parent Support Group/Parent Support Group.md
@@ -13,3 +12,4 @@ collections:
       - Letter to parents/Letter to Parents 2021.md
       - Letter to parents/Letter to Parents 2020.md
       - Letter to parents/Letter to Parents 2019.md
+      - Friends of NorthLight.md
