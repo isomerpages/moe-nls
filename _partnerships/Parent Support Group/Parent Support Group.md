@@ -207,3 +207,16 @@ As a concerned parent, I support my children by being a Parent Support Group (PS
 I did not regret joining the Parent Support Group (PSG), despite my brother’s initial reluctance. I am glad that I persevered and insisted on being a part of his schooling journey in NorthLight School (NLS). During the PSG activities, especially the annual Family Camps, I noticed positive behavioral changes in him that would normally eluded me in typical family settings. He is a much confident and sociable child, compared during his primary school days.
 
 My brother is the youngest in the family, and we had been overprotective and likely smothered him at times. He commented previously that he is obligated to follow my lead, simply because I am the adult. It was definitely a wake-up call for me. By attending PSG activities, it opened my eyes and made me see him as an individual, and not someone whom I could mold according to my expectations. I would say that joining the PSG is beneficial for us to improve and strengthen our family bonding.
+
+<img src="/images/PSG5.jpg" style="width:40%" align=left>
+
+**_Thilagavathy Sevapragasam_**<br>
+**_Parent to Pranav s/o C. Balu (Year 3, 2015 cohort)_**
+
+My son suffers from hemiplegia; simply put, he is partially paralyzed on one side of his body due to injury to the motor centre of his brain.
+
+In primary school, he did badly in his studies and had zero confidence. His teachers would call and complain that he was slow and had poor understanding of the topics taught. They neglected to understand him and his health situation, and I had a challenging time explaining to his teachers. When he received his discouraging PSLE results back then and was asked to re-sit, I was taken aback and contemplated what would be the best path for him. Fortunately, my husband suggested enrolling him in NorthLight School (NLS) due to an optimistic, informational session with an acquaintance.
+
+Initially, I was worried and skeptical when I met his classmates for the first time. However, after the pep talk by the Principal and Discipline Master, I was convinced that my son is in good hands, and I had positive feelings about the school and its system. I am proud of my son’s achievements; he received second prizes for both Language and Literacy, and NorthLight Programme last year.
+
+My husband and I are thankful and appreciative of NLS teachers for their relentless dedication and understanding towards my son. Due to their positive and optimistic outlook, my son gained strength, confidence, courage and patience towards his studies and life in general. They made a huge difference to his life and he looks upon them as role models. No words are good enough to express our deepest gratitude to them. To us, they are like candles brightening my son’s life.
