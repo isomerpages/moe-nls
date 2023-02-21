@@ -114,3 +114,15 @@ Mr Lau is also appreciative for how the learning is structured in NLS to help st
 En Cheng has some ways to go yet in NLS but Mr Lau is encouraged by what he has seen in his son’s development so far. He hopes the school will continue to cultivate his character and develop his strengths to become a socially responsible individual who will contribute his part to society in the future. For now, he hopes that En Cheng can continue to learn as much as he can in NLS to the best of his abilities and try his best to enter into ITE after graduation.
 
 <img src="/images/PSG - Qistina Qarina.jpg" style="width:35%" align=left>
+
+Name of parent: **Madam Siti Zubaidah** <br>
+Name of children: **Qistina and Qarina** <br>
+Class: **3HS2 and 3RS1 \[2020\]**
+
+Madam Zubaidah has two twin daughters enrolled in NLS who are currently in their third year of study. Qistina is in the Hospitality Services course while Qarina is in the Retail Services course. Madam Zubaidah recounts that following a transfer of Primary Schools in their early years, both sisters’ studies began to decline and both similarly exhibited a negative attitude towards learning and attending school.
+
+Following the disappointment from the twins’ PSLE results, Madam Zubaidah decided to enrol both of them in NLS as she had heard good things about the school from her brother-in-law whose son had attended the school. It would prove to be a good decision.
+
+As the twins went about their daily routine of attending NLS, Madma Zubaidah and her husband began to notice a positive change in their daughters’ attitude towards school. For starters, both girls were enthusiastic about wanting to attend school. They also slowly saw an improvement in their academic performance and both girls displayed increased levels of self-confidence in their demeanour and interactions with others. Both girls have indeed blossomed in NLS and despite occasional behavioural issues, they have done generally well to being students of NLS. Qarina is currently a Student Counsellor after being formally appointed in 2019 and Qistina was called up to join the National Youth Soccer set-up for girls in her age group after outstanding performances as a goalkeeper in the National School Games.
+
+Both Madam Zubaidah and her husband are grateful to NLS for looking after their daughters and in helping to build their character. They are also appreciative for their participation in the Parent Support Group which gives them the opportunity to bond with their daughters and other members of their family as well as to network with other parents. They hope that both Qarina and Qistina can continue to concentrate on their studies in their upper years at NLS and achieve good results. They remain hopeful and optimistic that both girls can go on to further their studies in ITE and beyond.
