@@ -8,3 +8,5 @@ third_nav_title: Letter to parents
 
 * [Letter to Parents [15-09-2020]](/files/Letter%20to%20Parents_Term%204_2020.pdf)
 * [Letter to Parents [27-07-2020]](/files/Letter-to-Parents-27072020.pdf)
+* [Letter to Parents [30-06-2020]](/files/Letter-to-Parents-30-06-2020.pdf)
+* [Term 3 Assessment Matters](/files/Letter-To-Parents-Term-3-2020-Assessment-Matters.pdf)
