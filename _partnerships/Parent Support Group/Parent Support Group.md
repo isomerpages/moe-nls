@@ -15,3 +15,12 @@ third_nav_title: Parent Support Group
 <img src="/images/PSG-2020-3.jpg" style="width:49%" align=left>
 <img src="/images/PSG-2020-4.jpg" style="width:49%" align=right>
 <br clear="left"><br>
+
+|   | **Join us**  |
+|:-:|---|
+| The Parent Support Group (PSG) is made up of committed parents who play an active role in supporting and participating in school activities organized for both the students and their parents. We strive to promote the spirit of community within the NorthLight School (NLS) family. We aim for improved communication and support between the students and their parents through our activities.  | Let us play an active role in our students’ lives. Express your interest via the following ways:<br><br>*   Email to Mr Leonard ong, PSG Coordinator via [**ong\_tai\_hian\_leonard@schools.gov.sg**](mailto:ong_tai_hian_leonard@schools.gov.sg)<br>*   Inform through your child’s Form Teacher<br>*   Visit the General Office during office hours  |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
