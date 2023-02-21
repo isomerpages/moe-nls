@@ -19,3 +19,13 @@ third_nav_title: Alumni
 <img src="/images/Bowling (2).jpg" style="width:49%" align=left>
 <img src="/images/Bowling (1).jpg" style="width:49%" align=right>
 <br clear="left"><br>
+
+<u>LASER TAG/ GO-KART / BUBBLE SOCCER & OUR YEAR END EVENT</u>
+
+<img src="/images/Year End Event (1).jpg" style="width:49%" align=left>
+<img src="/images/Year End Event (2).jpg" style="width:49%" align=right>
+<br clear="left"><br>
+
+<img src="/images/Go Kart.jpg" style="width:49%" align=left>
+<img src="/images/Laser Tag.jpg" style="width:49%" align=right>
+<br clear="left"><br>
