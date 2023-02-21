@@ -120,7 +120,7 @@ SINGAPORE – Jose Mourinho made his first public comments on being linked with 
 **NORTHLIGHT STUDENTS ON A ROLL AT TOKYO FOOD FAIR**<br>
 The aromatic whiff of a peanut sauce more familiar to taste buds of diners about 5,000km away, wafted through the air in Tokyo yesterday as a team of hospitality students from Northlight School sold their fusion “satay temaki” creation at a food fair. Their dish marries Singapore’s satay with Japan’s temaki sushi hand roll - ...
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/news-events-12/">
 <img style="width:20%" align=left src="/images/more1.jpg">
 </a></p>
 <br clear=left><br><br>
