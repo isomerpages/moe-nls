@@ -44,3 +44,7 @@ When he received a call five years ago asking if he would like to take the helm 
 <img style="width:20%" align=left src="/images/more1.jpg">
 </a></p>
 <br clear=left><br><br>
+
+<img src="/images/Mrs Chua with Northlight School Students.jpg" style="width:85%">
+
+<img src="/images/New Hope.jpg" style="width:85%">
