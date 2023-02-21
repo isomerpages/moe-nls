@@ -2,12 +2,6 @@ collections:
   partnerships:
     output: true
     order:
-      - Alumni/.keep
-      - Alumni/Our Alumni Council.md
-      - Alumni/School Leaders Message.md
-      - Alumni/Events and Programmes.md
-      - Alumni/Trainings and Programmes from WSG.md
-      - Alumni/Useful Links.md
       - Parents Gateaway.md
       - Parent Support Group/.keep
       - Parent Support Group/Parent Support Group.md
@@ -21,3 +15,9 @@ collections:
       - Friends of NorthLight.md
       - News and Events.md
       - Testimonials.md
+      - Alumni/.keep
+      - Alumni/Our Alumni Council.md
+      - Alumni/School Leaders Message.md
+      - Alumni/Events and Programmes.md
+      - Alumni/Trainings and Programmes from WSG.md
+      - Alumni/Useful Links.md
