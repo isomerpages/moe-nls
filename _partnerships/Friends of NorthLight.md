@@ -15,3 +15,6 @@ NorthLight School seeks to build strong and purposeful partnerships to provide s
 3 \.  Service Learning Partners – They allow our students to demonstrate Values-In-Action (VIA).<br>
 4 \.  Board of Directors (BOD)<br>
 5 \.  Parent Support Group (PSG)
+
+**Let’s be Friends!**<br>
+If you are interested to join us in our partnership journey, please send us an email at [nls@moe.edu.sg](mailto:nls@moe.edu.sg).
