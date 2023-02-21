@@ -130,7 +130,7 @@ The aromatic whiff of a peanut sauce more familiar to taste buds of diners about
 **NLS INFLUENCED SINGAPORE'S EDUCATION SYSTEM: PM LEE**<br>
 SINGAPORE – NorthLight School – a specialised school for the less academically inclined – has not only changed the lives of its students, but also influenced Singapore’s education system, Prime Minister Lee Hsien Loong said on Wednesday (Sept 21). “It has helped us rethink how we should develop a school’s culture, and how teachers relate...
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/news-events-13/">
 <img style="width:20%" align=left src="/images/more1.jpg">
 </a></p>
 <br clear=left><br><br>
