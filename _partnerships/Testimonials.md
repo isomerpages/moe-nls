@@ -26,3 +26,14 @@ Syafiee Abdullah He felt like there was no hope for him when he failed his Prima
 <img style="width:25%" align=left src="/images/more1.jpg">
 </a></p>
 <br clear=left><br><br>
+
+<img src="/images/Naveen Raj.jpg" align=left style="width:60%">
+<br clear=left>
+
+**SCHOOL DREW OUT THE ARTIST IN HIM**<br>
+He is in his first year, pursuing a Diploma in Animation at Nanyang Polytechnic on a scholarship after doing well at the ITE. While the future looks bright for Mr Naveen Raj, 19,things did not seem so promising seven years ago when he failed the PSLE. Mr Naveen then joined NorthLight School, which turned out...
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:25%" align=left src="/images/more1.jpg">
+</a></p>
+<br clear=left><br><br>
