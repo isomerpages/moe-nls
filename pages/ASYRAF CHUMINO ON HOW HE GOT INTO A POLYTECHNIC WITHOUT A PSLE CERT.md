@@ -24,3 +24,5 @@ Asyraf worked hard at Northlight School and became one of the 30 to 40 per cent 
 He told us: “In life, it is you against yourself. It is you versus you. Every person has their own problems but after you overcome them you become strong and have that driving force within you. So I think using that driving force to actually push you towards your goal is important.”
 
 _Channel NewsAsia_
+
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
