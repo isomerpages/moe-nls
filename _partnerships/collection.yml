@@ -2,6 +2,7 @@ collections:
   partnerships:
     output: true
     order:
+      - Friends of NorthLight.md
       - Parents Gateaway.md
       - Parent Support Group/.keep
       - Parent Support Group/Parent Support Group.md
