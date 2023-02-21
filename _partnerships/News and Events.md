@@ -30,7 +30,7 @@ More students from NorthLight School – a specialised school that takes in thos
 **SUPPORTIVE TEACHERS HELPED HIM MAKE THE GRADE**<br>
 Throughout his time at Tampines North Primary School, Mr Kenneth Yong could not spell words of more than three letters. “I could only spell simple words like ‘and’ and ‘the’,” said Mr Yong, who failed his Primary School Leaving Examination . He then entered NorthLight School, where he did well enough to move on...
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/news-events-3/">
 <img style="width:20%" align=left src="/images/more1.jpg">
 </a></p>
 <br clear=left><br><br>
