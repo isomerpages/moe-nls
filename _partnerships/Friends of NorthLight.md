@@ -9,8 +9,7 @@ NorthLight School seeks to build strong and purposeful partnerships to provide s
 
 <img src="/images/NLS Partnership Framework.png" style="width:85%">
 
-**Our Friends:**
-
+**Our Friends:**<br>
 1 \.  Industry Partners – They provide support to the school in the form of Industry Experiential Programme (IEP) and work experience opportunities, learning journeys, training and industry exposure, bursaries, donations, etc.<br>
 2 \.  Community Engagement Partners – They provide opportunities for learning journeys, training and exposure to broaden students’ perspective, bursaries, donations, etc.<br>
 3 \.  Service Learning Partners – They allow our students to demonstrate Values-In-Action (VIA).<br>
