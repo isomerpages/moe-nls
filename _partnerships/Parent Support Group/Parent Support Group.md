@@ -41,6 +41,6 @@ With regards to the future, I hope that my boys can achieve their goals in life 
 
 <img src="/images/PSG - Aide Iswandi.jpg" style="width:30%" align=right>
 
-Name of parent: **Madam Rafiah Bte Md. Ali**  
-Name of child: **Muhammad Aide Iswandi Bin Afwindi**  
+Name of parent: **Madam Rafiah Bte Md. Ali** <br>
+Name of child: **Muhammad Aide Iswandi Bin Afwindi** <br>
 Class: **4MS2 \[Year 2020\]**
