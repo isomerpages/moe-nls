@@ -112,3 +112,5 @@ When En Cheng was a first year student in NLS, Ms Pauline Soh was assigned as hi
 Mr Lau is also appreciative for how the learning is structured in NLS to help students like En Cheng. He is glad that there are no major national examinations which could prove stressful to him. He lauded the school programmes for being diversified in catering to a wide range of abilities, suitable and age-appropriate and practical and useful in nature. Mr Lau was also impressed that all the teachers in NLS were caring and supportive of their students under their charge and were true to the mission of the school.
 
 En Cheng has some ways to go yet in NLS but Mr Lau is encouraged by what he has seen in his son’s development so far. He hopes the school will continue to cultivate his character and develop his strengths to become a socially responsible individual who will contribute his part to society in the future. For now, he hopes that En Cheng can continue to learn as much as he can in NLS to the best of his abilities and try his best to enter into ITE after graduation.
+
+<img src="/images/PSG - Qistina Qarina.jpg" style="width:35%" align=left>
