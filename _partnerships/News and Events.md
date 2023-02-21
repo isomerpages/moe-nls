@@ -159,3 +159,5 @@ The first batch of students eligible for the new Edusave Skills Award received t
 * [Northlight students on a roll at Tokyo Food Fair](/news-events-12/)
 * [NLS influenced Singapore's education system PM Lee](/news-events-13/)
 * [First batch of students receives new Edusave award](/news-events-14/)
+
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
