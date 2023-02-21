@@ -80,7 +80,7 @@ SINGAPORE: Graduates of Northlight School and Assumption Pathway School (APS) wi
 **NORTHLIGHT SCHOOL GRADUATE DHAVANISHA SIVA, MUHAMMAD ASYRAF BIN CHUMINO ARE AMONG THE RECIPIENTS OF THE 2014 SPECIAL AWARDS**<br>
 Mr Muhammad Asyraf Bin Chumino, 20, is another LKY-STEP awardee who has persevered through the odds. He had quit school when he was 10 to take care of his widowed mother, who was suffering from depression. For two years, he helped with chores at home and attempted to self-study. When his mother got better, he...
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/news-events-8/">
 <img style="width:20%" align=left src="/images/more1.jpg">
 </a></p>
 <br clear=left><br><br>
