@@ -50,7 +50,7 @@ When he received a call five years ago asking if he would like to take the helm 
 **SKILLS LEARNT AT SCHOOL MADE A DIFFERENCE**<br>
 Mr Eric Zhuo remembers crying when he got his Primary School Leaving Examination results eight years ago. “I was looking forward to going to a mainstream secondary school, but it didn’t quite turn out the way I had expected,” recalled the former Ahmad Ibrahim Primary pupil. “I was one point away from getting into a...
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/news-events-5/">
 <img style="width:20%" align=left src="/images/more1.jpg">
 </a></p>
 <br clear=left><br><br>
