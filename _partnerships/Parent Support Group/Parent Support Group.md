@@ -142,3 +142,11 @@ NLS relatively small class size was highlighted by Madam Tan as a positive way o
 Following from Lecea’s time in NLS so far, Madam Tan has noticed some changes in her daughter’s demeanour as well as her academic performance. For one Lecea is more confident and outspoken now which Madam Tan attributes to her ability to mingle with her classmates who are of the same level as her. She remains a happy and bubbly girl both in and out of school. Academically, Madam Tan has noted an improvement in Lecea’s written English for which she is grateful to the teachers of the class.
 
 Moving forward, Madam Tan hopes that NLS can continue to instil and reinforce good values in her daughter in areas of self-responsibility, respect for teachers and to develop a sense of compassion for those around her. She firmly believes that with the instilling of right values allied with a cultivation of a positive learning attitude for continual improvement will ensure that children go into an uncertain future with the right approach and necessary life skills. She hopes that Lecea can develop emotional resilience in NLS and find an area of interest in the “Taster” modules offered in NLS and progress to the ITE after graduation.
+
+<img src="/images/PSG - Pedro.jpg" style="width:35%" align=left>
+
+Name of parent: **Madam Michelle Seah** <br>
+Name of child: **Pedro Keith Kwa** <br>
+Class: **2T4 \[2020\]**
+
+Madam Seah recounted that Pedro struggled in Primary School and was behind his peers in most areas academically. This resulted in a loss of confidence but more detrimentally led Pedro to lose interest in his studies. Despite his academic setbacks, Madam Seah recalled that Pedro showed great enthusiasm for being a Scout which was his chosen CCA. He was able to carry out and complete all his assigned tasks in a responsible manner and was always proud to share his achievements with her and her husband.
