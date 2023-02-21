@@ -126,3 +126,12 @@ Following the disappointment from the twins’ PSLE results, Madam Zubaidah deci
 As the twins went about their daily routine of attending NLS, Madma Zubaidah and her husband began to notice a positive change in their daughters’ attitude towards school. For starters, both girls were enthusiastic about wanting to attend school. They also slowly saw an improvement in their academic performance and both girls displayed increased levels of self-confidence in their demeanour and interactions with others. Both girls have indeed blossomed in NLS and despite occasional behavioural issues, they have done generally well to being students of NLS. Qarina is currently a Student Counsellor after being formally appointed in 2019 and Qistina was called up to join the National Youth Soccer set-up for girls in her age group after outstanding performances as a goalkeeper in the National School Games.
 
 Both Madam Zubaidah and her husband are grateful to NLS for looking after their daughters and in helping to build their character. They are also appreciative for their participation in the Parent Support Group which gives them the opportunity to bond with their daughters and other members of their family as well as to network with other parents. They hope that both Qarina and Qistina can continue to concentrate on their studies in their upper years at NLS and achieve good results. They remain hopeful and optimistic that both girls can go on to further their studies in ITE and beyond.
+
+<img src="/images/PSG - Lecea.jpg" style="width:30%" align=right>
+
+Name of parent: **Madam Lynn Tan** <br>
+Name of child: **Loke Jing Hui Lecea** <br>
+Class: **1S1 \[2020\]**
+
+Madam Tan is philosophical when she talks about her daughter Lecea’s enrolment into NLS and accepts that if Lecea had not struggled academically in Primary School she would not be in the school. That said, she is glad that the struggles that her daughter encountered in Primary School is over and is keen for NLS to impart fundamental life skills to her daughter as well as to continue to teach and reinforce positive character values.
+
