@@ -89,3 +89,5 @@ Fourth-year student Mohd Irfan Shah, 16, entered NorthLight after failing his PS
 Irfan, who is faring well in school, hopes to study digital animation or retail services at the ITE after graduating from NorthLight. He also has his sights set on getting a degree. “I don’t know what I would be doing now if NorthLight didn’t exist.”
 
 _A version of this article appeared in the print edition of The Sunday Times on September 25, 2016, with the headline ‘New hope for PSLE ‘no-hopers_
+
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
