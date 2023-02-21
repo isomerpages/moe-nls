@@ -184,3 +184,10 @@ My son started off as a quiet and reserved Year 1 student. Fortunately, througho
 I am happy that I made a good choice for my son. Once again, I would like to take this opportunity to thank the Principal and all the staffs for their dedication. Thank you for making NorthLight School (NLS) a unique place that my son enjoys to study in.
 
 <img src="/images/PSG2.jpg" style="width:40%" align=left>
+
+**_Mary Wong_**<br>
+**_Parent to Yeo Hwee Teng (Year 5, 2015 cohort) and Yeo Ying Jie (Year 4, 2014 cohort)_**
+
+Both my daughters studied in NorthLight School (NLS), and will be furthering their Year 5 education in NorthLight Academy (NLA) in January 2015. During their primary school education, both my daughters had never passed a single examination. When they received their discouraging PSLE results back then, my husband and I did not hesitate to enroll them in NLS, despite the opposition from our family.Thankfully, we persisted and we do see encouraging results. They have improved tremendously and showed much keen interest in their studies. The school also instilled good character values known as S.H.I.N.E., and encouraged teamwork and volunteerism in them. As a result, my daughters have grown to be well-adjusted individuals.
+
+As a concerned parent, I support my children by being a Parent Support Group (PSG) member. Through the activities organized by the PSG team, I communicate better with my children in a social setting and this strengthen our parent-child bonding as well. We are thankful for the dedication of all the staff and for the ample opportunities given to us.
