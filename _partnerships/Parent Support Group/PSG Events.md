@@ -27,3 +27,5 @@ What transpired at the end of the session was a wonderful array of beautiful and
 <img src="/images/PSGbake5.jpg" style="width:85%">
 
 A big thank-you to our PSG members (current and associate for attending the event) and we will see you again soon!
+
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
