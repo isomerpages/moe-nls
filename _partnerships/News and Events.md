@@ -149,4 +149,7 @@ The first batch of students eligible for the new Edusave Skills Award received t
 * [More NorthLight students making it to tertiary institutions](/news-events-2/)
 * [Supportive teachers helped him make the grade](/news-events-3/)
 * [NorthLight staff pull out all the stops to help their students](/news-events-4/)
-* 
+* [Skills learnt at school made a difference](/news-events-5/)
+* [New hope for PSLE 'no-hopers'](/news-events-6/)
+* [New work-study programme for graduates of Northlight, Assumption Pathway schools](/news-events-7/)
+* [NorthLight School graduate Dhavanisha Siva, Muhammmad Asyraf Bin Chumino are among the recipients of 2014 Special Awards](/news-events-8/)
