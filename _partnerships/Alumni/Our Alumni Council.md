@@ -35,4 +35,8 @@ third_nav_title: Alumni
 	</tr>
 	</table>
 	
+##### STAY IN TOUCH
+
+Connect with us: [https://www.facebook.com/northlight.alumni](https://www.facebook.com/northlight.alumni)
+	
 <p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
