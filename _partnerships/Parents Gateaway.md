@@ -11,5 +11,12 @@ Parents Gateway is an initiative by MOE to enable parents to interact with schoo
 
 **For assistance to download the Parents Gateway Mobile Application, you may**
 
+<img src="/images/Parents Gateway.png" style="width:20%" align=right>
+
 1 \.  View the [Step-by-Step Guide Video](https://www.nls.edu.sg/qql/slot/u194/Quick%20Links/Parents%20Gateway/Parents-Gateway-Video.mp4)<br>
 2 \. Refer to the [Parents User Guide.pdf](/files/Parents-User-Guide.pdf)
+
+<br clear=right>
+
+
+
