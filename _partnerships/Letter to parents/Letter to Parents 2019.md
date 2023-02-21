@@ -10,3 +10,5 @@ third_nav_title: Letter to parents
 * [Term-3](/files/Letter-to-Parents_Term-3_2019_27-June-updated.pdf)
 * [Mid Year Exams](/files/Letter-to-Parents_Term-2_Mid_Year_Exams_final.pdf)
 * [Term-2](/files/Letter_to_Parents_Term-2_2019.pdf)
+* [Year 1 Awards Day](/files/Letter-to-Year-1-Awards-Day.pdf)
+* [Term 1 – Sports / Awards Day](/files/Term-1_Sports_Awards_Day_27022019.pdf)
