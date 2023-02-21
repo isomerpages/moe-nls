@@ -145,4 +145,5 @@ The first batch of students eligible for the new Edusave Skills Award received t
 </a></p>
 <br clear=left><br><br>
 
-* [Asyraf Chumino on how he got into a polytechnic without a PSLE cert](/news-events-1)
+* [Asyraf Chumino on how he got into a polytechnic without a PSLE cert](/news-events-1/)
+* [More NorthLight students making it to tertiary institutions](/news-events-2/)
