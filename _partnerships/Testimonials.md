@@ -22,7 +22,7 @@ When he failed the PSLE in 2011, his mother insisted he retake the exam the next
 **SCHOOL GIVES HIM HOPE AND A FUTURE**<br>
 Syafiee Abdullah He felt like there was no hope for him when he failed his Primary School Leaving Examination in 2012. Some of his primary school friends even called the school a “no hope school”. But NorthLight School gave Syafiee Abdullah, 16, not only hope but a future. His time at NorthLight was not all smooth...
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/testimonials-2/">
 <img style="width:25%" align=left src="/images/more1.jpg">
 </a></p>
 <br clear=left><br><br>
