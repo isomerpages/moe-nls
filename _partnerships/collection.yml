@@ -2,12 +2,12 @@ collections:
   partnerships:
     output: true
     order:
-      - Letter to parents/Letter to Parents 2019.md
       - Letter to parents/.keep
       - Letter to parents/Letter to Parents 2023.md
       - Letter to parents/Letter to Parents 2022.md
       - Letter to parents/Letter to Parents 2021.md
       - Letter to parents/Letter to Parents 2020.md
+      - Letter to parents/Letter to Parents 2019.md
       - Parents Gateaway.md
       - Parent Support Group/.keep
       - Parent Support Group/Parent Support Group.md
