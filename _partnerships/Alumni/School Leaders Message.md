@@ -22,4 +22,11 @@ Warm regards<br>
 Miss Amanda<br>
 Advisor, Alumni Committee
 
+##### CONTACT PERSON
+
+MS Sayida <br>
+Counsellor cum Alumni Officer<br>
+6929 6290 / 6929 6208<br>
+Connect with us: [https://www.facebook.com/northlight.alumni](https://www.facebook.com/northlight.alumni)
+
 <p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
