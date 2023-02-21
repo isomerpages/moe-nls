@@ -38,3 +38,9 @@ When the results of the twins’ first year results were released, I was in tear
 I am so thankful to all the teachers in NLS that have helped and given encouragement to my boys in their journey so far. The school really lives up to its ethos of “NEVER GIVE UP” in helping all its students. My children is proof that NLS teachers will really go the extra miles to assist any student under their care and build them up for the future by inculcating good character values and providing a viable education for life. Their efforts have created hope for their students where there might have been none and I’m sure that there are a whole host of thankful NLS parents out there. Good job teachers!
 
 With regards to the future, I hope that my boys can achieve their goals in life and continue their journey to ITE and enrol in courses of their choice after they graduate from NLS. I know my boys will never forget their time in NLS and what the school has done for them. Thank you NLS!
+
+<img src="/images/PSG - Aide Iswandi.jpg" style="width:30%" align=right>
+
+Name of parent: **Madam Rafiah Bte Md. Ali**  
+Name of child: **Muhammad Aide Iswandi Bin Afwindi**  
+Class: **4MS2 \[Year 2020\]**
