@@ -44,7 +44,7 @@ He is in his first year, pursuing a Diploma in Animation at Nanyang Polytechnic 
 **SCHOOL CHANGED MY LIFE**<br>
 She had problems learning in primary school, but found it hard to ask teachers for help. Until she was in Primary Four, she rarely spoke a word at school. Millenia Silvianti, 16, has selective mutism, an anxiety disorder whereby children are unable to communicate effectively in certain settings. Psychologist Daniel Koh said it is hard...
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/testimonials-4/">
 <img style="width:25%" align=left src="/images/more1.jpg">
 </a></p>
 <br clear=left><br><br>
