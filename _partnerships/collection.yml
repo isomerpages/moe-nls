@@ -2,6 +2,7 @@ collections:
   partnerships:
     output: true
     order:
+      - Parent Support Group/PSG Events.md
       - Parent Support Group/Parent Support Group.md
       - Parent Support Group/.keep
       - Parents Gateaway.md
