@@ -49,3 +49,5 @@ Parents can download the mobile app, available on iOS and Android, and log in wi
 **What if I am unable to use Parents Gateway?**
 
 We will continue to issue hardcopy letters and consent forms to parents and legal guardians who are unable to use Parents Gateway.
+
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
