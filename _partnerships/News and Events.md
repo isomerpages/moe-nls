@@ -17,3 +17,7 @@ description: ""
 <img src="/images/ASYRAF CHUMINO.png" style="width:85%">
 
 Asyraf’s father passed away when he was two, leaving his mother in depression. When he was in Primary 4, his mother’s health declined and he dropped out of school to look after her. “My brother was taking his PSLE and my sister had just started secondary school. So I thought being the youngest with the...
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:20%" align=left src="/images/more1.jpg">
+</a></p>
