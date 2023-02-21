@@ -104,3 +104,13 @@ A gift shop at NorthLight School has been given a new lease of life with the don
 <img style="width:20%" align=left src="/images/more1.jpg">
 </a></p>
 <br clear=left><br><br>
+
+<img src="/images/MOURIN_1.jpg" style="width:85%">
+
+**MOURINHO IN SINGAPORE FOR PETER LIM SCHOLARSHIP EVENT AT NORTHLIGHT SCHOOL**<br>
+SINGAPORE – Jose Mourinho made his first public comments on being linked with the Manchester United coaching job. As a special guest at the Peter Lim Scholarship event held at Northlight School on Wednesday, the Portuguese was non-committal about links to Manchester United, even as he answered questions with tongue firmly in cheek. He quipped: "I...
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:20%" align=left src="/images/more1.jpg">
+</a></p>
+<br clear=left><br><br>
