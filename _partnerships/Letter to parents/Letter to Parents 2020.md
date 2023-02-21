@@ -12,3 +12,5 @@ third_nav_title: Letter to parents
 * [Term 3 Assessment Matters](/files/Letter-To-Parents-Term-3-2020-Assessment-Matters.pdf)
 * [Term-3](/files/Letter-to-Parents-Term-3-2020.pdf)
 * [HBL Letter](/files/Parents-Letter-31-March-Revised.pdf)
+* [Term-2](/files/Letter-to-Parents-Term-2-2020.pdf)
+* [11 FEB - PARENTS SCHOOL MEASURES IN RELATION TO 2019 NOVEL CORONAVIRUS SITUATION](/files/SCHOOL-MEASURES-2019-NOVEL-CORONAVIRUS-SITUATION.pdf)
