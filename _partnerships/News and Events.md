@@ -84,3 +84,13 @@ Mr Muhammad Asyraf Bin Chumino, 20, is another LKY-STEP awardee who has persever
 <img style="width:20%" align=left src="/images/more1.jpg">
 </a></p>
 <br clear=left><br><br>
+
+<img src="/images/Northlight School - Students and Principal.jpg" style="width:85%">
+
+**PRINCIPAL HAPPY THAT NORTHLIGHT IS STUDENTS' SECOND HOME**<br>
+When Mr Martin Tan received a call in 2011 asking if he would take over as principal of NorthLight School, a specialised secondary school that takes in those who failed the Primary School Leaving Examination, he immediately said yes.  “I empathised with the kids’ situations because I grew up in a low-income family,” he said...
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:20%" align=left src="/images/more1.jpg">
+</a></p>
+<br clear=left><br><br>
