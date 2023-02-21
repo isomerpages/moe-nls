@@ -173,3 +173,5 @@ Mikey was very happy student in his time at NLS. He was comfortable in opening u
 As a concerned parent, the school taught me that I could appreciate and be open to my son’s learning abilities and potential beyond mine and his perceived limitations. The values, work ethic and positive attitudes instilled by NLS would certainly stand Mikey in good stead for life. I also came to realize through my work in the Parent Support Group (PSG) of NLS that I would never be alone on this journey with my son in the school. Together with other like-minded parents, working alongside the teachers and staff of NLS, we are committed to bring out the best in every child!
 
 \*Ms Yong is the current chairperson of the NLS PSG. A post she has served with distinction for many years.
+
+<img src="/images/PSG1.jpg" style="width:40%" align=left>
