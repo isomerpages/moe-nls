@@ -64,3 +64,14 @@ When Mrs Chua Yen Ching was recruiting a pioneer team of teachers for NorthLight
 <img style="width:20%" align=left src="/images/more1.jpg">
 </a></p>
 <br clear=left><br><br>
+
+<img src="/images/MOE Logo.jpg" style="width:85%">
+
+**NEW WORK-STUDY PROGRAMME FOR GRADUATES OF NORTHLIGHT, ASSUMPTION PATHWAY SCHOOLS**<br>
+SINGAPORE: Graduates of Northlight School and Assumption Pathway School (APS) will be able to pursue a new two-year work-study programme, should they be unable to enter the Institute of Technical Education (ITE) or feel they are not ready to start work independently. The Ministry of Education (MOE) on Wednesday (Nov 5) said the move is...
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:20%" align=left src="/images/more1.jpg">
+</a></p>
+<br clear=left><br><br>
+
