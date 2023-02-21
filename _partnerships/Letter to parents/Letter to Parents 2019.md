@@ -12,4 +12,5 @@ third_nav_title: Letter to parents
 * [Term-2](/files/Letter_to_Parents_Term-2_2019.pdf)
 * [Year 1 Awards Day](/files/Letter-to-Year-1-Awards-Day.pdf)
 * [Term 1 – Sports / Awards Day](/files/Term-1_Sports_Awards_Day_27022019.pdf)
+* [Slides For Parents](https://www.nls.edu.sg/qql/slot/u194/Partnerships/Letter%20to%20Parents/welcome_talk_to_parents_2_Jan_19.pdf) **PDF EXCEEDS 5MB**
 * [Term-1](/files/Letter-to-Parents_Term-1_2019.pdf)
