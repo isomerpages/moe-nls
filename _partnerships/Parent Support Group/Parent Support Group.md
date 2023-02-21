@@ -193,3 +193,8 @@ Both my daughters studied in NorthLight School (NLS), and will be furthering the
 As a concerned parent, I support my children by being a Parent Support Group (PSG) member. Through the activities organized by the PSG team, I communicate better with my children in a social setting and this strengthen our parent-child bonding as well. We are thankful for the dedication of all the staff and for the ample opportunities given to us.
 
 <img src="/images/PSG3.jpg" style="width:40%" align=left>
+
+**_Nancy Chan_**<br>
+**_Parent to Quek Kah Kee (Year 3, 2015 cohort) and Quek Kah Seng (Year 4, 2015 cohort)_**
+
+我想分享我的孩子在這兩年以來的轉變很大. 我舉個例子: 他很文靜的一個小孩子又 不愛說話的孩子. 在老師的陪伴下他建立了自己的信心，因為學校有很多課程在 學習當中找到他自己的自信 例如，騎馬機械電器等等. 他的改變不是完全是靠自己而是 而是這裡有富有經驗的老師的教導，最重要的一點還是父母的支持孩子才會開心更有自信 能夠掌握自己的學習能力，而不用父母的操心. 謝謝大家.
