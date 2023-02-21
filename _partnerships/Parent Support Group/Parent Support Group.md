@@ -198,3 +198,12 @@ As a concerned parent, I support my children by being a Parent Support Group (PS
 **_Parent to Quek Kah Kee (Year 3, 2015 cohort) and Quek Kah Seng (Year 4, 2015 cohort)_**
 
 我想分享我的孩子在這兩年以來的轉變很大. 我舉個例子: 他很文靜的一個小孩子又 不愛說話的孩子. 在老師的陪伴下他建立了自己的信心，因為學校有很多課程在 學習當中找到他自己的自信 例如，騎馬機械電器等等. 他的改變不是完全是靠自己而是 而是這裡有富有經驗的老師的教導，最重要的一點還是父母的支持孩子才會開心更有自信 能夠掌握自己的學習能力，而不用父母的操心. 謝謝大家.
+
+<img src="/images/PSG4.jpg" style="width:40%" align=left>
+
+**_Zalifah Ibrahim_**<br>
+**_Sibling to Mohd Azlan Bin Abdullah Lim (Year 4, 2015 cohort)_**
+
+I did not regret joining the Parent Support Group (PSG), despite my brother’s initial reluctance. I am glad that I persevered and insisted on being a part of his schooling journey in NorthLight School (NLS). During the PSG activities, especially the annual Family Camps, I noticed positive behavioral changes in him that would normally eluded me in typical family settings. He is a much confident and sociable child, compared during his primary school days.
+
+My brother is the youngest in the family, and we had been overprotective and likely smothered him at times. He commented previously that he is obligated to follow my lead, simply because I am the adult. It was definitely a wake-up call for me. By attending PSG activities, it opened my eyes and made me see him as an individual, and not someone whom I could mold according to my expectations. I would say that joining the PSG is beneficial for us to improve and strengthen our family bonding.
