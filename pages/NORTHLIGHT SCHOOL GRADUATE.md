@@ -14,3 +14,5 @@ When his mother got better, he enrolled in a Mendaki programme for out-of-school
 “It was very difficult to find time for revision because I was working past midnight every day, but I wanted to provide for the family and relieve my mother’s burden,” he said.
 
 Through sheer determination and hard work, Mr Asyraf continued to excel in his studies and graduated from ITE with a GPA of 3.9. Now a first-year Hotel and Leisure Facilities Management student at Singapore Polytechnic, he said knowing his mother is doing well is his best reward for those challenging years.
+
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
