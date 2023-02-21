@@ -182,3 +182,5 @@ As a concerned parent, the school taught me that I could appreciate and be open 
 My son started off as a quiet and reserved Year 1 student. Fortunately, throughout last year, he had built his confidence and made more friends than he had in primary school. Today, he is much happier and more assured of himself. His confidence level has improved tremendously through the EQUAL programme.
 
 I am happy that I made a good choice for my son. Once again, I would like to take this opportunity to thank the Principal and all the staffs for their dedication. Thank you for making NorthLight School (NLS) a unique place that my son enjoys to study in.
+
+<img src="/images/PSG2.jpg" style="width:40%" align=left>
