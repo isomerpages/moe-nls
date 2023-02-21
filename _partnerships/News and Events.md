@@ -16,3 +16,5 @@ Asyraf’s father passed away when he was two, leaving his mother in depression.
 <br clear=left><br><br>
 
 <img src="/images/Prime Minister Lee Hsien Loong with Group of Chef Trai.jpg" style="width:85%">
+
+**MORE NORTHLIGHT STUDENTS MAKING IT TO TERTIARY INSTITUTIONS**
