@@ -26,3 +26,5 @@ At NorthLight, he attended an English language programme, where a female teacher
 For Mr Yong, the NorthLight community is like a second family.
 
 “My teachers were supportive and they made learning fun,” he said. “I am glad I didn’t let them down.”
+
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
