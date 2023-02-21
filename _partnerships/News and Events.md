@@ -56,3 +56,11 @@ Mr Eric Zhuo remembers crying when he got his Primary School Leaving Examination
 <br clear=left><br><br>
 
 <img src="/images/New Hope.jpg" style="width:85%">
+
+**NEW HOPE FOR PSLE 'NO-HOPERS'**<br>
+When Mrs Chua Yen Ching was recruiting a pioneer team of teachers for NorthLight School – a specialised school that takes in those who fail their Primary School Leaving Examination (PSLE) – 10 years ago, one of her first thoughts was: “Who would want to teach the weakest students in Singapore?” But, to Mrs Chua’s...
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:20%" align=left src="/images/more1.jpg">
+</a></p>
+<br clear=left><br><br>
