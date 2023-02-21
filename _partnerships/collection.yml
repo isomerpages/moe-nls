@@ -2,9 +2,9 @@ collections:
   partnerships:
     output: true
     order:
-      - Alumni/School Leaders Message.md
-      - Alumni/Our Alumni Council.md
       - Alumni/.keep
+      - Alumni/Our Alumni Council.md
+      - Alumni/School Leaders Message.md
       - Parents Gateaway.md
       - Parent Support Group/.keep
       - Parent Support Group/Parent Support Group.md
