@@ -19,3 +19,11 @@ There was much fun and laughter in the session that followed and kudos to all pa
 <img src="/images/PSGbake3.jpg" style="width:85%">
 
 The action in the kitchen was certainly a picture of hustle and bustle as all participants embraced the "Bake-off" challenge.
+
+<img src="/images/PSGbake4.jpg" style="width:85%">
+
+What transpired at the end of the session was a wonderful array of beautiful and delicious cakes baked by all participants and PSG members were presented with tokens of appreciation for attending the event.
+
+<img src="/images/PSGbake5.jpg" style="width:85%">
+
+A big thank-you to our PSG members (current and associate for attending the event) and we will see you again soon!
