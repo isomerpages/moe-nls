@@ -48,3 +48,10 @@ She had problems learning in primary school, but found it hard to ask teachers f
 <img style="width:25%" align=left src="/images/more1.jpg">
 </a></p>
 <br clear=left><br><br>
+
+* [From failure to first-rate student](/testimonials-1/)
+* [School gives him hope and a future](/testimonials-2/)
+* [School drew out the artist in him](/testimonials-3/)
+* [School changed my life](/testimonials-4/)
+
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
