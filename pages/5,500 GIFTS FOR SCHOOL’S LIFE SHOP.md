@@ -32,3 +32,5 @@ Ms Ng Bee Kay, assistant vice-president for corporate development and internatio
 A few students had a sneak preview of the shop when The Straits Times visited last week. Farish Muhd Khair Farish Khalid, 13, who hopes to buy a football, said: “The shop is much better now. I think we’ll be more motivated to work hard to buy the items.”
 
 _Source : The Straits Times on August 10, 2015_
+
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
