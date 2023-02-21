@@ -18,3 +18,18 @@ NorthLight School seeks to build strong and purposeful partnerships to provide s
 
 **Let’s be Friends!**<br>
 If you are interested to join us in our partnership journey, please send us an email at [nls@moe.edu.sg](mailto:nls@moe.edu.sg).
+
+**Code of Conduct for NorthLight School Partners**
+
+The school has put in place a NorthLight Code of Conduct for Partners which aims to ensure that all partners understand the standard of conduct required.
+
+Partners are expected to uphold the Partners' Code of Conduct at all times when carrying out their duties and interactions.
+
+All individuals interacting with students shall:
+
+1 \.  Uphold himself or herself appropriately and responsibly.<br>
+2 \.  Act in students' best interest at all times.
+
+Partners are expected to inform the school if they face any conflict of interest in carrying out their involvement with the school (e.g. other commitments, roles in other organisations).
+
+Any breaches of the Partners' Code of Conduct may lead to a warning of unacceptable behaviour or immediate termination of services as a partner.
