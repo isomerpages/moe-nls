@@ -10,3 +10,4 @@ third_nav_title: Letter to parents
 * [Letter to Parents [28-06-2021]](/files/Letter%20to%20Parents_Term%203_2021.pdf)
 * [Letter to Parents – HBL [18-05-2021]](/files/Letter%20to%20Parents_Term%20_HBL_2021.pdf)
 * [Letter to Parents [23-03-2021]](/files/Letter%20to%20Parents_Term%202_2021.pdf)
+* [Letter to Parents [04-01-2021] ](/files/Letter%20to%20Parents_Term%201_2021.pdf)
