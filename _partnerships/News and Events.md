@@ -20,7 +20,7 @@ Asyraf’s father passed away when he was two, leaving his mother in depression.
 **MORE NORTHLIGHT STUDENTS MAKING IT TO TERTIARY INSTITUTIONS**<br>
 More students from NorthLight School – a specialised school that takes in those who failed the Primary School Leaving Examination (PSLE) – are furthering their studies at tertiary institutions. Currently, about 45 per cent of students move on to the Institute of Technical Education (ITE), up from about 30 per cent in its initial years...
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/news-events-2/">
 <img style="width:20%" align=left src="/images/more1.jpg">
 </a></p>
 <br clear=left><br><br>
