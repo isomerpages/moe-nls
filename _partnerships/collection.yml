@@ -2,7 +2,6 @@ collections:
   partnerships:
     output: true
     order:
-      - Alumni/Contact Person.md
       - Alumni/.keep
       - Alumni/Our Alumni Council.md
       - Alumni/School Leaders Message.md
