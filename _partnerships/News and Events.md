@@ -94,3 +94,13 @@ When Mr Martin Tan received a call in 2011 asking if he would take over as princ
 <img style="width:20%" align=left src="/images/more1.jpg">
 </a></p>
 <br clear=left><br><br>
+
+<img src="/images/Northlight School - Life Shop.jpg" style="width:85%">
+
+**5,500 GIFTS FOR SCHOOL'S LIFE SHOP**<br>
+A gift shop at NorthLight School has been given a new lease of life with the donation of about 5,500 new and second-hand items by Changi Airport Group last month. These include soccer balls, stationery items, bags and kendamas – simple Japanese wooden toys played like a yo-yo that are selling in Singapore by the...
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:20%" align=left src="/images/more1.jpg">
+</a></p>
+<br clear=left><br><br>
