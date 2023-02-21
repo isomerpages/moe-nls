@@ -140,7 +140,7 @@ SINGAPORE – NorthLight School – a specialised school for the less academical
 **FIRST BATCH OF STUDENTS RECEIVES NEW EDUSAVE AWARD**<br>
 The first batch of students eligible for the new Edusave Skills Award received their awards this month, said the Ministry of Education (MOE). The award, first announced in January last year by then-Acting Education Minister Ong Ye Kung, is open to students in specialised schools, Institutes of Technical Education and polytechnics. In line with the national SkillsFuture...
 
-<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<p><a href="/news-events-14/">
 <img style="width:20%" align=left src="/images/more1.jpg">
 </a></p>
 <br clear=left><br><br>
