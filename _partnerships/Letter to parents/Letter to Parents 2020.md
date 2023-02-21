@@ -15,3 +15,5 @@ third_nav_title: Letter to parents
 * [Term-2](/files/Letter-to-Parents-Term-2-2020.pdf)<br>
 Update on Covid 19 Situation
 * [11 FEB - PARENTS SCHOOL MEASURES IN RELATION TO 2019 NOVEL CORONAVIRUS SITUATION](/files/SCHOOL-MEASURES-2019-NOVEL-CORONAVIRUS-SITUATION.pdf)
+* [Travel Declaration - March Holiday](/files/Letter-to-Parents-Travel-Declaration-march-holiday.pdf)
+* [Term-1](/files/Letter%20to%20Parents_Term%201_2020.pdf)
