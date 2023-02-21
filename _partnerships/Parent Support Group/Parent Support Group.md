@@ -220,3 +220,5 @@ In primary school, he did badly in his studies and had zero confidence. His teac
 Initially, I was worried and skeptical when I met his classmates for the first time. However, after the pep talk by the Principal and Discipline Master, I was convinced that my son is in good hands, and I had positive feelings about the school and its system. I am proud of my son’s achievements; he received second prizes for both Language and Literacy, and NorthLight Programme last year.
 
 My husband and I are thankful and appreciative of NLS teachers for their relentless dedication and understanding towards my son. Due to their positive and optimistic outlook, my son gained strength, confidence, courage and patience towards his studies and life in general. They made a huge difference to his life and he looks upon them as role models. No words are good enough to express our deepest gratitude to them. To us, they are like candles brightening my son’s life.
+
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
