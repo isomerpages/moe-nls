@@ -154,3 +154,11 @@ Madam Seah recounted that Pedro struggled in Primary School and was behind his p
 Following on from Pedro’s enrolment in NLS, Madam Seah became an astute observer of his development through his feedback on school life as well as her own personal interactions with Pedro’s teachers in NLS. Madam Seah is grateful that teachers in NLS are generally very patient and always willing to lend a listening ear to students regardless of their backgrounds, character dispositions or academic performance in schools. She believes that the school has the best interests of its students at heart and lauds the school for going the extra mile to give attention and understanding to its students, much of which might be lacking in their own home environments. She is especially grateful to NLS for nominating Pedro to attend the Cultural Immersion and Exchange Programme in Shanghai during his first year in NLS which she felt was important in boosting his morale and confidence levels greatly.
 
 Madam Seah is pleased by Pedro’s development in NLS so far and remains hopeful that her son will be able to pick up a skill (from the variety of taster programmes offered by the school) that he can develop and build an interest and passion for which could possibly open doors for further studies after his graduation.
+
+<img src="/images/PSG - Mikey.jpg" style="width:30%" align=right>
+
+Name of parent: **Ms Yong Leong Ying**\* <br>
+Name of child: **Phan Qin Jie, Mikey**(Graduated in 2019)  
+
+As a parent, the journey with my son Mikey was a very challenging one. Throughout his six years in the primary school, I was anxious and worried as teachers did not seem to be able to manage him in his studies, misunderstood him and I was afraid that he would get bullied. I knew Mikey’s ability to learn would be hampered due to his learning needs.
+
