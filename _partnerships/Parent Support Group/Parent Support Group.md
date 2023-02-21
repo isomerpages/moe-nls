@@ -44,3 +44,59 @@ With regards to the future, I hope that my boys can achieve their goals in life 
 Name of parent: **Madam Rafiah Bte Md. Ali** <br>
 Name of child: **Muhammad Aide Iswandi Bin Afwindi** <br>
 Class: **4MS2 \[Year 2020\]**
+
+Aide had a weak foundation in Mathematics when he was in Primary School. He faced many struggles and challenges in Mathematics with formulas proving to be a particular area of difficulty as he could not understand or conceptualise the idea of using them in problem-solving. His struggles in Mathematics led him to be demoralised and disenchanted with academics as a whole.
+
+Following his enrolment in Northlight School (NLS), Aide did not immediately show improvement in the beginning. However as he progressed through the years in the school, it became evident that Aide was beginning to enjoy school bit by bit.
+
+Madam Rafiah attributes this to the school designing tasks that were more kinaesthetic or hands-on in nature where Aide could explore and experiment and achieve tangible successes. As a natural progression for his interests, Aide applied for and was accepted to do Mechanical Services in his upper years in Northlight School where he continues to do well. Madam Rafiah noticed a new-found confidence and maturity in her son as Aide became more independent and self-directed especially pertaining to school matters.
+
+As Aide is on the cusp of finishing his education in NLS, Madam Rafiah is thankful to the school for building Aide up into an independent and mature young man. She hopes that he can continue to ride on this wave of self-confidence and independence and pursue his dreams for the future.
+
+Name of parent: **Madam Christina Ng** <br>
+Name of child: **Calista Koh Li En** <br>
+Class: **3HS2 \[Year 2020\]**
+
+When Calista was in Primary School, she was diagnosed with a learning deficiency. Despite her best efforts in the PSLE, she scraped through for her English and Science but Mathematics was to prove a particular challenge for her. Consequently Calista enrolled into Northlight School for the academic year of 2018.
+
+In her initial years in NLS, Calista was able to develop her confidence and to overcome her shyness and through her experience in the Red Cross Co-Curricular Activity which helped to accentuate a natural inclination and generous spirit to help and serve those around her. A newly confident Calista was able to get along well with her teachers and classmates and as her form teacher in 2019 observed: “Calista is a self-motivated learner and responds positively to feedback. She is proactive and takes steps to improve herself. Reliable and helpful, she is able to take on various responsibilities and requires little supervision.” In recognition of her heart for service and her proven capacity as a responsible student, Calista was formally appointed as a Student Councillor in the same year.
+
+Madam Ng is glad that Calista continues to remain positive and helpful in school and is currently enrolled in a Year 3 Hospitality Course. She is happy that NLS has been able to provide an environment where her daughter continues to thrive. She cited the example when Calista performed very well in the “International Computer Driving License Assessment for MS WORD 2010” and the time when she was presented with the S.H.I.N.E. award for an act of honesty earlier in the year which told her that Calista was indeed on the right path in terms of academic progress and character development.
+
+Madam Ng hopes that Calista will be able to graduate from NLS and progress to ITE where she can continue to build a better future for herself.
+
+<img src="/images/PSG - Ris Umairah.jpg" style="width:30%" align=left>
+
+Name of parent: **Madam Rohayah** <br>
+Name of child: **Riz U'mairah** <br>
+Class: **3HS1 \[Year 2020\]**
+
+As a child, U'mairah was diagnosed with Dyslexia for which she continues to receive remediation from the Dyslexia Association of Singapore. As a parent, Madam Rohayah was disturbed by the struggles that U'mairah faced when in Primary School especially during language lessons which required reading aloud, word interpretation and spelling. These difficulties manifested itself in tantrums which was compounded by U’mairah’s hyperactivity.
+
+Since enrolling in NLS, Madam Rohayah has noticed a change in her daughter’s demeanour and confidence levels. U'mairah has made great progress in her schooling and it is evident that she has a more positive attitude now than before. For that Madam Rohayah is truly grateful to the school for creating a climate of positivity for her daughter and for her teachers who have always been encouraging. Another area Madam Rohayah noted was U’mairah’s resilience and a newfound “Can-do” attitude which was a pleasant surprise to her. Following from her second-year subject option exercise, U'mairah had initially set her heart on enrolling in “Retail Services” but was posted to “Hospitality Services”. Instead of being disappointed in the outcome, U'mairah adapted to her new reality and by all accounts is doing fine in class.
+
+Madam Rohayah has hopes for her child and is appreciative that NLS continues to be a place where her daughter can continue to learn skills in a safe and conducive environment and develop her independence so that she can be more self-reliant in future.
+
+Name of parent: **Mr Jeffrey Lee** <br>
+Name of child: **Grace Lee** <br>
+Class: **2T1 \[2020\]**
+
+Grace was not the physically healthiest of children in Primary school according to her father Mr Jeffrey Lee. To make matters worse, she was often bullied in school from Primary Four to Six and Mr Lee remembers that these were some of the contributory factors to Grace not sitting for some of her PSLE papers in Primary Six. Consequently she was enrolled in NLS.
+
+Despite his initial misgivings about NLS, Mr Lee began to notice the difference in his daughter as she started her post-Primary education. For one, he now noticed that Grace appeared to be happier and confident in his interactions with her. He also noted that unlike in her Primary school, Grace was no longer inundated with homework or assessments which gave her an outlet to pursue other interests and reduce stress. He was also pleasantly surprised at the eagerness Grace had for wanting to attend school every single day; a far cry from her Primary school days.
+
+According to Mr Lee, Grace has shown a great deal of interest and aptitude in the area of Info-Comm Technology (ICT) in school. She has expressed interest in pursuing ICT in ITE eventually and beyond. Mr Lee credits the NLS teachers for being helpful, supportive and more importantly inculcating a love for learning his daughter for which he is grateful. He is also considering enrolling Grace in external ICT courses to continue to fuel her passion and learning in this area.
+
+While he is not sure what the future might bring, Mr Lee believes that Grace has aspirations beyond NLS which is to enrol in ITE and from there to gain admission to a Polytechnic to pursue her further studies. For now he is taking it day by day and grateful for the gains Grace has made in her time in NLS so far. According to Mr Lee, it is his hope that Grace will one day in the not too distant future return to NLS as an alumnus to share how NLS has helped her to succeed in life.
+
+<img src="/images/PSG - Kelly Koh.jpg" style="width:35%" align=right>
+
+Name of parent: **Madam Michelle Koh** <br>
+Name of child: **Kelly Koh** <br>
+Class: **3HS2 \[2020\]**
+
+Madam Koh remembers vividly the day when her daughter Kelly collected her PSLE results in 2017. It was a sad and disappointing time for her as it was revealed by Kelly’s co-form teacher that Kelly had failed her PSLE. She remembered being presented with the option of enrolling Kelly in NLS or in Assumption Pathway School by the same teacher with the advice that it would be unwise for Kelly to repeat her Primary Six again. Despite her husband’s wish for Kelly to attempt the PSLE again, Madam Koh brought Kelly to the NLS Open House to explore her options. She was pleasantly surprised when Kelly exercised her independence and made her own decision by insisting on joining NLS and not to repeat.
+
+Upon Kelly’s enrolment in NLS, both parents noticed a gradual change in Kelly’s behaviour and attitude towards school. For starters, in her first year, both parents were amazed at how much enthusiasm Kelly had for school. Madam Koh recounts that Kelly would always insist on coming to school regardless and even when she was unwell, would be reluctant to obtain a medical certificate that would cause her to be absent from school. Madam Koh also began to notice a discernible improvement in her confidence levels when it came to her studies. Mathematics had always been a major obstacle for Kelly during Primary school which was reflected in her lack of interest in the subject and her subsequent performance in the PSLE. In NLS, Kelly put that all behind her and happily confided to Madam Koh that she was able to understand what her Mathematics teachers were teaching in class and she subsequently passed her Mathematics Examination.
+
+Madam Koh and her husband are grateful and appreciative to NLS and the teachers in the school for being helpful and supportive of Kelly. They can see that Kelly really enjoy her studies in school and her confidence levels have certainly risen. This was further affirmed when Kelly was formally appointed as a Student Councillor in 2019 and is currently enrolled in the Hospitality course for her third year which she appears to be thriving. They are grateful and appreciative of the support structures in place to scaffold their daughter’s learning and the opportunities afforded to her as a student leader. More importantly, they have no regrets in having made the decision for Kelly to continue her studies in NLS.
