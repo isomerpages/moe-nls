@@ -48,3 +48,5 @@ He is now doing well in school and hopes to go to university.
 “I hope to show everyone that NorthLight is not a school for failures, but a school of second chances,” he said.
 
 _A version of this article appeared in the print edition of The Straits Times on September 22, 2016, with the headline ‘More NorthLight students making it to tertiary institutions_
+
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
