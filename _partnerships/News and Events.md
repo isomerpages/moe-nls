@@ -34,3 +34,13 @@ Throughout his time at Tampines North Primary School, Mr Kenneth Yong could not 
 <img style="width:20%" align=left src="/images/more1.jpg">
 </a></p>
 <br clear=left><br><br>
+
+<img src="/images/Principal - Mr Martin Tan.jpg" style="width:50%">
+
+**NORTHLIGHT STAFF PULL OUT ALL THE STOPS TO HELP THEIR STUDENTS**<br>
+When he received a call five years ago asking if he would like to take the helm at NorthLight School, Mr Martin Tan, then principal of Anderson Primary School, did not hesitate. He said: “I grew up in a lower-income family. All my opportunities growing up came from school. “As principal, I realised this was...
+
+<p><a href="https://www.ezhishi.net/CKPSebook2022/">
+<img style="width:20%" align=left src="/images/more1.jpg">
+</a></p>
+<br clear=left><br><br>
