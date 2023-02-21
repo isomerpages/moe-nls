@@ -33,3 +33,5 @@ All individuals interacting with students shall:
 Partners are expected to inform the school if they face any conflict of interest in carrying out their involvement with the school (e.g. other commitments, roles in other organisations).
 
 Any breaches of the Partners' Code of Conduct may lead to a warning of unacceptable behaviour or immediate termination of services as a partner.
+
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
