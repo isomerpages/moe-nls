@@ -25,3 +25,13 @@ third_nav_title: Alumni
 |:-:|---|---|
 | **Mohd Abdillah (Member)**  | **NurFarahiya (Member)**  | **Sarah Parker (Member)**  |
 |   |   |   |
+
+<img src="/images/oac7.jpg" style="width:30%;margin-right:15px;" align = "left">
+<br clear=left>
+
+<table>
+	<tr>
+		<td><b>Mohd Shahrul (Member)</b></td>
+	</tr>
+	</table>
+	
