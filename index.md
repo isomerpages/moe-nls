@@ -17,6 +17,7 @@ sections:
       description: Dear All, It is my pleasure to welcome you to our school websites.
         Thank you for taking time to visit and we hope our website will provide
         a good glimpse into..
-      button: Button Text
+      button: More..
       alt: Image alt text
+      url: d
 ---
