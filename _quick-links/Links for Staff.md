@@ -21,3 +21,5 @@ description: ""
 *   One Portal All Learners (OPAL 2.0): [https://idm.opal2.moe.edu.sg/](https://idm.opal2.moe.edu.sg/)
 *   Human Resource Online (HR Online): [https://intranet.moe.gov.sg/hronline/pages/home.aspx](https://intranet.moe.gov.sg/hronline/pages/home.aspx) **SITE NOT FOUND**
 *   Academy of Singapore Teachers: [https://academyofsingaporeteachers.moe.edu.sg/](https://academyofsingaporeteachers.moe.edu.sg/)
+
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
