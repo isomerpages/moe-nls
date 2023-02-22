@@ -37,5 +37,5 @@ sections:
   - infobar:
       title: TESTIMONIALS
       button: Click here to view more
-      url: d
+      url: /homepage-testimonials/
 ---
