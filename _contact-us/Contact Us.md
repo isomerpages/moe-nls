@@ -17,3 +17,12 @@ Singapore 327830
 
 **Nearest MRT Station:**<br>
 Boon Keng (NE9) EXIT A
+
+**Office Hours (General Office)**
+
+<u>School Term</u><br>
+7.00 am – 5.30 pm – Monday to Thursday<br>
+7.00 am – 5.00 pm – Friday (closed on Sat, Sun and Public Holidays)<br>
+Tel: 6929 6290<br>
+Fax: 6291 2423<br>
+Email:  [nls@moe.edu.sg](mailto:nls@moe.edu.sg)
