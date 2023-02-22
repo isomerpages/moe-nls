@@ -24,3 +24,8 @@ TEACHER (COMMUNITY CARE SUPPORT)
 *   Qualification in ACTEP/PCTE, WSQ ACTA and/or DACE with relevant training experience would be an added advantage
 *   Minimum 2 years of working experience in Community Care or Healthcare related industry
 
+**Only Singaporeans may apply**
+
+Interested applicants please [download](https://www.nls.edu.sg/qql/slot/u194/Academic/Teacher%20-%20Engineering%20Services/Form_R2_NLS_Job_Application_Form_12_Jan_2015.docx) the application form and email your completed form with full resume, copies of academic certificates and contact details to [NLS\_Career@moe.edu.sg](mailto:NLS_Career@moe.edu.sg).
+
+Incomplete applications will not be considered. Shortlisted applicants will be notified within a month from application date.
