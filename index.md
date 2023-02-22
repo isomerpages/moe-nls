@@ -31,7 +31,7 @@ sections:
       title: NEWS AND EVENTS
       description: ASYRAF CHUMINO ON HOW HE GOT INTO A POLYTECHNIC WITHOUT A PSLE CERT
       button: More..
-      url: d
+      url: /news-events-1/
       image: /images/ASYRAF CHUMINO.png
       alt: Image alt text
 ---
