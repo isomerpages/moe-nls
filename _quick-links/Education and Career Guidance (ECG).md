@@ -5,7 +5,10 @@ description: ""
 ---
 ## EDUCATION AND CAREER GUIDANCE (ECG)
 
-<img src="/images/ecg.jpg" style="width:85%">
+|   |   |   |
+|:-:|---|---|
+| **Year 1-2**<br><br>**Vocation Selection**<br><br>Discover your vocation through career assessments of your strengths and personalised counselling. Gain from ECG and explore the right career opportunities aligned to your  vocation choice.  |   |   |
+|   |   |   |
 
 | **ECG Links**  |   |
 |:-:|---|
