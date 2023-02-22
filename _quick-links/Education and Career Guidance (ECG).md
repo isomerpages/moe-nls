@@ -7,7 +7,7 @@ description: ""
 
 |   |   |   |
 |:-:|---|---|
-| **Year 1-2**<br><br>**Vocation Selection**<br><br>Discover your vocation through career assessments of your strengths and personalised counselling. Gain from ECG and explore the right career opportunities aligned to your  vocation choice.  | **Year 3-4**<br><br>**Career Selection & Planning**<br><br>Discover your desired career based on your unique strengths and abilities, and get career counselling on your targeted career options to plan your course  and institution. Benefit from the guidance from career counsellor and create a  plan for your career progression.  |   |
+| **Year 1-2**<br><br>**Vocation Selection**<br><br>Discover your vocation through career assessments of your strengths and personalised counselling. Gain from ECG and explore the right career opportunities aligned to your  vocation choice.  | **Year 3-4**<br><br>**Career Selection & Planning**<br><br>Discover your desired career based on your unique strengths and abilities, and get career counselling on your targeted career options to plan your course  and institution. Benefit from the guidance from career counsellor and create a  plan for your career progression.  | **Graduates**<br><br>**Career Selection & Development**<br><br>Discover your next career move, aligned with your values, interests and skills. Accelerate your career through personalised guidance and support from career counsellors.  |
 |   |   |   |
 
 | **ECG Links**  |   |
