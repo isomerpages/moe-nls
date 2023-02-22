@@ -12,10 +12,11 @@ sections:
         - title: Parenting Workshop
           description: Click here to view More
           url: https://staging.d3ppv5aou1nj99.amplifyapp.com/files/Revised%20-%20Triple%20P%20L2%20Sec%202023%20Run%202%20Flyer.pdf
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: Principal's Message
+      description: Dear All, It is my pleasure to welcome you to our school websites.
+        Thank you for taking time to visit and we hope our website will provide
+        a good glimpse into..
+      button: Button Text
+      alt: Image alt text
 ---
