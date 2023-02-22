@@ -46,4 +46,3 @@ A living and learning community.
 
 <p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
 
-[View More](/files/Revised%20-%20Triple%20P%20L2%20Sec%202023%20Run%202%20Flyer.pdf)
