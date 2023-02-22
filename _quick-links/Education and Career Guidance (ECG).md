@@ -18,11 +18,11 @@ description: ""
 | Committee for Private Education (CPE)  | [https://www.ssg.gov.sg/cpe/pei.html](https://www.ssg.gov.sg/cpe/pei.html)  |
 | Workforce Skills Qualifications (WSQ)  | [http://www.ssg.gov.sg/wsq.html](http://www.ssg.gov.sg/wsq.html)  |
 | Lifelong Learning Institute  | [https://www.lli.sg](https://www.lli.sg/)  |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
-|   |   |
+|   | **Career and Employment**  |
+| Employment and Employability Institute  |   |
+| My Careers Future  |   |
+| My SkillsFuture  |   |
+| WorkRight  |   |
 |   |   |
 |   |   |
 |   |   |
