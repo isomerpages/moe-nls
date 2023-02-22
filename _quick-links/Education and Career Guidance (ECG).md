@@ -9,8 +9,8 @@ description: ""
 
 | **ECG Links**  |   |
 |:-:|---|
-|   | **Progression Path**  |
-|   |   |
+|   | **Progression Path**<br><br><p><a href="https://www.ezhishi.net/CKPSebook2022/"><img style="width:50%" src="/images/clickhere.jpg"></a></p>  |
+| Singapore Industry Landscape  |   |
 |   |   |
 |   |   |
 |   |   |
