@@ -27,4 +27,11 @@ sections:
       alt: Image alt text
       url: /homepage-principalmsg/
       image: /images/School Leaders 2022.jpeg
+  - infopic:
+      title: NEWS AND EVENTS
+      description: ASYRAF CHUMINO ON HOW HE GOT INTO A POLYTECHNIC WITHOUT A PSLE CERT
+      button: More..
+      url: d
+      image: /images/ASYRAF CHUMINO.png
+      alt: Image alt text
 ---
