@@ -28,7 +28,7 @@ description: ""
 | WorkRight  | [https://www.mom.gov.sg/employment-practices/employment-act/workright](https://www.mom.gov.sg/employment-practices/employment-act/workright)  |
 |   | **Successful Stories**  |
 | **Aaron Liew**<br>Pay It Forward <br><a href="https://stomp.straitstimes.com/singapore-seen/get-inspired/ex-northlight-student-does-sweet-gesture-to-pay-it-forward-after-getting"><img style="width:100%" src="/images/clickhere.jpg"></a></p> | <img src="/images/Pay It Forward (Inspiring).jpg" style="width:60%">  |
-|   |   |
+| **Paul Tan**<br>Educational and Career Pathway <br><a href="https://www.myskillsfuture.sg/content/student/en/secondary/world-of-work/industry-landscape/industry-articles/personal-stories---paul-tan.html"><img style="width:100%" src="/images/clickhere.jpg"></a></p>**SITE NOT FOUND**  | <img src="/images/Educational and Career Pathway - Paul Tan.png" style="width:85%">  |
 |   |   |
 |   |   |
 |   |   |
