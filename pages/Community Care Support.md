@@ -29,3 +29,5 @@ TEACHER (COMMUNITY CARE SUPPORT)
 Interested applicants please [download](https://www.nls.edu.sg/qql/slot/u194/Academic/Teacher%20-%20Engineering%20Services/Form_R2_NLS_Job_Application_Form_12_Jan_2015.docx) the application form and email your completed form with full resume, copies of academic certificates and contact details to [NLS\_Career@moe.edu.sg](mailto:NLS_Career@moe.edu.sg).
 
 Incomplete applications will not be considered. Shortlisted applicants will be notified within a month from application date.
+
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
