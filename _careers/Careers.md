@@ -15,3 +15,6 @@ We invite mission-minded individuals with the requisite skill sets and experienc
 
 **Dear Applicants,** <br>
 Kindly email the duly completed Job Application Form and supporting documents to **[NLS\_Career@moe.edu.sg](mailto:nls_career@moe.edu.sg)**.
+
+**TEACHING POSITIONS**<br>
+1 \. [Teacher - Community Care Support](/community-care-support/)
