@@ -34,4 +34,8 @@ sections:
       url: /news-events-1/
       image: /images/ASYRAF CHUMINO.png
       alt: Image alt text
+  - infobar:
+      title: TESTIMONIALS
+      button: Click here to view more
+      url: d
 ---
