@@ -13,6 +13,14 @@ description: ""
 |   | **Industry Information**  |
 | Singapore Industry Landscape  | [https://www.myskillsfuture.gov.sg/content/student/en/secondary/world-of-work/industry-landscape.html](https://www.myskillsfuture.gov.sg/content/student/en/secondary/world-of-work/industry-landscape.html)  |
 |   | **Continuing and Lifelong Learning**  |
+| Institute of Technical Education (ITE)  | [https://www.ite.edu.sg/wps/portal/fts](https://www.ite.edu.sg/wps/portal/fts)  |
+| Mountbatten Vocational School (MVS)  | [http://mvs.edu.sg/](http://mvs.edu.sg/)  |
+| Committee for Private Education (CPE)  | [https://www.ssg.gov.sg/cpe/pei.html](https://www.ssg.gov.sg/cpe/pei.html)  |
+| Workforce Skills Qualifications (WSQ)  | [http://www.ssg.gov.sg/wsq.html](http://www.ssg.gov.sg/wsq.html)  |
+| Lifelong Learning Institute  | [https://www.lli.sg](https://www.lli.sg/)  |
+|   |   |
+|   |   |
+|   |   |
 |   |   |
 |   |   |
 |   |   |
