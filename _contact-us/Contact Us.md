@@ -18,8 +18,7 @@ Singapore 327830
 **Nearest MRT Station:**<br>
 Boon Keng (NE9) EXIT A
 
-**Office Hours (General Office)**
-
+**Office Hours (General Office)**<br>
 <u>School Term</u><br>
 7.00 am – 5.30 pm – Monday to Thursday<br>
 7.00 am – 5.00 pm – Friday (closed on Sat, Sun and Public Holidays)<br>
