@@ -19,10 +19,10 @@ description: ""
 | Workforce Skills Qualifications (WSQ)  | [http://www.ssg.gov.sg/wsq.html](http://www.ssg.gov.sg/wsq.html)  |
 | Lifelong Learning Institute  | [https://www.lli.sg](https://www.lli.sg/)  |
 |   | **Career and Employment**  |
-| Employment and Employability Institute  |   |
-| My Careers Future  |   |
-| My SkillsFuture  |   |
-| WorkRight  |   |
+| Employment and Employability Institute  | [https://e2i.com.sg/](https://e2i.com.sg/)  |
+| My Careers Future  | [https://www.mycareersfuture.sg/](https://www.mycareersfuture.sg/)  |
+| My SkillsFuture  | [https://www.myskillsfuture.gov.sg/](https://www.myskillsfuture.gov.sg/)  |
+| WorkRight  | [https://www.mom.gov.sg/employment-practices/employment-act/workright](https://www.mom.gov.sg/employment-practices/employment-act/workright)  |
 |   |   |
 |   |   |
 |   |   |
