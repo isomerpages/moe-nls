@@ -24,7 +24,7 @@ description: ""
 | My SkillsFuture  | [https://www.myskillsfuture.gov.sg/](https://www.myskillsfuture.gov.sg/)  |
 | WorkRight  | [https://www.mom.gov.sg/employment-practices/employment-act/workright](https://www.mom.gov.sg/employment-practices/employment-act/workright)  |
 |   | **Successful Stories**  |
-| **Aaron Liew**<br>Pay It Forward <br><a href="/curriculum/progression-path/"><img style="width:100%" src="/images/clickhere.jpg"></a></p> |   |
+| **Aaron Liew**<br>Pay It Forward <br><a href="/curriculum/progression-path/"><img style="width:100%" src="/images/clickhere.jpg"></a></p> | <img src="/images/Pay It Forward (Inspiring).jpg" style="width:60%">  |
 |   |   |
 |   |   |
 |   |   |
