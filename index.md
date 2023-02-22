@@ -17,7 +17,7 @@ sections:
           url: https://staging.d3ppv5aou1nj99.amplifyapp.com/files/Revised%20-%20Triple%20P%20L2%20Sec%202023%20Run%202%20Flyer.pdf
         - title: About Us
           description: PURPOSE
-          url: ""
+          url: /purpose/
   - infopic:
       title: Principal's Message
       description: Dear All, It is my pleasure to welcome you to our school websites.
