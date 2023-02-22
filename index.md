@@ -9,6 +9,9 @@ sections:
   - hero:
       background: /images/homepage.jpg
       key_highlights:
+        - title: About Us
+          description: Mission, Values & Values
+          url: d
         - title: Parenting Workshop
           description: Click here to view More
           url: https://staging.d3ppv5aou1nj99.amplifyapp.com/files/Revised%20-%20Triple%20P%20L2%20Sec%202023%20Run%202%20Flyer.pdf
