@@ -19,5 +19,6 @@ sections:
         a good glimpse into..
       button: More..
       alt: Image alt text
-      url: d
+      url: /homepage-principalmsg/
+      image: /images/School Leaders 2022.jpeg
 ---
