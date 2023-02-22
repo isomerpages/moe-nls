@@ -25,4 +25,6 @@ Kindly email the duly completed Job Application Form and supporting documents to
 3 \. [Pastoral Care Officer (PCO](/pastoral-care-officer/)
 
 **RELIEF TEACHING POSITIONS**<br>
-1 \. [Relief Teachers]
+1 \. [Relief Teachers](/relief-teachers/)
+
+<p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
