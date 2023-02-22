@@ -38,7 +38,7 @@ sections:
       title: NEWS AND EVENTS
       description: MORE NORTHLIGHT STUDENTS MAKING IT TO TERTIARY INSTITUTIONS
       button: More..
-      url: d
+      url: /news-events-2/
       image: /images/Northlight School-Prime Minister - Mr Lee Hsien Loong.jpg
       alt: Image alt text
   - infobar:
