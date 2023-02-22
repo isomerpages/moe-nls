@@ -2,5 +2,5 @@ collections:
   quick-links:
     output: true
     order:
-      - Education and Career Guidance (ECG).md
       - Quick Links.md
+      - Education and Career Guidance (ECG).md
