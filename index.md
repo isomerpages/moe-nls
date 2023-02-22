@@ -34,6 +34,13 @@ sections:
       url: /news-events-1/
       image: /images/ASYRAF CHUMINO.png
       alt: Image alt text
+  - infopic:
+      title: NEWS AND EVENTS
+      description: MORE NORTHLIGHT STUDENTS MAKING IT TO TERTIARY INSTITUTIONS
+      button: More..
+      url: d
+      image: /images/Northlight School-Prime Minister - Mr Lee Hsien Loong.jpg
+      alt: Image alt text
   - infobar:
       title: TESTIMONIALS
       button: Click here to view more
