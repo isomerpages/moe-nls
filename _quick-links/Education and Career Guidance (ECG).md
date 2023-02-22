@@ -31,7 +31,7 @@ description: ""
 | **Paul Tan**<br>Educational and Career Pathway <br><a href="https://www.myskillsfuture.sg/content/student/en/secondary/world-of-work/industry-landscape/industry-articles/personal-stories---paul-tan.html"><img style="width:100%" src="/images/clickhere.jpg"></a></p>**SITE NOT FOUND**  | <img src="/images/Educational and Career Pathway - Paul Tan.png" style="width:85%">  |
 | **Millenia Silvainti**<br>“School changed my life” <br><a href="/testimonials-4/"><img style="width:100%" src="/images/clickhere.jpg"></a></p>  | <img src="/images/School changed my life - Millenia Silvainti.png" style="width:40%">  |
 | **Mohd Azian Abdullah Lim**<br>From failure to first-rate student <br><a href="/testimonials-1/"><img style="width:100%" src="/images/clickhere.jpg"></a></p>  | <img src="/images/From failure to first-rate student - Mohd Azian Abdullah Lim.png" style="width:40%">  |
-|   |   |
+| **Muhammad Asyraf Chumino**<br>LKY-STEP awardee <br><a href="/testimonials-1/"><img style="width:100%" src="/images/clickhere.jpg"></a></p>  | <img src="/images/LKY-STEP awardee - Muhammad Asyraf Chumino.jpg" style="width:85%">  |
 |   |   |
 |   |   |
 |   |   |
