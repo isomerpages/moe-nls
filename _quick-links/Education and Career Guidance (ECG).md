@@ -10,9 +10,9 @@ description: ""
 | **ECG Links**  |   |
 |:-:|---|
 |   | **Progression Path**<br><br><p><a href="https://www.ezhishi.net/CKPSebook2022/"><img style="width:50%" src="/images/clickhere.jpg"></a></p>  |
-| Singapore Industry Landscape  |   |
-|   |   |
-|   |   |
+|   | **Industry Information**  |
+| Singapore Industry Landscape  | [https://www.myskillsfuture.gov.sg/content/student/en/secondary/world-of-work/industry-landscape.html](https://www.myskillsfuture.gov.sg/content/student/en/secondary/world-of-work/industry-landscape.html)  |
+|   | **Continuing and Lifelong Learning**  |
 |   |   |
 |   |   |
 |   |   |
