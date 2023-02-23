@@ -28,7 +28,7 @@ To safeguard our students’ data, only parents who are registered in the offici
 
 \*Please note that the information shown on Parents Gateway is taken from the student records in the MOE database. If there are any discrepancies in the data shown on Parents Gateway, please contact the school at [nls@moe.edu.sg](mailto:nls@moe.edu.sg) to update the data.
 
-<u>**FAQs for your information:**</u>
+<u>FAQs for your information:</u>
 
 **What is Parents Gateway?**
 
