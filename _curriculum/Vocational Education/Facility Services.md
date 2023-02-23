@@ -71,7 +71,7 @@ The 9-week Industry Experiential Programme (IEP) module is compulsory for all fi
  </figcaption>
 </figure>
 
-<u><b>Elective For Facility Services</u></b>
+<u>Elective For Facility Services</u>
 
 **Students must complete a minimum of 3 electives at the end of the course.** 
 
@@ -82,7 +82,7 @@ The 9-week Industry Experiential Programme (IEP) module is compulsory for all fi
 *   Retail Fundamentals   
 *   Basic Restaurant Service
 
-<u><b>Taster Programme for Facility Services</u></b>
+<u>Taster Programme for Facility Services</u>
 
 The taster programme for the ISC in Facility Services aims to provide students with some exposures to the skills and knowledge relevant to what they will be learning when taking ISC in Facility Services course in year 3. This taster programme also serves to aid students to make an informed decision when selecting ISC module at the end of year 2. Students will have the opportunity to acquire some basic skills in plumbing system maintenance, electrical system maintenance, refrigeration system maintenance and air-conditioning system maintenance after completing the taster programme.
 
