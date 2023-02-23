@@ -65,7 +65,7 @@ Madam Ng is glad that Calista continues to remain positive and helpful in school
 
 Madam Ng hopes that Calista will be able to graduate from NLS and progress to ITE where she can continue to build a better future for herself.
 
-<img src="/images/PSG - Ris Umairah.jpg" style="width:30%" align=left>
+<img src="/images/mdm.jpg" style="width:30%" align=left>
 
 Name of parent: **Madam Rohayah** <br>
 Name of child: **Riz U'mairah** <br>
