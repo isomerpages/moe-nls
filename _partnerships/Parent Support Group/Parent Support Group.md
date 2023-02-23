@@ -89,7 +89,7 @@ According to Mr Lee, Grace has shown a great deal of interest and aptitude in th
 
 While he is not sure what the future might bring, Mr Lee believes that Grace has aspirations beyond NLS which is to enrol in ITE and from there to gain admission to a Polytechnic to pursue her further studies. For now he is taking it day by day and grateful for the gains Grace has made in her time in NLS so far. According to Mr Lee, it is his hope that Grace will one day in the not too distant future return to NLS as an alumnus to share how NLS has helped her to succeed in life.
 
-<img src="/images/PSG - Kelly Koh.jpg" style="width:35%" align=right>
+<img src="/images/michelle.jpg" style="width:35%" align=right>
 
 Name of parent: **Madam Michelle Koh** <br>
 Name of child: **Kelly Koh** <br>
