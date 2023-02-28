@@ -33,7 +33,7 @@ sections:
       button: More..
       url: /news-events-1/
       image: /images/ASYRAF CHUMINO.png
-      alt: Image alt text
+      alt: Asyraf Chumino
   - infopic:
       title: News and Events
       description: More NorthLight students making it to tertiary institutions
