@@ -7,7 +7,7 @@ third_nav_title: School Organisation
 ## ADMINISTRATIVE STAFF
 
 |   |   |
-|:-:|---|
+|---|---|
 | **Finance & Procurement Unit**  |   |
 | Ms Lee May Yong  | Manager  |
 | Ms Yeu Sharon  | Senior Officer, Finance  |
