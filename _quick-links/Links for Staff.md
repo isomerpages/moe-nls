@@ -13,8 +13,8 @@ description: ""
 
 **PROFESSIONAL & HR MATTERS:**
 
-*   MOE Intranet: [https://intranet.moe.gov.sg/Pages/Home.aspx](https://intranet.moe.gov.sg/Pages/Home.aspx) **SITE NOT FOUND**
-*   MOE Identity Management System (MIMS): [https://idp.mims.moe.gov.sg/nidp/saml2/sso](https://idp.mims.moe.gov.sg/nidp/saml2/sso)
+*   MOE Intranet: [https://intranet.moe.gov.sg](https://intranet.moe.gov.sg)
+*   MOE Identity Management System (MIMS): [https://portal.mims.moe.gov.sg](https://portal.mims.moe.gov.sg)
 *   ITE SSO Portal: [https://myportal.ite.edu.sg/](https://myportal.ite.edu.sg/)
 *   MOE Icon email: [https://icon.moe.edu.sg/](https://icon.moe.edu.sg/)
 *   Human Resource and Payroll (HRP): [https://www.hrp.gov.sg/hrp/#/](https://www.hrp.gov.sg/hrp/#/)
