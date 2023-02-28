@@ -28,21 +28,21 @@ sections:
       url: /homepage-principalmsg/
       image: /images/School Leaders 2022.jpeg
   - infopic:
-      title: NEWS AND EVENTS
-      description: ASYRAF CHUMINO ON HOW HE GOT INTO A POLYTECHNIC WITHOUT A PSLE CERT
+      title: News and Events
+      description: Asyraf Chumino on how he got into a polytechnic without a PSLE cert
       button: More..
       url: /news-events-1/
       image: /images/ASYRAF CHUMINO.png
       alt: Image alt text
   - infopic:
-      title: NEWS AND EVENTS
-      description: MORE NORTHLIGHT STUDENTS MAKING IT TO TERTIARY INSTITUTIONS
+      title: News and Events
+      description: More NorthLight students making it to tertiary institutions
       button: More..
       url: /news-events-2/
       image: /images/Northlight School-Prime Minister - Mr Lee Hsien Loong.jpg
       alt: Image alt text
   - infobar:
-      title: TESTIMONIALS
+      title: Testimonials
       button: Click here to view more
       url: /homepage-testimonials/
 ---
