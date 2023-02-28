@@ -24,7 +24,7 @@ links:
   - title: Partnerships
     collection: partnerships
   - title: Quick Links
-    url: /quick-links/quicklinks/
+    url: "#"
     sublinks:
       - title: NLS PDLP Infosite
         url: https://sites.google.com/moe.edu.sg/nls-pdlp-infosite/home
