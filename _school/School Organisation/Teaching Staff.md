@@ -31,8 +31,8 @@ third_nav_title: School Organisation
 | Ms Nadira Begum  | ECG Counsellor  |
 | Mr Muhammad Amirul Irsyad Bin Mohd Yusof  | AED PCO  |
 |   |   |
-| **Facility & Mechanical Services**  |   |
-| Mr Lim Kim Meng Francis  | Subject Head  |
+| **Facility Services**  |   |
+| Mr Lim Kim Meng Francis  | HOD  |
 | Mr Md Suhaili Bin Abd Latiff  | Teacher  |
 | Mr Ken Ng Seow Keng  | Teacher  |
 | Mr Daniel Liu Chih Wen  | Teacher  |
