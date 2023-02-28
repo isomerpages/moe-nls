@@ -6,9 +6,9 @@ third_nav_title: School Organisation
 ---
 ## TEACHING STAFF
 
-|   |   |
-|:-:|---|
-| **Aesthetics Department**  |   |
+|     |     |
+|---|---|
+| **Aesthetics Department** |
 | Mr Low Chee Keong, David  | HOD  |
 | Ms Tan Su Min Cheryl  | Subject Head  |
 | Mr Danny Sum Kai Meng  | Teacher  |
