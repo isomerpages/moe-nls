@@ -24,7 +24,7 @@ sections:
         Thank you for taking time to visit and we hope our website will provide
         a good glimpse into..
       button: More..
-      alt: Image alt text
+      alt: School Leaders
       url: /homepage-principalmsg/
       image: /images/School Leaders 2022.jpeg
   - infopic:
