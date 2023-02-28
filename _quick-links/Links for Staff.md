@@ -19,7 +19,7 @@ description: ""
 *   MOE Icon email: [https://icon.moe.edu.sg/](https://icon.moe.edu.sg/)
 *   Human Resource and Payroll (HRP): [https://www.hrp.gov.sg/hrp/#/](https://www.hrp.gov.sg/hrp/#/)
 *   One Portal All Learners (OPAL 2.0): [https://idm.opal2.moe.edu.sg/](https://idm.opal2.moe.edu.sg/)
-*   Human Resource Online (HR Online): [https://intranet.moe.gov.sg/hronline/pages/home.aspx](https://intranet.moe.gov.sg/hronline/pages/home.aspx) **SITE NOT FOUND**
+*   Human Resource Online (HR Online): [https://intranet.moe.gov.sg/hronline/pages/home.aspx](https://intranet.moe.gov.sg/hronline/pages/home.aspx)
 *   Academy of Singapore Teachers: [https://academyofsingaporeteachers.moe.edu.sg/](https://academyofsingaporeteachers.moe.edu.sg/)
 
 <p align="center"><a href="#"><img src="/images/arrow-up.jpg" style="width:25px; display:inline"/> Back to Top </a> </p>
