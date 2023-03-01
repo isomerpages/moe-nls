@@ -20,8 +20,8 @@ MOE Sexuality Education covers the following areas:
 *   Ethical: Values and moral systems related to sexuality.
 
 |   |   |
-|:-:|---|
-| The 6 guiding principles of MOE's Sexuality Education are:  <br><br>*   Parents play the primary role in educating their children and are responsible for teaching and transmitting values on sex and sexuality.  *   Our educators will impart knowledge, skills and values that reflect Singapore's mainstream society so that students will make informed and responsible decisions on sexuality matters.  <br>*   Aligned with our national values of encouraging heterosexual married couples to have healthy relationships with each other, and to build stable nuclear family units with extended family support.  <br>*   Only specially selected and trained teachers will teach Sexuality Education in our schools.  <br>*   Students and teachers are to respect the different attitudes, values and beliefs that different communities may have.  <br>*   Relevant community resources that are aligned and approved by MOE may be used to supplement schools' programmes.  | The MOE Sexuality Education curriculum is organised around 5 themes:  <br><br>1 \.  Human development: the onset of puberty and its psychological and emotional impact.  <br>2 \.  Interpersonal relationships: the skills and values for healthy and rewarding relationships with friends and family, including the opposite sex.  <br>3 \.  Sexual health: information and attitudes to promote sexual health and avoid unwanted consequences of sexual behaviour.  <br>4 \.  Sexual behaviour: expressions of sexuality and their effects.  <br>5 \.  Culture, society and law: societal, cultural and legal influences on sexual identity and sexual expressions.  |
+|---|---|
+| The 6 guiding principles of MOE's Sexuality Education are:  <br><br>*   Parents play the primary role in educating their children and are responsible for teaching and transmitting values on sex and sexuality. <br><br>*   Our educators will impart knowledge, skills and values that reflect Singapore's mainstream society so that students will make informed and responsible decisions on sexuality matters.  <br><br>*   Aligned with our national values of encouraging heterosexual married couples to have healthy relationships with each other, and to build stable nuclear family units with extended family support.  <br><br>*   Only specially selected and trained teachers will teach Sexuality Education in our schools.  <br><br>*   Students and teachers are to respect the different attitudes, values and beliefs that different communities may have.  <br><br>*   Relevant community resources that are aligned and approved by MOE may be used to supplement schools' programmes.  | The MOE Sexuality Education curriculum is organised around 5 themes:  <br><br>1 \.  Human development: the onset of puberty and its psychological and emotional impact.  <br><br>2 \.  Interpersonal relationships: the skills and values for healthy and rewarding relationships with friends and family, including the opposite sex.  <br><br>3 \.  Sexual health: information and attitudes to promote sexual health and avoid unwanted consequences of sexual behaviour.  <br><br>4 \.  Sexual behaviour: expressions of sexuality and their effects.  <br><br>5 \.  Culture, society and law: societal, cultural and legal influences on sexual identity and sexual expressions.  |
 |   |   |
 
 **Overview of NorthLight School Family Education**
@@ -63,7 +63,7 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexu
 **Year 1**
 
 | **LESSON**  | **DURATION**  | **Lesson Objectives  <br>At the end of the lesson, students will be able to:**  | **TIME PERIOD**  |
-|:-:|---|---|---|
+|---|---|---|---|
 | **Lesson 1: Puberty**  | 1 hour  | *   recognise the physical development during puberty in boys and girls<br>*   recognize the emotional changes at puberty<br>*   identify ways to cope with their physical & emotional changes<br>  | Term 1 or 3  |
 | **Lesson 2: Personal Hygiene**  | 1 hour  | *   understand the importance of personal hygiene<br>*   demonstrate the ability to maintain personal hygiene  |   |
 | **Lesson 3: The Real Self**  | 1 hour  | *   understand how one’s perception of his body is linked to personal experiences and the sources of information that are taken in<br>*   understand the influence of media on body image<br>*   understand that physical features are only one aspect of our person and identity  |   |
@@ -75,7 +75,7 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexu
 |   |   |   |   |
 
 | **LESSON**  | **DURATION**  | **Lesson Objectives  <br>At the end of the lesson, students will be able to:**  | **TIME PERIOD**  |
-|:-:|---|---|---|
+|---|---|---|---|
 | **Lesson 9: Love vs Infatuation**  | 1 hour  | *   understand that infatuation is temporary and a normal part of growing up<br>*   appreciate different kinds of love and crushes<br>*   demonstrate appropriate ways of showing affection towards friends, teachers and other adults  | Term 2 or 4  |
 | **Lesson 10: True Love**  | 1 hour  | *   understand what commitment and true love is  |   |
 | **Lesson 11: The Dating Game**  | 1 hour  | *   recognise the importance of developing a friendship before committing to a romantic relationship<br>*   recognise what dating involves<br>*   recognize why it is not recommended that we go steady at a young age  |   |
@@ -89,7 +89,7 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexu
 **Year 2**
 
 | **LESSON**  | **DURATION**  | **Lesson Objectives  <br>At the end of the lesson, students will be able to:**  | **TIME PERIOD**  |
-|:-:|---|---|---|
+|---|---|---|---|
 | **Lesson 1: Online Encounters**  | 1 hour  | *   express their views about information from the internet and be aware of the potential/ possible dangers of it  | Term 1 or 3  |
 | **Lesson 2: A Touchy Issue**  |1 hour   | *   recognise how new media has shaped public perception of acceptability of public display of affection<br>*   know that certain public displays of affection are not considered appropriate behaviour in our society  |   |
 | **Lesson 3: Touching Others**  | 1 hour  | *   develop healthy attitudes towards one’s body<br>*   recognize acceptable and unacceptable ways of touching others  |   |
@@ -100,7 +100,7 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexu
 |   |   |   |   |
 
 | **LESSON**  | **DURATION**  | **Lesson Objectives  <br>At the end of the lesson, students will be able to:**  | **TIME PERIOD**  |
-|:-:|---|---|---|
+|---|---|---|---|
 | **Lesson 8: In the Name of the Law**  | 1 hour  | *   understand why pre-marital and underage sex are punishable by law<br>*   reflect on the legal consequences of sexual behavior and include these considerations in their decision-making pertaining to pornography  |   |
 | **Lesson 9: Teenage Pregnancy**  | 1 hour  | *   understand the consequences of teenage pregnancy<br>*   identify sources to seek help and support from when faced with teenage pregnancy  |   |
 | **Lesson 10: Abortion**  | 1 hour  | *   explain the process of abortion<br>*   recognise the effects of abortion  | Term 2 or 4  |
@@ -114,7 +114,7 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexu
 **Year 3**
 
 | **LESSON**  | **DURATION**  | **Lesson Objectives  <br>At the end of the lesson, students will be able to:**  | **TIME PERIOD**  |
-|:-:|---|---|---|
+|---|---|---|---|
 | **Lesson 1: Marriage**  | 1 hour  | *   define what cohabitation is and evaluate the consequences of cohabitation<br>*   recognize that commitment is a necessary ingredient for success in a marriage<br>*   identify responsibilities involved and the challenges faced in a marriage<br>*   evaluate the consequences of divorce on the family members  | Term 2 or 4  |
 | **Lesson 2: Love Conquers All**  | 1 hour  | *   reflect on the qualities of a healthy romantic relationship  |   |
 | **Lesson 3: Family**  | 1 hour  | *   distinguish differences in family types and the structural roles of family members<br>*   understand that each family performs the same basic functions of providing love, protection, guidance and support  |   |
@@ -128,7 +128,7 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexu
 **Year 4**
 
 | **LESSON**  | **DURATION**  | **Lesson Objectives  <br>At the end of the lesson, students will be able to:**  | **TIME PERIOD**  |
-|:-:|---|---|---|
+|---|---|---|---|
 | **Lesson 1: Being Safe**  | 1 hour  | *   learn about stranger danger, and the pros & cons of making friends over social networking platforms<br>*   recognise the inappropriate touch from ‘familiar’ adults and about ‘crossing boundaries’  | Term 1 & 2 or 3  |
 | **Lesson 2: Respecting Others**  | 1 hour  | *   learn what sexual expletives really mean<br>*   learn that hurling vulagarites, calling names or labelling others inappropriately as gay, lesbian, isolating others based on appearance or behaviour traits are acts of discrimination and bullying  |   |
 | **Lesson 3: PorNOgraphy**  | 1 hour  | *   recognise how how peer pressure can influence decision-making<br>*   learn how to resist peer pressure and temptations to watch porn or commit sexual acts  |   |
@@ -145,7 +145,7 @@ You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexu
 **At NorthLight School, the _eTeens_ programme will be implemented as follows in 2023:**
 
 | **Topics/Lessons**  | **Programme Learning Objectives**  | **Time Period**  |
-|:-:|---|---|
+|---|---|---|
 | Mass Talk by HPB appointed vendor  | *   Awareness of the different STIs and HIV/AIDS<br>*   Modes of transmission<br>*   Modes of protection, specifically on how the condom is used<br>*   Consequences and impact of STIs/HIV  | Term 3  |
 | Classroom-based Lesson  | *   Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making  | Term 2 or 4  |
 |   |   |   |
