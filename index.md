@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/homepage.jpg
+      background: /images/homepage_2.jpg
       key_highlights:
         - title: About Us
           description: MISSION, VISION & VALUES
