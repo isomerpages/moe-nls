@@ -77,9 +77,7 @@ The Community Care Support taster programme aims to provide students with import
 <img src="/images/Taster.png" style="width:85%">
 
 **PROGRESSION & CAREER OPPORTUNITIES FOR ISC IN COMMUNITY CARE SUPPORT**<br>
-Upon successful completion of the ITE Skills Certificate (ISC) in Community Care Support course, students with a minimum GPA score of 2.5 will be eligible to apply for the following ITE _Nitec_ courses.
-
-The available Nitec courses are:
+Upon successful completion of the ITE Skills Certificate (ISC) in Community Care Support course, students with a minimum GPA score of 2.5 will be eligible to apply for the following ITE _Nitec_ courses:
 
 *   _Nitec_ in Community Support and Social Services\*
 *   _Nitec_ in Retail Services\*
