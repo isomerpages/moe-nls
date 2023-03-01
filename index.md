@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: NorthLight School
-description: An Isomer site of the Singapore Government
+description: The Official website of NorthLight School
 image: /images/logo.jpg
 permalink: /
 notification: ""
