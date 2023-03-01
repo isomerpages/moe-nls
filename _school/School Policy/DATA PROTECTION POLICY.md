@@ -86,7 +86,7 @@ c. Would like to obtain access and make corrections to your Personal Data,
 
 14 \. As part of our efforts to ensure that we properly manage, protect and process your personal data, we will be reviewing our policies, procedures and processes from time to time.
 
-15 \. We may amend the terms of this Data Protection Policy at our absolute discretion. Any amended Data Protection Policy will be posted on our website and can be viewed at [https://nls.edu.sg/school/data-protection-policy](https://nls.edu.sg/school/data-protection-policy). **LINK NOT FOUND**
+15 \. We may amend the terms of this Data Protection Policy at our absolute discretion. Any amended Data Protection Policy will be posted on our website and can be viewed at [https://nls.edu.sg/school/school-policy/dpp](https://nls.edu.sg/school/school-policy/dpp). **LINK NOT FOUND**
 
 <p align=right><b>Last updated 23 May 2019</b></p>
 
