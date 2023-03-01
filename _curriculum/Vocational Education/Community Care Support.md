@@ -34,9 +34,10 @@ On completion of the module, students should be able to perform infection contro
 **COMMUNITY CARE ACTIVITIES & SERVICES**<br>
 On completion of the module, students should be able to provide support to community care and social service staff in daily operations such as meeting nutritional needs, performing screening, rendering basic first aid, performing simple wound dressings, administering topical medication, and assisting in simple healthcare procedures. In addition, students should be able to demonstrate basic attending techniques towards clients, and conduct activities.
 
-<img src="/images/CommunityCareActivities.png" style="width:85%">
+<img src="/images/CommunityCareActivities2.jpg" style="width:85%" alt="Community Care Activities & Services">
 
-Images used with permission from Kwong Wai Siu Hospital, [https://www.kwsh.org.sg/en/](https://www.kwsh.org.sg/en/) accessed on 18 August 2022
+All images used with permission from Kwong Wai Siu Hospital. Bottom image from [https://www.kwsh.org.sg/en/](https://www.kwsh.org.sg/en/) accessed on 18 August 2022
+
 
 **ENVIRONMENTAL HYGIENE & CLEANLINESS**<br>
 On completion of the module, students should be able to assist in cleaning healthcare equipment, and maintaining cleanliness and tidiness of client's and care assistant's environments. In addition, they should also be able to support community care and social service staff in maintaining inventory control records.
@@ -50,7 +51,7 @@ On completion of the module, students should be able to support community care a
 
 **INDUSTRY EXPERIENTIAL PROGRAMME**
 
-As partial fulfilment of the ITE Skills Certificate (ISC) assessment, students embark on an Industry Experiential Programme (IEP), a 9-week industry attachment, in Year 4. The main objective of the IEP is to provide students with authentic learning opportunities, to perform real-world tasks in industry settings.
+As partial fulfilment of the ITE Skills Certificate (ISC) assessment, students embark on an Industry Experiential Programme (IEP), a 10-week industry attachment, in Year 4. The main objective of the IEP is to provide students with authentic learning opportunities, to perform real-world tasks in industry settings.
 
 The main objective of the Community Care Support IEP is to provide students with authentic learning opportunities to experience and perform real-world tasks in community care and social service settings, such as supporting community care staff in carrying out routine services and assisting clients with mobility issues.
 
@@ -85,10 +86,9 @@ The available Nitec courses are:
 *   _Nitec_ in Logistics Services\*
 *   _Nitec_ in Beauty & Wellness\*
 *   _Nitec_ in Hair Fashion & Design\*
-*   _Nitec_ in Floristry\*
 *   _Nitec_ in Hospitality Operations\*
 
-\*\*Also required to meet other ITE progression criteria.
+\*Also required to meet other ITE progression criteria
 
 Or NorthLight Academy
 
