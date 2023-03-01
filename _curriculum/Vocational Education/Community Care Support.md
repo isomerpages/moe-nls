@@ -36,7 +36,7 @@ On completion of the module, students should be able to provide support to commu
 
 <img src="/images/CommunityCareActivities2.jpg" style="width:85%" alt="Community Care Activities & Services">
 
-All images used with permission from Kwong Wai Siu Hospital. Bottom image from [https://www.kwsh.org.sg/en/](https://www.kwsh.org.sg/en/) accessed on 18 August 2022
+All images used with permission from Kwong Wai Siu Hospital. Bottom image from [https://www.kwsh.org.sg/en/](https://www.kwsh.org.sg/en/) accessed on 18 August 2022
 
 
 **ENVIRONMENTAL HYGIENE & CLEANLINESS**<br>
