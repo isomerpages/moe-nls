@@ -20,7 +20,7 @@ sections:
           url: /purpose/
   - infopic:
       title: Principal's Message
-      description: Dear All, It is my pleasure to welcome you to our school websites.
+      description: Dear all, It is my pleasure to welcome you to our school websites.
         Thank you for taking time to visit and we hope our website will provide
         a good glimpse into..
       button: More..
