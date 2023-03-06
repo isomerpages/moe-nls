@@ -31,7 +31,7 @@ Students are trained to perform basic installation of piping system in buildings
 
 <img src="/images/fs1.jpg" style="width:85%">
 
-<img src="/images/Plumbing%20System%20Maintenance.jpg" style="width:75%" alt="Plumbing System Maintenance">
+<img src="/images/VE/Facility/FSB2023_1.jpg" style="width:85%" alt="plumbing services">
 
 
 **Electrical System Maintenance**
