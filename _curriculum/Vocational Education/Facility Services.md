@@ -31,6 +31,9 @@ Students are trained to perform basic installation of piping system in buildings
 
 <img src="/images/fs1.jpg" style="width:85%">
 
+<img src="/images/Plumbing%20System%20Maintenance.jpg" style="width:75%" alt="Plumbing System Maintenance">
+
+
 **Electrical System Maintenance**
 
 Students are trained to install and rectify faults in electrical wiring systems in domestic and industrial premises.
