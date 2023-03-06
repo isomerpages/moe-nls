@@ -98,7 +98,7 @@ All students are covered under the GPA Insurance Plan which provides 24-hour wo
 [https://www.income.com.sg/forms/claims/group-personal-accident-for-students-claim.aspx](https://www.income.com.sg/forms/claims/group-personal-accident-for-students-claim.aspx)<br>
 Please note that original paid hospital invoices or clinic receipts will be required.
 
-4 \. For more details on the GPA Plan, please visit the website [https://www.income.com.sg/studentgpa](https://www.income.com.sg/studentgpa)
+4 \. For more details on the GPA Plan, please visit the website [https://www.income.com.sg/studentgpa](https://www.income.com.sg/studentgpa)
 
 5 \. Most claims require prior payment to be made first. Reimbursement by NTUC Income will be done upon approval of claims.
 
