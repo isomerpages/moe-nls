@@ -6,7 +6,7 @@ third_nav_title: About Us
 ---
 ## SCHOOL SONG
 
-**REQUIRE JACKSON INPUT AUDIO**
+
 
 <center>
 	Like the stars in the sky<br>
