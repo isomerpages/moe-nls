@@ -40,6 +40,8 @@ Students are trained to install and rectify faults in electrical wiring systems 
 
 <img src="/images/fs2.jpg" style="width:85%">
 
+<img src="/images/VE/Facility/FSE2023_1.jpg"" style="width:85%">
+
 **Refrigeration System Maintenance**
 
 Students are trained to fabricate and install refrigeration piping, perform leak testing, evacuate and charge refrigeration system, replace defective components and verify refrigeration system performance.
