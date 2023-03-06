@@ -48,6 +48,8 @@ Students are trained to fabricate and install refrigeration piping, perform leak
 
 <img src="/images/fs3.jpg" style="width:85%">
 
+<img src="/images/VE/Facility/FSR2023_1.jpg" style="width:85%">
+
 **Air-Conditioning System Maintenance**
 
 Students are trained to verify air-conditioning system performance, rectify refrigerant leakage, service and replace defective components of air-conditioning system.
