@@ -51,7 +51,8 @@ Students are trained to fabricate and install refrigeration piping, perform leak
 Students are trained to verify air-conditioning system performance, rectify refrigerant leakage, service and replace defective components of air-conditioning system.
 
 <img src="/images/fs4.jpg" style="width:85%">
-<img src="/images/VE/Facility/FSA2023_1.jpg" style="width:75%" alt="Air Con services">
+
+<img src="/images/VE/Facility/FSA2023_1.jpg" style="width:85%" alt="Air Con services">
 
 **Industry Experiential Programme (IEP)**    
 
