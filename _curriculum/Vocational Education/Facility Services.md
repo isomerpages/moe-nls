@@ -40,7 +40,7 @@ Students are trained to install and rectify faults in electrical wiring systems 
 
 <img src="/images/fs2.jpg" style="width:85%">
 
-<img src="/images/VE/Facility/FSE2023_1.jpg" style="width:75%">
+<img src="/images/VE/Facility/FSE2023_1.jpg" style="width:75%" alt="Electrical services">
 
 **Refrigeration System Maintenance**
 
@@ -48,7 +48,7 @@ Students are trained to fabricate and install refrigeration piping, perform leak
 
 <img src="/images/fs3.jpg" style="width:85%">
 
-<img src="/images/VE/Facility/FSR2023_1.jpg" style="width:85%">
+<img src="/images/VE/Facility/FSR2023_1.jpg" style="width:85%" alt="Refrigeration services">
 
 **Air-Conditioning System Maintenance**
 
