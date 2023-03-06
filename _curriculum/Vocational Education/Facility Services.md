@@ -40,7 +40,7 @@ Students are trained to install and rectify faults in electrical wiring systems 
 
 <img src="/images/fs2.jpg" style="width:85%">
 
-<img src="/images/VE/Facility/FSE2023_1.jpg"" style="width:85%">
+<img src="/images/VE/Facility/FSE2023_1.jpg" style="width:75%">
 
 **Refrigeration System Maintenance**
 
