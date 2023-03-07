@@ -42,13 +42,13 @@ Students are trained to install and rectify faults in electrical wiring systems 
 
 Students are trained to fabricate and install refrigeration piping, perform leak testing, evacuate and charge refrigeration system, replace defective components and verify refrigeration system performance.
 
-<img src="/images/VE/Facility/FSR2023_1.jpg" style="width:85%" alt="Refrigeration services">
+<img src="/images/VE/Facility/FSR2023_1.jpg" style="width:75%" alt="Refrigeration services">
 
 **Air-Conditioning System Maintenance**
 
 Students are trained to verify air-conditioning system performance, rectify refrigerant leakage, service and replace defective components of air-conditioning system.
 
-<img src="/images/VE/Facility/FSA2023_1.jpg" style="width:85%" alt="Air Con services">
+<img src="/images/VE/Facility/FSA2023_1.jpg" style="width:75%" alt="Air Con services">
 
 **Industry Experiential Programme (IEP)**    
 
