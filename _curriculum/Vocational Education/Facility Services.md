@@ -29,8 +29,6 @@ The 5 core modules are :
 
 Students are trained to perform basic installation of piping system in buildings, replace water fittings, sanitary appliances and water pumping system; and interpret simple piping diagram of building/floor plan.
 
-<img src="/images/fs1.jpg" style="width:85%">
-
 <img src="/images/VE/Facility/FSB2023_1.jpg" style="width:75%" alt="plumbing services">
 
 
@@ -38,23 +36,17 @@ Students are trained to perform basic installation of piping system in buildings
 
 Students are trained to install and rectify faults in electrical wiring systems in domestic and industrial premises.
 
-<img src="/images/fs2.jpg" style="width:85%">
-
 <img src="/images/VE/Facility/FSE2023_1.jpg" style="width:75%" alt="Electrical services">
 
 **Refrigeration System Maintenance**
 
 Students are trained to fabricate and install refrigeration piping, perform leak testing, evacuate and charge refrigeration system, replace defective components and verify refrigeration system performance.
 
-<img src="/images/fs3.jpg" style="width:85%">
-
 <img src="/images/VE/Facility/FSR2023_1.jpg" style="width:85%" alt="Refrigeration services">
 
 **Air-Conditioning System Maintenance**
 
 Students are trained to verify air-conditioning system performance, rectify refrigerant leakage, service and replace defective components of air-conditioning system.
-
-<img src="/images/fs4.jpg" style="width:85%">
 
 <img src="/images/VE/Facility/FSA2023_1.jpg" style="width:85%" alt="Air Con services">
 
