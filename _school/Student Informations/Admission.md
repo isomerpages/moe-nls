@@ -20,7 +20,7 @@ Click **[HERE](/files/Joint%20Admission%20Process%20Briefing%20Slides_NLS%20Exp-
 
 <img src="/images/reg qr code.png" style="width:20%" align=right>
 
-1 \.  Please submit your online Admission Registration Form via this link: [https://go.gov.sg/nlsreg2022](https://go.gov.sg/nlsreg2022) **LINK NOT AVAILABLE** or scan QR code.
+1 \.  Please submit your online Admission Registration Form via this link: [https://go.gov.sg/nlsreg2022](https://go.gov.sg/nlsreg2022) or scan QR code.
 
 2 \. Submit the online Admission Registration Form and relevant documents by 1 Dec 2022 (Thurs), 3pm.
 
