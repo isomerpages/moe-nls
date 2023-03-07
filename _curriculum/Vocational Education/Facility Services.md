@@ -52,7 +52,7 @@ Students are trained to verify air-conditioning system performance, rectify refr
 
 **Industry Experiential Programme (IEP)**    
 
-The 9-week Industry Experiential Programme (IEP) module is compulsory for all final year students prior to their graduation. IEP provides students with the opportunities to improve their social, communication and technical skills needed for real work life upon their graduation. Their IEP is graded by industry supervisors based on their performance.
+The 10-week Industry Experiential Programme (IEP) module is compulsory for all final year students prior to their graduation. IEP provides students with the opportunities to improve their social, communication and technical skills needed for real work life upon their graduation. Their IEP is graded by industry supervisors based on their performance.
 
 <figure>
 <img src="/images/fs5.jpeg" style="width:90%">
