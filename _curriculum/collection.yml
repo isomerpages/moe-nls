@@ -1,0 +1,26 @@
+collections:
+  curriculum:
+    output: true
+    order:
+      - Framework and Objectives.md
+      - Character Education/.keep
+      - Character Education/Character Education.md
+      - Character Education/Character and Citizenship Education.md
+      - Character Education/Aesthetics.md
+      - Character Education/Discipline.md
+      - Foundation Education/.keep
+      - Foundation Education/Foundation Education.md
+      - Foundation Education/English.md
+      - Foundation Education/Mathematics.md
+      - Foundation Education/InfoComm Technology.md
+      - Vocational Education/.keep
+      - Vocational Education/Vocational Education.md
+      - Vocational Education/Community Care Support.md
+      - Vocational Education/Facility Services.md
+      - Vocational Education/Hospitality Services.md
+      - Vocational Education/Retail Services.md
+      - Vocational Education/Industry Experiential Programme.md
+      - Vocational Education/NorthLight Academy.md
+      - Family Education.md
+      - Progression Path.md
+      - Assessment Matters.md
