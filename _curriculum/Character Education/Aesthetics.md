@@ -12,6 +12,9 @@ third_nav_title: Character Education
  </figcaption>
 </figure>
 
+<img src="/images/Character Dev/Aesthetics/Aes 2023_1.jpg" style="width:90%" alt="Aesthetic services">
+
+
 **Syllabus Framework for Arts Appreciation Programme**
 
 **Aesthetics Vision –** Students to discover their talents and strengths, become thinking, creative individuals who contributes to the community.
