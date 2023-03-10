@@ -25,7 +25,7 @@ The framework objectives are for every student to be able to **Create, Explore 
 
 **Aesthetics Development Framework**
 
-
+<img src="/images/Character Dev/Aesthetics/AES 2023_2.jpg" style="width:90%" alt="Aesthetic Framework">
 
 
 
