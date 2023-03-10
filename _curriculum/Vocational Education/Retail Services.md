@@ -37,7 +37,7 @@ On completion of this module, students should be able to provide basic customer 
 On completion of this module, students should be able to prepare visual displays and arrange merchandise assortments within a mock-up shop to improve shop layout and presentation. They will also be involved in the basic design of advertisements.
 
 <img src="/images/VE_Retail/rs2.jpg" style="width:85%"
-alt="plumbing services">
+alt=" 1">
 
 
 **Basic Retail Operations**
