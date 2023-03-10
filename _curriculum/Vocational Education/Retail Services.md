@@ -8,7 +8,7 @@ third_nav_title: Vocational Education
 
 RETAIL SERVICES
 
-<img src="/images/ve4.jpg" style="width:85%">
+<img src="/images/VE_Retail/All staff.jpg" style="width:85%">
 
 **ITE SKILLS CERTIFICATE (ISC) IN RETAIL SERVICES**
 
