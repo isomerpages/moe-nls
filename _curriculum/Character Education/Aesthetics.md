@@ -32,7 +32,7 @@ The framework objectives are for every student to be able to **Create, Explore 
 |   |   |   |
 |:-:|---|---|
 | **Attributes**  <br> | **Desired outcomes** 
-Students generate ideas, explore and experiment with the art form and express themselves creatively  
+Students generate ideas, explore and experiment with the art form and express themselves creatively
 **Creating**  <br>
 | Students to develop visual literacy through the arts by creating, presenting and performing.  | Students generate ideas to respond and communicate through the exploration of the arts.  | Students discover meaningful connections between the arts and the world.  |
 |   |   |   |
