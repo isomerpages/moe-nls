@@ -19,9 +19,9 @@ third_nav_title: Character Education
 
 **Aesthetics Vision –** Students to discover their talents and strengths, become thinking, creative individuals who contributes to the community.
 
-The **Arts Appreciation Programme** Framework guides the development of the arts curriculum. It consist of pedagogical approaches for skills and character education to develop the desired learner outcome. It aims to introduce a variety of artistic forms and techniques as a foundational approach to allowing the students to broaden their knowledge and perspective of the arts.
+The **Aesthetics Development** Framework guides the holistic development of our students through the Visual and Performing Arts instructional programme and co-curriculum. It consist of pedagogical approaches for skills and character education to develop the desired learner outcomes. 
 
-The framework objectives are for every student to be able to **Create, Explore and Appreciate** the arts. Through the opportunities provided students can develop skills and awareness towards the intrinsic value of the arts.
+The framework objectives are for every student to be able to **Create, Explore and Appreciate and Respond** the arts. Through the opportunities provided, students develop knowledge and skills, and a lifelong passion for the arts and build character.
 
 <img src="/images/application.png" style="width:85%">
 
