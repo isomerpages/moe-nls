@@ -7,7 +7,6 @@ third_nav_title: Character Education
 ## AESTHETICS
 
 <figure>
-<img src="/images/2020_AES_Department.jpg" style="width:90%">
 	
 <img src="/images/Character Dev/Aesthetics/AES 2023_1.jpg" style="width:90%" alt="Aesthetic services">
 	
