@@ -23,9 +23,12 @@ The **Aesthetics Development** Framework guides the holistic development of ou
 
 The framework objectives are for every student to be able to **Create, Explore and Appreciate and Respond** the arts. Through the opportunities provided, students develop knowledge and skills, and a lifelong passion for the arts and build character.
 
-<img src="/images/application.png" style="width:85%">
+**Aesthetics Development Framework**
 
-**3 key attributes of the desired learner outcome**
+
+
+
+
 
 |   |   |   |
 |:-:|---|---|
