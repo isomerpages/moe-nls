@@ -24,7 +24,7 @@ There are 5 core modules in the ISC in Retail Services course. The 5 core module
 *   **Point-of-Sale Operations**
 *   **Industry Experiential Programme (IEP)**
 
-CORE MODULES FOR RETAIL SERVICES
+**CORE MODULES FOR RETAIL SERVICES**
 
 **Customer Service**
 
@@ -40,7 +40,7 @@ On completion of this module, students should be able to prepare visual displays
 
 **Basic Retail Operations**
 
-On completion of this module, students should be able to handle the movement of appropriate merchandise, sell merchandise, handle objections, close a sale, handle store security and issues relating to workplace safety and health.
+On completion of this module, students should be able to use the appropriate inventory software to receive and return merchandise. Students should also be able to conduct stock-take, sell merchandise, handle objections, close a sale, handle store security and issues relating to workplace safety and health.
 
 <img src="/images/rs3.jpg" style="width:85%">
 
