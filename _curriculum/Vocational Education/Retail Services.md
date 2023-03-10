@@ -10,7 +10,7 @@ RETAIL SERVICES
 
 <img src="/images/ve4.jpg" style="width:85%">
 
-**ITE SKILLS CERTIFICATE IN RETAIL SERVICES**
+**ITE SKILLS CERTIFICATE (ISC) IN RETAIL SERVICES**
 
 This course provides students with the skills and technical knowledge to prepare merchandise for display on the shop floor, conduct stock-take, sell merchandise, provide customer service and handle point-of-sale operations.
 
@@ -18,11 +18,11 @@ This course provides students with the skills and technical knowledge to prepare
 
 There are 5 core modules in the ISC in Retail Services course. The 5 core modules are:
 
-*   Customer Service
-*   Merchandise Display
-*   Basic Retail Operations
-*   Point-of-Sale Operations
-*   Industry Experiential Programme (IEP)
+*  **Customer Service**
+*   **Merchandise Display**
+*   **Basic Retail Operations**
+*   **Point-of-Sale Operations**
+*   **Industry Experiential Programme (IEP)**
 
 CORE MODULES FOR RETAIL SERVICES
 
