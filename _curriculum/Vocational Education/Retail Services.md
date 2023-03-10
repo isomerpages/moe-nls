@@ -30,7 +30,7 @@ There are 5 core modules in the ISC in Retail Services course. The 5 core module
 
 On completion of this module, students should be able to provide basic customer service involving the use of communication skills over the telephone and through face-to-face contact, and to carry out service recovery where appropriate.
 
-<img src="/images/rs1.jpg" style="width:85%">
+<img src="/images/VE_Retail/rs1.jpg" style="width:85%">
 
 **Merchandise Display**
 
