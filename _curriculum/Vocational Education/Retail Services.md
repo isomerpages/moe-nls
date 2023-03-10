@@ -52,7 +52,7 @@ On completion of this module, students should be able to set up a check-out coun
 
 **Industry Experiential Programme (IEP)**
 
-As part of the ITE Skills Certificate (ISC) assessment, students embark on an Industry Experiential Programming (IEP), a 10-week industry attachment, in Year 4. Student's performance at IEP is graded by their respective industry supervisors, based on the IEP Skills List.
+As partial fulfilment of the ITE Skills Certificate (ISC) assessment, students embark on an Industry Experiential Programming (IEP), a 10-week industry attachment, in Year 4. Student's performance at IEP is graded by their respective industry supervisors, based on the IEP Skills List.
 
 The main objective of the IEP is to provide retail students with authentic learning opportunities to experience and perform tasks in real work environment, where they can discover their passion, learn about the retail settings and how the workplace deals with challenges while developing their social, communication and technical skills.
 
@@ -68,19 +68,18 @@ Students must complete a minimum of 4 electives at the end of the course.
 
 The electives offered are:
 
-*   Introduction to Digital Retailing
-*   Basic Gift Wrapping and Floral Arrangement
-*   Basic Retail Services
-*   Office Technology
-*   Department Store Operations
 *   Basic Mechanical Servicing
+*   Pre-Employment Skills
 *   Basic Restaurant Service
+*   Department Store Operations
+*   Introduction to Digital Retailing
 
-TASTER PROGRAMME FOR RETAIL SERVICES
+
+**Taster Programme for Retail Services**
 
 The retail taster programme aims to provide students with an important insight into the basic skills and knowledge related to customer service, merchandise display, basic retail operations and point-of-sale operations. It also helps students to make an informed decision when selecting the course towards the end of Year 2.
 
-PROGRESSION & CAREER OPPORTUNITIES FOR RETAIL SERVICES
+**PROGRESSION & CAREER OPPORTUNITIES FOR RETAIL SERVICES**
 
 Upon successful completion of the ITE Skills Certificate (ISC) in Retail Services course, students with a minimum GPA score of 2.5 will be eligible to apply for the following ITE _Nitec_ courses.
 
@@ -88,10 +87,9 @@ The available Nitec courses are:
 
 *   _Nitec_ in Retail Services
 *   _Nitec_ in Logistics Services
-*   _Nitec_ in Beauty & Wellness\*
-*   _Nitec_ in Hair Fashion & Design\*
-*   _Nitec_ in Floristry\*
-*   _Nitec_ in Hospitality Operations\*
+*   _Nitec_ in Beauty & Wellness
+*   _Nitec_ in Hair Fashion & Design
+*   _Nitec_ in Hospitality Operations
 
 \*Also requires to meet other ITE progression criteria.
 
@@ -99,7 +97,7 @@ Or NorthLight Academy
 
 **Career Opportunities**
 
-The job opportunities for ISC in Retail Services graduates are as follows:
+Upon successful completion of the course of study, ISC in Retail Services graduates may apply for jobs as:
 
 *   Retail Sales Associate / Assistant
 *   Sales Promoter
