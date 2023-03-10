@@ -62,7 +62,7 @@ On completion of the Retail IEP module, students should be able to integrate and
 
 <img src="/images/VE_Retail/IEP.jpg" style="width:85%">
 
-ELECTIVE FOR RETAIL SERVICES
+**ELECTIVE FOR RETAIL SERVICES**
 
 Students must complete a minimum of 4 electives at the end of the course.
 
