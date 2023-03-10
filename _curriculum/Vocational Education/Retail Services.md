@@ -52,9 +52,13 @@ On completion of this module, students should be able to set up a check-out coun
 
 **Industry Experiential Programme (IEP)**
 
-As part of the ITE Skills Certificate (ISC) assessment, final year students are required to fulfil their IEP comprising 9 weeks of industry attachment in Year 4. Their IEP is graded by industry supervisors based on the students’ performance.
+As part of the ITE Skills Certificate (ISC) assessment, students embark on an Industry Experiential Programming (IEP), a 10-week industry attachment, in Year 4. Student's performance at IEP is graded by their respective industry supervisors, based on the IEP Skills List.
 
-Internships offer students with hands-on opportunity to work in their desired field and the experience to see what it is like actually working in the real work environment. They will not only learn how their course of study applies to the real world but also gain invaluable insight to evaluate the types of jobs that match their personal interests and personality for their future career path. It also serves as a platform for students to improve social, communication and technical skills needed for their working life upon graduation.
+The main objective of the IEP is to provide retail students with authentic learning opportunities to experience and perform tasks in real work environment, where they can discover their passion, learn about the retail settings and how the workplace deals with challenges while developing their social, communication and technical skills.
+
+On completion of the Retail IEP module, students should be able to integrate and apply the knowledge and skills learnt in their course, as well as to develop greater awareness of the work environment and work ethics. They should also be able to acquire new learning and further deepen their workplace competencies.
+
+
 
 <img src="/images/RetailIEP.jpg" style="width:85%">
 
