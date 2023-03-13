@@ -19,9 +19,9 @@ third_nav_title: Character Education
 
 **Aesthetics Vision –** Students to discover their talents and strengths, become thinking, creative individuals who contributes to the community.
 
-The **Aesthetics Development** Framework guides the holistic development of our students through the Visual and Performing Arts instructional programme and co-curriculum. It consist of pedagogical approaches for skills and character education to develop the desired learner outcomes. 
+The **Aesthetics Development** Framework guides the holistic development of our students through the Visual and Performing Arts instructional programme and co-curriculum. It consist of pedagogical approaches for skills and character education to develop the desired learner outcomes.
 
-The framework objectives are for every student to be able to **Create, Explore and Appreciate and Respond** the arts. Through the opportunities provided, students develop knowledge and skills, and a lifelong passion for the arts and build character.
+The framework objectives are for every student to be able to **Create, Present, Appreciate and Respond** in the arts. Through the opportunities provided, students develop knowledge and skills, and a lifelong passion for the arts and build character.
 
 
 ![Aesthetics Development Framework](/images/Character%20Dev/Aesthetics/AES%202023_2.png)
