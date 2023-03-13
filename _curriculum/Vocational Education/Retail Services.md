@@ -8,7 +8,7 @@ third_nav_title: Vocational Education
 
 RETAIL SERVICES
 
-<img src="/images/VE_Retail/All staff.jpg" style="width:85%">
+<img src="/images/VE_Retail/All staff.jpg" style="width:85%" alt="Retail Services Staff">
 
 **ITE SKILLS CERTIFICATE (ISC) IN RETAIL SERVICES**
 
@@ -30,27 +30,54 @@ There are 5 core modules in the ISC in Retail Services course. The 5 core module
 
 On completion of this module, students should be able to provide basic customer service involving the use of communication skills over the telephone and through face-to-face contact, and to carry out service recovery where appropriate.
 
-<img src="/images/VE_Retail/rs1.jpg" style="width:85%">
+<table><tr><td>
+	<img src="/images/VE_Retail/RS1.jpg"  alt="Retail Services">
+	</td>
+	<td>
+		<img src="/images/VE_Retail/RS2.jpg" alt="Retail Services">
+	</td>
+	</tr>
+	</table>
 
 **Merchandise Display**
 
 On completion of this module, students should be able to prepare visual displays and arrange merchandise assortments within a mock-up shop to improve shop layout and presentation. They will also be involved in the basic design of advertisements.
 
-<img src="/images/VE_Retail/rs2.jpg" style="width:85%"
-alt=" 1">
+<table><tr><td style="width:42%">
+	<img src="/images/VE_Retail/RS3.jpg"  alt="Retail Services">
+	</td>
+	<td>
+			<img src="/images/VE_Retail/RS4.jpg"  alt="Retail Services">
+	</td>
+	</tr>
+	</table>
 
 
 **Basic Retail Operations**
 
 On completion of this module, students should be able to use the appropriate inventory software to receive and return merchandise. Students should also be able to conduct stock-take, sell merchandise, handle objections, close a sale, handle store security and issues relating to workplace safety and health.
 
-<img src="/images/rs3.jpg" style="width:85%">
+<table><tr><td style="width:38%">
+	<img src="/images/VE_Retail/RS5.jpg"  alt="Retail Services">
+	</td>
+	<td>
+			<img src="/images/VE_Retail/RS6.jpg"  alt="Retail Services">
+	</td>
+	</tr>
+	</table>
 
 **Point-of-Sale Operations**
 
 On completion of this module, students should be able to set up a check-out counter, handle payment, bag goods and perform end-of-day closing.
 
-<img src="/images/rs4.jpg" style="width:85%">
+<table><tr><td style="width:50%">
+	<img src="/images/VE_Retail/RS7.jpg"  alt="Retail Services">
+	</td>
+	<td>
+			<img src="/images/VE_Retail/RS8.jpg"  alt="Retail Services">
+	</td>
+	</tr>
+	</table>
 
 **Industry Experiential Programme (IEP)**
 
@@ -59,8 +86,6 @@ As partial fulfilment of the ITE Skills Certificate (ISC) assessment, students e
 The main objective of the IEP is to provide retail students with authentic learning opportunities to experience and perform tasks in real work environment, where they can discover their passion, learn about the retail settings and how the workplace deals with challenges while developing their social, communication and technical skills.
 
 On completion of the Retail IEP module, students should be able to integrate and apply the knowledge and skills learnt in their course, as well as to develop greater awareness of the work environment and work ethics. They should also be able to acquire new learning and further deepen their workplace competencies.
-
-
 
 <img src="/images/VE_Retail/IEP.jpg" style="width:85%">
 
